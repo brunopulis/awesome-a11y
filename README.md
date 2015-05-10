@@ -24,9 +24,7 @@
 
 ## Guides
 
-
 *Guides about Web Accessibility*
-
 
 * [Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course)
 
