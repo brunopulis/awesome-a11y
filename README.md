@@ -2,7 +2,7 @@
 
 > A curated list of awesome Accesibility tools, articles and resources. Inspired by [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox).
 
-**Table of Contents** 
+**Table of Contents**
 
 - [Awesome Accessibility](##awesome-accessibility)
   - [W3C Specification](#w3c-specification)
@@ -28,6 +28,8 @@
 ## Articles
 
 * [Getting Started with Web Accessibility](http://www.w3.org/WAI/gettingstarted/Overview.html)
+* [WebAIM - Introduction to Web Accessibility](http://webaim.org/intro/)
+* [What Is Web Accessibility?](http://alistapart.com/article/wiwa)
 
 ## Web Tools
 
