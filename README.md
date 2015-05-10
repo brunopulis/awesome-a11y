@@ -24,20 +24,13 @@
 
 ## Guides
 
-*Guides about Web Accessibility*
-
 * [Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course)
 
-
 ## Articles
-
-*Articles about Web Accessibility*
 
 * [Getting Started with Web Accessibility](http://www.w3.org/WAI/gettingstarted/Overview.html)
 
 ## Web Tools
-
-* Some web tools related to Web Acessibility*
 
 * [508 Checker](http://www.508checker.com/)
 * [Accessibility Developer Tools for Chrome](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
@@ -46,17 +39,11 @@
 * [Access Monitor - (pt) ](http://www.acessibilidade.gov.pt/accessmonitor/)
 * [DaSilva - (pt-br) ](http://www.dasilva.org.br/)
 
-
 ## Other Resources
 
 ## Presentations
 
-*Some presentations about Web Accessibility*
-
-
-## Twitter
-
-*Who to follow*
+## Twitter - Who to follow
 
 * [@Web Axe](https://twitter.com/webaxe)
 * [@yatil](https://twitter.com/yatil)
