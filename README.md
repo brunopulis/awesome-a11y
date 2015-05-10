@@ -1,5 +1,4 @@
 # Awesome Accessibility
-=======================
 
 > A curated list of awesome Accesibility tools, articles and resources. Inspired by [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox).
 
