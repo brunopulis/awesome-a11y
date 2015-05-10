@@ -33,7 +33,6 @@
 
 ## Articles
 
-
 *Articles about Web Accessibility*
 
 * [Getting Started with Web Accessibility](http://www.w3.org/WAI/gettingstarted/Overview.html)
