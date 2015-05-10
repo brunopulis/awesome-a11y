@@ -60,7 +60,7 @@
 
 ##Contribuing
 
-You want to contribuite to this project? [Please follow these recommendations](https://github.com/brunopulis/awesome-a11y/blob/master/contributing.md).
+You want to contribuite to this project? [Please follow these recommendations](CONTRIBUING.md).
 
 ##License
 
