@@ -28,6 +28,8 @@
 ## Articles
 
 * [Getting Started with Web Accessibility](http://www.w3.org/WAI/gettingstarted/Overview.html)
+* [WebAIM - Introduction to Web Accessibility](http://webaim.org/intro/)
+* [What Is Web Accessibility?](http://alistapart.com/article/wiwa)
 
 ## Web Tools
 
