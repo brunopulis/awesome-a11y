@@ -2,7 +2,7 @@
 
 > A curated list of awesome Accesibility tools, articles and resources. Inspired by [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox).
 
-**Table of Contents** 
+**Table of Contents**
 
 - [Awesome Accessibility](##awesome-accessibility)
   - [W3C Specification](#w3c-specification)
@@ -11,7 +11,7 @@
   - [Web Tools](#web-tools)
   - [Other Resources](#other-resources)
   - [Presentations](#presentations)
-  - [Twitter](#twitter)
+  - [Who to Follow on Twitter](#who-to-follow-on-twitter)
   - [Contribuing](#contribuing)
   - [License](#license)
 
@@ -42,7 +42,7 @@
 
 ## Presentations
 
-## Twitter - Who to follow
+## Who to Follow on Twitter
 
 * [@Web Axe](https://twitter.com/webaxe)
 * [@yatil](https://twitter.com/yatil)
