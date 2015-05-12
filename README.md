@@ -29,7 +29,7 @@
 
 * [Getting Started with Web Accessibility](http://www.w3.org/WAI/gettingstarted/Overview.html)
 * [WebAIM - Introduction to Web Accessibility](http://webaim.org/intro/)
-* [What Is Web Accessibility?](http://alistapart.com/article/wiwa
+* [What Is Web Accessibility](http://alistapart.com/article/wiwa)
 * [How I audit a website for accessibility by @marcysutton](http://substantial.com/blog/2014/07/22/how-i-audit-a-website-for-accessibility/)
 
 ## Web Tools
