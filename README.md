@@ -47,19 +47,20 @@
 
 ## Who to Follow on Twitter
 
-* [@Web Axe](https://twitter.com/webaxe)
-* [@yatil](https://twitter.com/yatil)
-* [@shawn_slh](https://twitter.com/shawn_slh)
-* [@joedolson](https://twitter.com/joedolson)
-* [@LeonieWatson](https://twitter.com/LeonieWatson)
-* [@karlgroves](https://twitter.com/karlgroves)
-* [@paciellogroup](https://twitter.com/paciellogroup)
-* [@A11YProject](https://twitter.com/A11YProject)
-* [@a11y](https://twitter.com/a11y)
-* [@ewaccess](https://twitter.com/ewaccess)
-* [@stevefaulkner](https://twitter.com/stevefaulkner)
-* [@mpaciello](https://twitter.com/mpaciello)
-* [@reinaldoferraz](https://twitter.com/reinaldoferraz)
+* [@Web Axe](http://twitter.com/webaxe)
+* [@yatil](http://twitter.com/yatil)
+* [@shawn_slh](http://twitter.com/shawn_slh)
+* [@joedolson](http://twitter.com/joedolson)
+* [@LeonieWatson](http://twitter.com/LeonieWatson)
+* [@karlgroves](http://twitter.com/karlgroves)
+* [@paciellogroup](http://twitter.com/paciellogroup)
+* [@A11YProject](http://twitter.com/A11YProject)
+* [@a11y](http://twitter.com/a11y)
+* [@ewaccess](http://twitter.com/ewaccess)
+* [@stevefaulkner](http://twitter.com/stevefaulkner)
+* [@mpaciello](http://twitter.com/mpaciello)
+* [@reinaldoferraz](http://twitter.com/reinaldoferraz)
+* [@marcysutton](http://twitter.com/marcysutton)
 
 ##Contribuing
 
