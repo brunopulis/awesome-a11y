@@ -43,6 +43,7 @@
 ## Other Resources
 
 ## Presentations
+* [Acessibilidade na web modo Jedi Master - (pt-br)](https://www.youtube.com/watch?v=MMLQioPwbik)
 
 ## Who to Follow on Twitter
 
