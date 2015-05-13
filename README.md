@@ -45,6 +45,7 @@
 
 ## Presentations
 * [Acessibilidade na web modo Jedi Master - (pt-br)](https://www.youtube.com/watch?v=MMLQioPwbik)
+* [Angular Accessibility](http://marcysutton.com/slides/angular-a11y-ng-europe/)
 
 ## Who to Follow on Twitter
 
