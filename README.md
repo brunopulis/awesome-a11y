@@ -30,7 +30,9 @@
 * [Getting Started with Web Accessibility](http://www.w3.org/WAI/gettingstarted/Overview.html)
 * [WebAIM - Introduction to Web Accessibility](http://webaim.org/intro/)
 * [What Is Web Accessibility](http://alistapart.com/article/wiwa)
-* [How I audit a website for accessibility by @marcysutton](http://substantial.com/blog/2014/07/22/how-i-audit-a-website-for-accessibility/)
+* [How I audit a website for accessibility](http://substantial.com/blog/2014/07/22/how-i-audit-a-website-for-accessibility/)
+* [CAPTCHA - Inaccessible to everyone](http://www.sitepoint.com/captcha-inaccessible-to-everyone/)
+* [15 rules to making accesible links](http://www.sitepoint.com/15-rules-making-accessible-links/)
 
 ## Web Tools
 
@@ -40,6 +42,7 @@
 * [WAVE](http://wave.webaim.org/)
 * [Access Monitor - (pt) ](http://www.acessibilidade.gov.pt/accessmonitor/)
 * [DaSilva - (pt-br) ](http://www.dasilva.org.br/)
+* [Check My Colours - Validator of Color Constrast](http://www.checkmycolours.com/)
 
 ## Other Resources
 
