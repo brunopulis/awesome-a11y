@@ -33,6 +33,7 @@
 * [How I audit a website for accessibility](http://substantial.com/blog/2014/07/22/how-i-audit-a-website-for-accessibility/)
 * [CAPTCHA - Inaccessible to everyone](http://www.sitepoint.com/captcha-inaccessible-to-everyone/)
 * [15 rules to making accesible links](http://www.sitepoint.com/15-rules-making-accessible-links/)
+* [Design for web accessibility from the beginning](https://getflywheel.com/layout/design-web-accessibility-beginning/)
 
 ## Web Tools
 
