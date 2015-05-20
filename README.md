@@ -24,6 +24,7 @@
 ## Guides
 
 * [Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course)
+* [Tuts+ Web Accessibility learning guide for Wordpress](http://code.tutsplus.com/series/accessibility--cms-799)
 
 ## Articles
 
