@@ -49,6 +49,7 @@
 * [Check My Colours - Validator of Color Constrast](http://www.checkmycolours.com/)
 
 ## Other Resources
+* [A11y Wins](http://a11ywins.tumblr.com/)
 
 ## Presentations
 * [Acessibilidade na web modo Jedi Master - (pt-br)](https://www.youtube.com/watch?v=MMLQioPwbik)
