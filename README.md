@@ -49,7 +49,7 @@
 * [Check My Colours - Validator of Color Constrast](http://www.checkmycolours.com/)
 
 ## Other Resources
-* [A11y Wins](http://a11ywins.tumblr.com/) - Examples when accesibility wins by @marcysutton](http://twitter.com/marcysutton)
+* [A11y Wins](http://a11ywins.tumblr.com/) - Examples when accesibility wins by [@marcysutton](http://twitter.com/marcysutton)
 * [A11yProject](http://github.com/a11yproject/a11yproject.com)
 
 ## Presentations
