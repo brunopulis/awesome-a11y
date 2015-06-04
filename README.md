@@ -56,7 +56,7 @@
 ## Presentations
 * [Acessibilidade na web modo Jedi Master - (pt-br)](https://www.youtube.com/watch?v=MMLQioPwbik)
 * [Angular Accessibility](http://marcysutton.com/slides/angular-a11y-ng-europe/)
-* [Aria Accessibility, Apis coding like you give a damn ](http://www.slideshare.net/LeonieWatson/aria-accessibility-apis-coding-like-you-give-a-damn-2015)
+* [ARIA Accessibility, APIS coding like you give a damn ](http://www.slideshare.net/LeonieWatson/aria-accessibility-apis-coding-like-you-give-a-damn-2015) by [Léonie Watson](http://twitter.com/LeonieWatson)
 
 ## Who to Follow on Twitter
 
