@@ -75,6 +75,7 @@
 * [@mpaciello](http://twitter.com/mpaciello)
 * [@reinaldoferraz](http://twitter.com/reinaldoferraz)
 * [@marcysutton](http://twitter.com/marcysutton)
+* [@brunopulis](http://twitter.com/brunopulis)
 
 ##Contribuing
 
