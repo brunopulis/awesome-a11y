@@ -52,6 +52,7 @@
 * [A11y Wins](http://a11ywins.tumblr.com/) - Examples when accesibility wins by [@marcysutton](http://twitter.com/marcysutton)
 * [A11yProject](http://github.com/a11yproject/a11yproject.com)
 * [Léonie Watson Blog](http://tink.uk/) - Posts about a11y in general. 
+* [Tota11y](http://khan.github.io/tota11y/)- An accessibility visualization toolkit
 
 ## Presentations
 * [Acessibilidade na web modo Jedi Master - (pt-br)](https://www.youtube.com/watch?v=MMLQioPwbik)
