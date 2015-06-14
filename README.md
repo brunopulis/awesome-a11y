@@ -37,6 +37,7 @@
 * [CAPTCHA - Inaccessible to everyone](http://www.sitepoint.com/captcha-inaccessible-to-everyone/)
 * [15 rules to making accesible links](http://www.sitepoint.com/15-rules-making-accessible-links/)
 * [Design for web accessibility from the beginning](https://getflywheel.com/layout/design-web-accessibility-beginning/)
+* [The accessibility cheatsheet](http://bitsofco.de/2015/the-accessibility-cheatsheet/)
 
 ## Web Tools
 
@@ -51,7 +52,7 @@
 ## Other Resources
 * [A11y Wins](http://a11ywins.tumblr.com/) - Examples when accesibility wins by [@marcysutton](http://twitter.com/marcysutton)
 * [A11yProject](http://github.com/a11yproject/a11yproject.com)
-* [Léonie Watson Blog](http://tink.uk/) - Posts about a11y in general. 
+* [Léonie Watson Blog](http://tink.uk/) - Posts about a11y in general.
 * [Tota11y](http://khan.github.io/tota11y/)- An accessibility visualization toolkit
 
 ## Presentations
