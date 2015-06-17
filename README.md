@@ -9,6 +9,7 @@
   - [Guides](#guides)
   - [Articles](#articles)
   - [Web Tools](#web-tools)
+  - [Wordpress Plugins](#wordpress-plugins)
   - [Other Resources](#other-resources)
   - [Presentations](#presentations)
   - [Who to Follow on Twitter](#who-to-follow-on-twitter)
@@ -48,6 +49,10 @@
 * [Access Monitor - (pt) ](http://www.acessibilidade.gov.pt/accessmonitor/)
 * [DaSilva - (pt-br) ](http://www.dasilva.org.br/)
 * [Check My Colours - Validator of Color Constrast](http://www.checkmycolours.com/)
+
+## Wordpress Plugins
+
+* [WP Acessibility](https://www.joedolson.com/wp-accessibility/) -  This Plug-in helps with a variety of common accessibility problems in WordPress themes. by [@joedolson](http://www.github.com/joedolson)
 
 ## Other Resources
 * [A11y Wins](http://a11ywins.tumblr.com/) - Examples when accesibility wins by [@marcysutton](http://twitter.com/marcysutton)
