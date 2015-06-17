@@ -8,6 +8,7 @@
   - [W3C Specification](#w3c-specification)
   - [Guides](#guides)
   - [Articles](#articles)
+  - [Books](#books)
   - [Web Tools](#web-tools)
   - [Wordpress Plugins](#wordpress-plugins)
   - [Other Resources](#other-resources)
@@ -39,6 +40,10 @@
 * [15 rules to making accesible links](http://www.sitepoint.com/15-rules-making-accessible-links/)
 * [Design for web accessibility from the beginning](https://getflywheel.com/layout/design-web-accessibility-beginning/)
 * [The accessibility cheatsheet](http://bitsofco.de/2015/the-accessibility-cheatsheet/)
+
+## Books
+
+* [Building Accessible Websites](http://joeclark.org/book/) - A new book on Web Accessibility by [Joe Clark](http://joeclark.org/)
 
 ## Web Tools
 
