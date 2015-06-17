@@ -52,7 +52,7 @@
 
 ## Wordpress Plugins
 
-* [WP Acessibility](https://www.joedolson.com/wp-accessibility/) -  This Plug-in helps with a variety of common accessibility problems in WordPress themes. by [@joedolson](http://www.github.com/joedolson)
+* [WP Acessibility](https://www.joedolson.com/wp-accessibility/) - Helps with a variety of common accessibility problems in WP themes. by [@joedolson](http://www.github.com/joedolson)
 
 ## Other Resources
 * [A11y Wins](http://a11ywins.tumblr.com/) - Examples when accesibility wins by [@marcysutton](http://twitter.com/marcysutton)
