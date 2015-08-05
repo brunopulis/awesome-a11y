@@ -1,4 +1,4 @@
-# Awesome Accessibility
+# Awesome Accessibility  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome Accesibility tools, articles and resources. Inspired by [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox).
 
