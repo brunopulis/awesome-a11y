@@ -40,6 +40,7 @@
 * [15 rules to making accesible links](http://www.sitepoint.com/15-rules-making-accessible-links/)
 * [Design for web accessibility from the beginning](https://getflywheel.com/layout/design-web-accessibility-beginning/)
 * [The accessibility cheatsheet](http://bitsofco.de/2015/the-accessibility-cheatsheet/)
+* [Simply Accesible - articles ](http://simplyaccessible.com/articles/)
 
 ## Books
 
@@ -54,6 +55,8 @@
 * [Access Monitor - (pt) ](http://www.acessibilidade.gov.pt/accessmonitor/)
 * [DaSilva - (pt-br) ](http://www.dasilva.org.br/)
 * [Check My Colours - Validator of Color Constrast](http://www.checkmycolours.com/)
+* [A11y Command-line Tools](https://addyosmani.github.io/a11y/)
+* [tota11y - accessibility visualization toolkit](http://khan.github.io/tota11y/)
 
 ## Wordpress Plugins
 
