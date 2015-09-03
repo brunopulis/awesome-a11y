@@ -67,6 +67,7 @@
 * [A11yProject](http://github.com/a11yproject/a11yproject.com)
 * [Léonie Watson Blog](http://tink.uk/) - Posts about a11y in general.
 * [Tota11y](http://khan.github.io/tota11y/)- An accessibility visualization toolkit
+* [Practical ARIA Examples](http://heydonworks.com/practical_aria_examples/) - Example code and demos by [@heydonworks](http://twitter.com/heydonworks)
 
 ## Presentations
 * [10 Simples Rules for Making My Site Accessible](http://pt.slideshare.net/HelenaZubkow/10-simple-rules-for-making-my-site-accessible) by [Helena Zubkow](https://twitter.com/misshelenasue)
@@ -92,6 +93,7 @@
 * [@reinaldoferraz](http://twitter.com/reinaldoferraz)
 * [@marcysutton](http://twitter.com/marcysutton)
 * [@brunopulis](http://twitter.com/brunopulis)
+* [@heydonworks](http://twitter.com/heydonworks)
 
 ##Contribuing
 
