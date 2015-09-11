@@ -71,6 +71,7 @@
 
 ## Presentations
 * [10 Simples Rules for Making My Site Accessible](http://pt.slideshare.net/HelenaZubkow/10-simple-rules-for-making-my-site-accessible) by [Helena Zubkow](https://twitter.com/misshelenasue)
+* [A saga dos 12 tópicos de acessibilidade - (pt-br)](https://www.youtube.com/watch?v=RFg6XP6oluE) by [Reinaldo Ferraz](https://twitter.com/reinaldoferraz)
 * [Acessibilidade na web modo Jedi Master - (pt-br)](https://www.youtube.com/watch?v=MMLQioPwbik) by [Reinaldo Ferraz](https://twitter.com/reinaldoferraz)
 * [Angular Accessibility](http://marcysutton.com/slides/angular-a11y-ng-europe/) by [Marcy Sutton](https://twitter.com/marcysutton)
 * [ARIA Accessibility, APIS coding like you give a damn ](http://www.slideshare.net/LeonieWatson/aria-accessibility-apis-coding-like-you-give-a-damn-2015) by [Léonie Watson](http://twitter.com/LeonieWatson)
