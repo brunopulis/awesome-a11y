@@ -20,27 +20,27 @@
 
 ## W3C Specification
 
-* [Web Content Accessibility Guidelines - WCAG 2.0](http://www.w3.org/TR/WCAG20/)
 * [Accessible Rich Internet Applications (WAI-ARIA) 1.0](http://www.w3.org/TR/wai-aria/)
+* [Web Content Accessibility Guidelines - WCAG 2.0](http://www.w3.org/TR/WCAG20/)
 
 ## Guides
 
-* [Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course)
-* [Tuts+ Web Accessibility learning guide for Wordpress](http://code.tutsplus.com/series/accessibility--cms-799)
 * [Accessible Mega Menu](https://github.com/adobe-accessibility/Accessible-Mega-Menu)
 * [ARIA Cheatsheet](http://karlgroves-sandbox.com/CheatSheets/ARIA-Cheatsheet.html)
+* [Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course)
+* [Tuts+ Web Accessibility learning guide for Wordpress](http://code.tutsplus.com/series/accessibility--cms-799)
 
 ## Articles
 
+* [15 rules to making accesible links](http://www.sitepoint.com/15-rules-making-accessible-links/)
+* [CAPTCHA - Inaccessible to everyone](http://www.sitepoint.com/captcha-inaccessible-to-everyone/)
+* [Design for web accessibility from the beginning](https://getflywheel.com/layout/design-web-accessibility-beginning/)
 * [Getting Started with Web Accessibility](http://www.w3.org/WAI/gettingstarted/Overview.html)
+* [How I audit a website for accessibility](http://substantial.com/blog/2014/07/22/how-i-audit-a-website-for-accessibility/)
+* [Simply Accesible - articles ](http://simplyaccessible.com/articles/)
+* [The accessibility cheatsheet](http://bitsofco.de/2015/the-accessibility-cheatsheet/)
 * [WebAIM - Introduction to Web Accessibility](http://webaim.org/intro/)
 * [What Is Web Accessibility](http://alistapart.com/article/wiwa)
-* [How I audit a website for accessibility](http://substantial.com/blog/2014/07/22/how-i-audit-a-website-for-accessibility/)
-* [CAPTCHA - Inaccessible to everyone](http://www.sitepoint.com/captcha-inaccessible-to-everyone/)
-* [15 rules to making accesible links](http://www.sitepoint.com/15-rules-making-accessible-links/)
-* [Design for web accessibility from the beginning](https://getflywheel.com/layout/design-web-accessibility-beginning/)
-* [The accessibility cheatsheet](http://bitsofco.de/2015/the-accessibility-cheatsheet/)
-* [Simply Accesible - articles ](http://simplyaccessible.com/articles/)
 
 ## Books
 
@@ -49,25 +49,25 @@
 ## Web Tools
 
 * [508 Checker](http://www.508checker.com/)
-* [Accessibility Developer Tools for Chrome](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
-* [Tenon.io](https://tenon.io/)
-* [WAVE](http://wave.webaim.org/)
 * [Access Monitor - (pt) ](http://www.acessibilidade.gov.pt/accessmonitor/)
-* [DaSilva - (pt-br) ](http://www.dasilva.org.br/)
-* [Check My Colours - Validator of Color Constrast](http://www.checkmycolours.com/)
+* [Accessibility Developer Tools for Chrome](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
 * [A11y Command-line Tools](https://addyosmani.github.io/a11y/)
+* [Check My Colours - Validator of Color Constrast](http://www.checkmycolours.com/)
+* [DaSilva - (pt-br) ](http://www.dasilva.org.br/)
+* [Tenon.io](https://tenon.io/)
 * [tota11y - accessibility visualization toolkit](http://khan.github.io/tota11y/)
+* [WAVE](http://wave.webaim.org/)
 
 ## Wordpress Plugins
 
 * [WP Acessibility](https://www.joedolson.com/wp-accessibility/) - Helps with a variety of common accessibility problems in WP themes. by [@joedolson](http://www.github.com/joedolson)
 
 ## Other Resources
-* [A11y Wins](http://a11ywins.tumblr.com/) - Examples when accesibility wins by [@marcysutton](http://twitter.com/marcysutton)
 * [A11yProject](http://github.com/a11yproject/a11yproject.com)
+* [A11y Wins](http://a11ywins.tumblr.com/) - Examples when accesibility wins by [@marcysutton](http://twitter.com/marcysutton)
 * [Léonie Watson Blog](http://tink.uk/) - Posts about a11y in general.
-* [Tota11y](http://khan.github.io/tota11y/)- An accessibility visualization toolkit
 * [Practical ARIA Examples](http://heydonworks.com/practical_aria_examples/) - Example code and demos by [@heydonworks](http://twitter.com/heydonworks)
+* [Tota11y](http://khan.github.io/tota11y/)- An accessibility visualization toolkit
 
 ## Presentations
 * [10 Simples Rules for Making My Site Accessible](http://pt.slideshare.net/HelenaZubkow/10-simple-rules-for-making-my-site-accessible) by [Helena Zubkow](https://twitter.com/misshelenasue)
@@ -79,22 +79,22 @@
 
 ## Who to Follow on Twitter
 
+* [@a11y](http://twitter.com/a11y)
+* [@A11YProject](http://twitter.com/A11YProject)
+* [@brunopulis](http://twitter.com/brunopulis)
+* [@ewaccess](http://twitter.com/ewaccess)
+* [@heydonworks](http://twitter.com/heydonworks)
+* [@joedolson](http://twitter.com/joedolson)
+* [@karlgroves](http://twitter.com/karlgroves)
+* [@LeonieWatson](http://twitter.com/LeonieWatson)
+* [@marcysutton](http://twitter.com/marcysutton)
+* [@mpaciello](http://twitter.com/mpaciello)
+* [@paciellogroup](http://twitter.com/paciellogroup)
+* [@reinaldoferraz](http://twitter.com/reinaldoferraz)
+* [@shawn_slh](http://twitter.com/shawn_slh)
+* [@stevefaulkner](http://twitter.com/stevefaulkner)
 * [@Web Axe](http://twitter.com/webaxe)
 * [@yatil](http://twitter.com/yatil)
-* [@shawn_slh](http://twitter.com/shawn_slh)
-* [@joedolson](http://twitter.com/joedolson)
-* [@LeonieWatson](http://twitter.com/LeonieWatson)
-* [@karlgroves](http://twitter.com/karlgroves)
-* [@paciellogroup](http://twitter.com/paciellogroup)
-* [@A11YProject](http://twitter.com/A11YProject)
-* [@a11y](http://twitter.com/a11y)
-* [@ewaccess](http://twitter.com/ewaccess)
-* [@stevefaulkner](http://twitter.com/stevefaulkner)
-* [@mpaciello](http://twitter.com/mpaciello)
-* [@reinaldoferraz](http://twitter.com/reinaldoferraz)
-* [@marcysutton](http://twitter.com/marcysutton)
-* [@brunopulis](http://twitter.com/brunopulis)
-* [@heydonworks](http://twitter.com/heydonworks)
 
 ##Contribuing
 
