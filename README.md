@@ -76,6 +76,7 @@
 * [Angular Accessibility](http://marcysutton.com/slides/angular-a11y-ng-europe/) by [Marcy Sutton](https://twitter.com/marcysutton)
 * [ARIA Accessibility, APIS coding like you give a damn ](http://www.slideshare.net/LeonieWatson/aria-accessibility-apis-coding-like-you-give-a-damn-2015) by [Léonie Watson](http://twitter.com/LeonieWatson)
 * [Frontend com Acessibilidade - (pt-br)](https://www.youtube.com/watch?v=UzTVq7we84w) by [Horácio Soares](https://twitter.com/horaciosoares) and [Clécio Bachini](https://twitter.com/cbachini)
+* [Trabalhando com WCAG e WAI-ARIA de form correta - (pt-br)](http://slides.com/talitapagani/wcag-aria-webbr2015#/16) by [Talita Pagani](https://github.com/talitapagani)
 
 ## Who to Follow on Twitter
 
