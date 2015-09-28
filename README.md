@@ -14,7 +14,7 @@
   - [Other Resources](#other-resources)
   - [Presentations](#presentations)
   - [Who to Follow on Twitter](#who-to-follow-on-twitter)
-  - [Contribuing](#contribuing)
+  - [Contributing](#contributing)
   - [License](#license)
 
 
@@ -97,9 +97,9 @@
 * [@webaxe](http://twitter.com/webaxe)
 * [@yatil](http://twitter.com/yatil)
 
-##Contribuing
+##Contributing
 
-You want to contribuite to this project? [Please follow these recommendations](CONTRIBUING.md).
+You want to contribute to this project? [Please follow these recommendations](CONTRIBUTING.md).
 
 ##License
 
