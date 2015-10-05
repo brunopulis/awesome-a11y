@@ -27,8 +27,10 @@
 
 * [Accessible Mega Menu](https://github.com/adobe-accessibility/Accessible-Mega-Menu)
 * [ARIA Cheatsheet](http://karlgroves-sandbox.com/CheatSheets/ARIA-Cheatsheet.html)
+* [Easy Checks - A First Review of Web Accessibility](http://www.w3.org/WAI/eval/preliminary.html)
 * [Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course)
 * [Tuts+ Web Accessibility learning guide for Wordpress](http://code.tutsplus.com/series/accessibility--cms-799)
+* [Web Accessibility Tutorials](http://www.w3.org/WAI/tutorials/)
 
 ## Articles
 
