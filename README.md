@@ -26,6 +26,7 @@
 ## Guides
 
 * [Accessible Mega Menu](https://github.com/adobe-accessibility/Accessible-Mega-Menu)
+* [a11yweekly](http://a11yweekly.com/)
 * [ARIA Cheatsheet](http://karlgroves-sandbox.com/CheatSheets/ARIA-Cheatsheet.html)
 * [Easy Checks - A First Review of Web Accessibility](http://www.w3.org/WAI/eval/preliminary.html)
 * [Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course)
