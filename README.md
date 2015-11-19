@@ -13,7 +13,8 @@
   - [Wordpress Plugins](#wordpress-plugins)
   - [Other Resources](#other-resources)
   - [Presentations](#presentations)
-  - [Who to Follow on Twitter](#who-to-follow-on-twitter)
+  - [People to Follow in Web Accessibility](#people-to-follow-in-web-accessibility)
+  - [Accessibility Weekly](#accessibility-weekly)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -81,24 +82,68 @@
 * [Frontend com Acessibilidade - (pt-br)](https://www.youtube.com/watch?v=UzTVq7we84w) by [Horácio Soares](https://twitter.com/horaciosoares) and [Clécio Bachini](https://twitter.com/cbachini)
 * [Trabalhando com WCAG e WAI-ARIA de forma correta - (pt-br)](http://slides.com/talitapagani/wcag-aria-webbr2015#/16) by [Talita Pagani](https://github.com/talitapagani)
 
-## Who to Follow on Twitter
+## People to Follow in Web Accessibility
 
-* [@a11y](http://twitter.com/a11y)
-* [@A11YProject](http://twitter.com/A11YProject)
-* [@brunopulis](http://twitter.com/brunopulis)
-* [@ewaccess](http://twitter.com/ewaccess)
-* [@heydonworks](http://twitter.com/heydonworks)
-* [@joedolson](http://twitter.com/joedolson)
-* [@karlgroves](http://twitter.com/karlgroves)
-* [@LeonieWatson](http://twitter.com/LeonieWatson)
-* [@marcysutton](http://twitter.com/marcysutton)
-* [@mpaciello](http://twitter.com/mpaciello)
-* [@paciellogroup](http://twitter.com/paciellogroup)
-* [@reinaldoferraz](http://twitter.com/reinaldoferraz)
-* [@shawn_slh](http://twitter.com/shawn_slh)
-* [@stevefaulkner](http://twitter.com/stevefaulkner)
-* [@webaxe](http://twitter.com/webaxe)
-* [@yatil](http://twitter.com/yatil)
+This is a list, in no particular order, of people to follow that contribute greatly to web accessibility and web standards.
+
+## People 
+
+* Alice Boxhall	[@sundress](https://twitter.com/sundress)
+* 
+* Cory Klatik [@cklatik](https://twitter.com/cklatik)
+* Dale Cruse [@dalecruse](https://twitter.com/dalecruse)
+* Dave Rupert [@davatron5000](https://twitter.com/davatron5000)
+* David A. Kennedy [@davidakennedy](https://twitter.com/davidakennedy)
+* Debra Ruh	[@debraruh](https://twitter.com/debraruh)
+* Denis Boudreau	[@dboudreau](https://twitter.com/dboudreau)
+* Dennis Gaebel [@gryghostvisuals](https://twitter.com/gryghostvisuals)
+* Dennis Lembrée	[@dennisl](https://twitter.com/dennisl)
+* Derek Featherstone [@feather](https://twitter.com/feather)
+* Dylan Barrell	[@dylanbarrell](https://twitter.com/dylanbarrell)
+* Eliza Greenwood [@E_lizaG](https://twitter.com/E_lizaG)
+* Eric Eggert [@yatil](http://twitter.com/yatil)
+* Eric Wright [@ewaccess](http://twitter.com/ewaccess)
+* Greg Tarnoff [@gregtarnoff](https://twitter.com/gregtarnoff)
+* Heydon Works [@heydonworks](http://twitter.com/heydonworks)
+* Jeffrey Zeldman	[@zeldman](https://twitter.com/zeldman)
+* Jen Simmons	[@jensimmons](https://twitter.com/jensimmons)
+* Joe Dolson   [@joedolson](http://twitter.com/joedolson)
+* John Foliot [@johnfoliot](https://twitter.com/johnfoliot)
+* Jonathan Hassell	[@jonhassell](https://twitter.com/jonhassell)
+* Joseph Karr O'Connor [@AccessibleJoe](https://twitter.com/AccessibleJoe)
+* Karl Groves  [@karlgroves](http://twitter.com/karlgroves)
+* Lainey Feingold [@LFLegal](https://twitter.com/LFLegal)
+* Léonie Watson [@LeonieWatson](http://twitter.com/LeonieWatson)
+* Luke McGrath [@lukejmcgrath](https://twitter.com/lukejmcgrath)
+* Lucy Greco [@accessaces](https://twitter.com/accessaces)
+* Marcy Sutton  [@marcysutton](http://twitter.com/marcysutton)
+* Mike Paciello [@mpaciello](http://twitter.com/mpaciello)
+* Monika Piotrowicz [@monsika](https://twitter.com/monsika)
+* Neil Milliken	[@NeilMilliken](https://twitter.com/NeilMilliken)
+* Patrick Fox	[@patrickfox](https://twitter.com/patrickfox)
+* Reinaldo Ferraz [@reinaldoferraz](http://twitter.com/reinaldoferraz)
+* Scott Vinkle [@svinkle](https://twitter.com/svinkle)
+* Shawn Lawton Henry [@shawn_slh](http://twitter.com/shawn_slh)
+* Sina Bahram	[@SinaBahram](https://twitter.com/SinaBahram)
+* Steve Faulkner     [@stevefaulkner](http://twitter.com/stevefaulkner)
+* Ted Drake	[@ted_drake](https://twitter.com/ted_drake)
+
+## Companies & Organizations
+
+* 3play Media	[@3playmedia](https://twitter.com/3playmedia)
+* A11Y [@a11y](http://twitter.com/a11y)
+* AccessibilityOz [@AcessibilityOz](https://twitter.com/accessibilityoz)
+* A11YProject     [@A11YProject](http://twitter.com/A11YProject)
+* Deque Systems  [@dequesystems](http://www.deque.com/)
+* IBMAccess [@IBMAccess](https://twitter.com/IBMAccess)
+* Microsoft Access	[@MSFTaccess](https://twitter.com/MSFTaccess)
+* Paciello Group [@paciellogroup](http://twitter.com/paciellogroup)
+* PayPal Accessibility [@PayPalInclusive](https://twitter.com/PayPalInclusive)
+* Simply Accessible	[@sateaches](https://twitter.com/sateaches)
+* WebAxe [@webaxe](http://twitter.com/webaxe)
+
+## Newsletters
+- [Accessibility Weekly](http://a11yweekly.com/)
 
 ##Contributing
 
