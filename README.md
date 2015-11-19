@@ -14,7 +14,7 @@
   - [Other Resources](#other-resources)
   - [Presentations](#presentations)
   - [People to Follow in Web Accessibility](#people-to-follow-in-web-accessibility)
-  - [Accessibility Weekly](#accessibility-weekly)
+  - [Accessibility Weekly](#newsletters)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -89,7 +89,6 @@ This is a list, in no particular order, of people to follow that contribute grea
 ## People 
 
 * Alice Boxhall	[@sundress](https://twitter.com/sundress)
-* 
 * Cory Klatik [@cklatik](https://twitter.com/cklatik)
 * Dale Cruse [@dalecruse](https://twitter.com/dalecruse)
 * Dave Rupert [@davatron5000](https://twitter.com/davatron5000)
