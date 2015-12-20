@@ -45,6 +45,7 @@
 * [The Accessibility Cheatsheet](http://bitsofco.de/2015/the-accessibility-cheatsheet/)
 * [WebAIM - Introduction to Web Accessibility](http://webaim.org/intro/)
 * [What is Web Accessibility](http://alistapart.com/article/wiwa)
+* [The web accessibility basics](https://www.marcozehe.de/2015/12/14/the-web-accessibility-basics/)
 
 ## Books
 
