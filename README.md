@@ -1,8 +1,7 @@
 # Awesome Accessibility
 
-[![Join the chat at https://gitter.im/brunopulis/awesome-a11y](https://badges.gitter.im/brunopulis/awesome-a11y.svg)](https://gitter.im/brunopulis/awesome-a11y?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 ![Build Status](https://travis-ci.org/brunopulis/awesome-a11y.svg?branch=master)
+[![Join the chat at https://gitter.im/brunopulis/awesome-a11y](https://badges.gitter.im/brunopulis/awesome-a11y.svg)](https://gitter.im/brunopulis/awesome-a11y?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome Accessibility tools, articles and resources. Inspired by [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox).
