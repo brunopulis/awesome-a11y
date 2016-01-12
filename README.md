@@ -72,6 +72,7 @@
 * [WP Accessibility](https://www.joedolson.com/wp-accessibility/) - Helps with a variety of common accessibility problems in WP themes. by [@joedolson](http://www.github.com/joedolson)
 
 ## Other Resources
+* [AIIY.js](http://allyjs.io/)
 * [A11yProject](http://github.com/a11yproject/a11yproject.com)
 * [A11y Wins](http://a11ywins.tumblr.com/) - Examples when accessibility wins by [@marcysutton](http://twitter.com/marcysutton)
 * [Léonie Watson Blog](http://tink.uk/) - Posts about a11y in general.
