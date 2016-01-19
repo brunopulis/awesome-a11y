@@ -11,9 +11,10 @@
 - [Awesome Accessibility](##awesome-accessibility)
   - [W3C Specification](#w3c-specification)
   - [Guides](#guides)
-  - [Articles](#articles)
+  - [Articles and Videos](#articles-and-videos)
   - [Books](#books)
-  - [Web Tools](#web-tools)
+  - [Development Testing and Validators ](#development-testing-and-validators)
+  - [Development and Testing](#development-and-testing)
   - [Wordpress Plugins](#wordpress-plugins)
   - [Other Resources](#other-resources)
   - [Presentations](#presentations)
@@ -26,6 +27,7 @@
 ## W3C Specification
 
 * [Accessible Rich Internet Applications (WAI-ARIA) 1.0](http://www.w3.org/TR/wai-aria/)
+* [Using ARIA in HTML](https://www.w3.org/TR/aria-in-html/)
 * [Web Content Accessibility Guidelines - WCAG 2.0](http://www.w3.org/TR/WCAG20/)
 
 ## Guides
@@ -38,15 +40,17 @@
 * [Tuts+ Web Accessibility learning guide for Wordpress](http://code.tutsplus.com/series/accessibility--cms-799)
 * [Web Accessibility Tutorials](http://www.w3.org/WAI/tutorials/)
 
-## Articles
+## Articles and Videos
 
 * [15 Rules to Making Accessible Links](http://www.sitepoint.com/15-rules-making-accessible-links/)
 * [CAPTCHA - Inaccessible to everyone](http://www.sitepoint.com/captcha-inaccessible-to-everyone/)
+* [Design like we give a damn!](https://vimeo.com/110965713) – One of the best recent presentations on the future of web accessibility, given by Léonie Watson of the Paciello Group in 2014.
 * [Design for Web Accessibility from the Beginning](https://getflywheel.com/layout/design-web-accessibility-beginning/)
 * [Getting Started with Web Accessibility](http://www.w3.org/WAI/gettingstarted/Overview.html)
 * [How I Audit a Website for Accessibility](http://substantial.com/blog/2014/07/22/how-i-audit-a-website-for-accessibility/)
 * [Simply Accessible - Articles ](http://simplyaccessible.com/articles/)
 * [The Accessibility Cheatsheet](http://bitsofco.de/2015/the-accessibility-cheatsheet/)
+* [What is WAI-ARIA, what does it do for me, and what not?](https://www.marcozehe.de/2014/03/27/what-is-wai-aria-what-does-it-do-for-me-and-what-not/)
 * [WebAIM - Introduction to Web Accessibility](http://webaim.org/intro/)
 * [What is Web Accessibility](http://alistapart.com/article/wiwa)
 * [The web accessibility basics](https://www.marcozehe.de/2015/12/14/the-web-accessibility-basics/)
@@ -55,16 +59,19 @@
 
 * [Building Accessible Websites](http://joeclark.org/book/) - A new book on Web Accessibility by [Joe Clark](http://joeclark.org/)
 
-## Web Tools
+## Development Testing and Validators
 
 * [508 Checker](http://www.508checker.com/)
 * [Access Monitor - (pt) ](http://www.acessibilidade.gov.pt/accessmonitor/)
 * [Accessibility Developer Tools for Chrome](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
 * [A11y Command-line Tools](https://addyosmani.github.io/a11y/)
 * [Check My Colours - Validator of Color Constrast](http://www.checkmycolours.com/)
+* [Colour Contrast Analyser](http://www.paciellogroup.com/resources/contrastanalyser/) – to test the contrast of your text against its background
 * [DaSilva - (pt-br) ](http://www.dasilva.org.br/)
+* [Headings Map](https://addons.mozilla.org/en-US/firefox/addon/headingsmap/) - A Firefox add-on to check whether your heading structure is logical
 * [Tenon.io](https://tenon.io/)
 * [tota11y - Accessibility Visualization Toolkit](http://khan.github.io/tota11y/)
+* [Screen Reader Simulator](https://addons.mozilla.org/en-US/firefox/addon/screen-reader-simulator/?src=search) - A Firefox add-on that allows you to simulate an on-screen displazyed screen reader. Step through your web page and read what a blind user would hear if they were using Firefox for Android with TalkBack, or a Firefox OS device with the screen reader turned on.
 * [WAVE](http://wave.webaim.org/)
 
 ## Wordpress Plugins
@@ -122,6 +129,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 * Léonie Watson [@LeonieWatson](http://twitter.com/LeonieWatson)
 * Luke McGrath [@lukejmcgrath](https://twitter.com/lukejmcgrath)
 * Lucy Greco [@accessaces](https://twitter.com/accessaces)
+* Marco Zehe [@MarcoZehe](https://twitter.com/MarcoZehe)
 * Marcy Sutton  [@marcysutton](http://twitter.com/marcysutton)
 * Mike Paciello [@mpaciello](http://twitter.com/mpaciello)
 * Monika Piotrowicz [@monsika](https://twitter.com/monsika)
