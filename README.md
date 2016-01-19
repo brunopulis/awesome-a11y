@@ -44,7 +44,7 @@
 
 * [15 Rules to Making Accessible Links](http://www.sitepoint.com/15-rules-making-accessible-links/)
 * [CAPTCHA - Inaccessible to everyone](http://www.sitepoint.com/captcha-inaccessible-to-everyone/)
-* [Design like we give a damn!](https://vimeo.com/110965713) – One of the best recent presentations on the future of web accessibility, given by Léonie Watson of the Paciello Group in 2014.
+* [Design like we give a damn!](https://vimeo.com/110965713)
 * [Design for Web Accessibility from the Beginning](https://getflywheel.com/layout/design-web-accessibility-beginning/)
 * [Getting Started with Web Accessibility](http://www.w3.org/WAI/gettingstarted/Overview.html)
 * [How I Audit a Website for Accessibility](http://substantial.com/blog/2014/07/22/how-i-audit-a-website-for-accessibility/)
