@@ -47,9 +47,9 @@
 * [Design like we give a damn!](https://vimeo.com/110965713)
 * [Design for Web Accessibility from the Beginning](https://getflywheel.com/layout/design-web-accessibility-beginning/)
 * [Getting Started with Web Accessibility](http://www.w3.org/WAI/gettingstarted/Overview.html)
-* [How I Audit a Website for Accessibility](http://substantial.com/blog/2014/07/22/how-i-audit-a-website-for-accessibility/)
+* [How I Audit a Website for Accessibility](https://substantial.com/blog/2014/07/22/how-i-audit-a-website-for-accessibility/)
 * [Simply Accessible - Articles ](http://simplyaccessible.com/articles/)
-* [The Accessibility Cheatsheet](http://bitsofco.de/2015/the-accessibility-cheatsheet/)
+* [The Accessibility Cheatsheet](http://bitsofco.de/the-accessibility-cheatsheet/)
 * [What is WAI-ARIA, what does it do for me, and what not?](https://www.marcozehe.de/2014/03/27/what-is-wai-aria-what-does-it-do-for-me-and-what-not/)
 * [WebAIM - Introduction to Web Accessibility](http://webaim.org/intro/)
 * [What is Web Accessibility](http://alistapart.com/article/wiwa)
@@ -66,7 +66,7 @@
 * [Accessibility Developer Tools for Chrome](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
 * [A11y Command-line Tools](https://addyosmani.github.io/a11y/)
 * [Check My Colours - Validator of Color Constrast](http://www.checkmycolours.com/)
-* [Colour Contrast Analyser](http://www.paciellogroup.com/resources/contrastanalyser/) – to test the contrast of your text against its background
+* [Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/) – to test the contrast of your text against its background
 * [DaSilva - (pt-br) ](http://www.dasilva.org.br/)
 * [Headings Map](https://addons.mozilla.org/en-US/firefox/addon/headingsmap/) - A Firefox add-on to check whether your heading structure is logical
 * [Tenon.io](https://tenon.io/)
@@ -76,14 +76,14 @@
 
 ## Wordpress Plugins
 
-* [WP Accessibility](https://www.joedolson.com/wp-accessibility/) - Helps with a variety of common accessibility problems in WP themes. by [@joedolson](http://www.github.com/joedolson)
+* [WP Accessibility](https://www.joedolson.com/wp-accessibility/) - Helps with a variety of common accessibility problems in WP themes. by [@joedolson](https://github.com/joedolson)
 
 ## Other Resources
 * [AIIY.js](http://allyjs.io/)
-* [A11yProject](http://github.com/a11yproject/a11yproject.com)
-* [A11y Wins](http://a11ywins.tumblr.com/) - Examples when accessibility wins by [@marcysutton](http://twitter.com/marcysutton)
+* [A11yProject](https://github.com/a11yproject/a11yproject.com)
+* [A11y Wins](http://a11ywins.tumblr.com/) - Examples when accessibility wins by [@marcysutton](https://twitter.com/marcysutton)
 * [Léonie Watson Blog](http://tink.uk/) - Posts about a11y in general.
-* [Practical ARIA Examples](http://heydonworks.com/practical_aria_examples/) - Example code and demos by [@heydonworks](http://twitter.com/heydonworks)
+* [Practical ARIA Examples](http://heydonworks.com/practical_aria_examples/) - Example code and demos by [@heydonworks](https://twitter.com/heydonworks)
 * [Tota11y](http://khan.github.io/tota11y/) - An accessibility visualization toolkit
 * [Not so Super Mario](https://www.youtube.com/watch?v=DvaPRlZtfyc) - A parody video showing accessibility problems using Mario Bros. games
 
@@ -92,7 +92,7 @@
 * [A Saga dos 12 Tópicos de Acessibilidade - (pt-br)](https://www.youtube.com/watch?v=RFg6XP6oluE) by [Reinaldo Ferraz](https://twitter.com/reinaldoferraz)
 * [Acessibilidade na Web modo Jedi Master - (pt-br)](https://www.youtube.com/watch?v=MMLQioPwbik) by [Reinaldo Ferraz](https://twitter.com/reinaldoferraz)
 * [Angular Accessibility](http://marcysutton.com/slides/angular-a11y-ng-europe/) by [Marcy Sutton](https://twitter.com/marcysutton)
-* [ARIA Accessibility, APIS coding like you give a damn ](http://www.slideshare.net/LeonieWatson/aria-accessibility-apis-coding-like-you-give-a-damn-2015) by [Léonie Watson](http://twitter.com/LeonieWatson)
+* [ARIA Accessibility, APIS coding like you give a damn ](http://www.slideshare.net/LeonieWatson/aria-accessibility-apis-coding-like-you-give-a-damn-2015) by [Léonie Watson](https://twitter.com/LeonieWatson)
 * [Frontend com Acessibilidade - (pt-br)](https://www.youtube.com/watch?v=UzTVq7we84w) by [Horácio Soares](https://twitter.com/horaciosoares) and [Clécio Bachini](https://twitter.com/cbachini)
 * [Trabalhando com WCAG e WAI-ARIA de forma correta - (pt-br)](http://slides.com/talitapagani/wcag-aria-webbr2015#/16) by [Talita Pagani](https://github.com/talitapagani)
 
@@ -114,47 +114,47 @@ This is a list, in no particular order, of people to follow that contribute grea
 * Derek Featherstone [@feather](https://twitter.com/feather)
 * Dylan Barrell	[@dylanbarrell](https://twitter.com/dylanbarrell)
 * Eliza Greenwood [@E_lizaG](https://twitter.com/E_lizaG)
-* Eric Eggert [@yatil](http://twitter.com/yatil)
-* Eric Wright [@ewaccess](http://twitter.com/ewaccess)
+* Eric Eggert [@yatil](https://twitter.com/yatil)
+* Eric Wright [@ewaccess](https://twitter.com/ewaccess)
 * Greg Tarnoff [@gregtarnoff](https://twitter.com/gregtarnoff)
 * Heydon Works [@heydonworks](http://twitter.com/heydonworks)
 * Jeffrey Zeldman	[@zeldman](https://twitter.com/zeldman)
 * Jen Simmons	[@jensimmons](https://twitter.com/jensimmons)
-* Joe Dolson   [@joedolson](http://twitter.com/joedolson)
+* Joe Dolson   [@joedolson](https://twitter.com/joedolson)
 * John Foliot [@johnfoliot](https://twitter.com/johnfoliot)
 * Jonathan Hassell	[@jonhassell](https://twitter.com/jonhassell)
 * Joseph Karr O'Connor [@AccessibleJoe](https://twitter.com/AccessibleJoe)
-* Karl Groves  [@karlgroves](http://twitter.com/karlgroves)
+* Karl Groves  [@karlgroves](https://twitter.com/karlgroves)
 * Lainey Feingold [@LFLegal](https://twitter.com/LFLegal)
 * Léonie Watson [@LeonieWatson](http://twitter.com/LeonieWatson)
 * Luke McGrath [@lukejmcgrath](https://twitter.com/lukejmcgrath)
 * Lucy Greco [@accessaces](https://twitter.com/accessaces)
 * Marco Zehe [@MarcoZehe](https://twitter.com/MarcoZehe)
 * Marcy Sutton  [@marcysutton](http://twitter.com/marcysutton)
-* Mike Paciello [@mpaciello](http://twitter.com/mpaciello)
+* Mike Paciello [@mpaciello](https://twitter.com/mpaciello)
 * Monika Piotrowicz [@monsika](https://twitter.com/monsika)
 * Neil Milliken	[@NeilMilliken](https://twitter.com/NeilMilliken)
 * Patrick Fox	[@patrickfox](https://twitter.com/patrickfox)
-* Reinaldo Ferraz [@reinaldoferraz](http://twitter.com/reinaldoferraz)
+* Reinaldo Ferraz [@reinaldoferraz](https://twitter.com/reinaldoferraz)
 * Scott Vinkle [@svinkle](https://twitter.com/svinkle)
-* Shawn Lawton Henry [@shawn_slh](http://twitter.com/shawn_slh)
+* Shawn Lawton Henry [@shawn_slh](https://twitter.com/shawn_slh)
 * Sina Bahram	[@SinaBahram](https://twitter.com/SinaBahram)
-* Steve Faulkner     [@stevefaulkner](http://twitter.com/stevefaulkner)
+* Steve Faulkner     [@stevefaulkner](https://twitter.com/stevefaulkner)
 * Ted Drake	[@ted_drake](https://twitter.com/ted_drake)
 
 ## Companies & Organizations
 
 * 3play Media	[@3playmedia](https://twitter.com/3playmedia)
-* A11Y [@a11y](http://twitter.com/a11y)
+* A11Y [@a11y](https://twitter.com/a11y)
 * AccessibilityOz [@AcessibilityOz](https://twitter.com/accessibilityoz)
-* A11YProject     [@A11YProject](http://twitter.com/A11YProject)
+* A11YProject     [@A11YProject](https://twitter.com/A11YProject)
 * Deque Systems  [@dequesystems](http://www.deque.com/)
 * IBMAccess [@IBMAccess](https://twitter.com/IBMAccess)
 * Microsoft Access	[@MSFTaccess](https://twitter.com/MSFTaccess)
-* Paciello Group [@paciellogroup](http://twitter.com/paciellogroup)
+* Paciello Group [@paciellogroup](https://twitter.com/paciellogroup)
 * PayPal Accessibility [@PayPalInclusive](https://twitter.com/PayPalInclusive)
 * Simply Accessible	[@sateaches](https://twitter.com/sateaches)
-* WebAxe [@webaxe](http://twitter.com/webaxe)
+* WebAxe [@webaxe](https://twitter.com/webaxe)
 
 ## Newsletters
 - [Accessibility Weekly](http://a11yweekly.com/)
