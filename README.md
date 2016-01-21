@@ -47,7 +47,7 @@
 * [Design like we give a damn!](https://vimeo.com/110965713)
 * [Design for Web Accessibility from the Beginning](https://getflywheel.com/layout/design-web-accessibility-beginning/)
 * [Getting Started with Web Accessibility](http://www.w3.org/WAI/gettingstarted/Overview.html)
-* [How I Audit a Website for Accessibility](https://substantial.com/blog/2014/07/22/how-i-audit-a-website-for-accessibility/)
+* [How I Audit a Website for Accessibility](http://staging.substantial.com/blog/2014/07/22/how-i-audit-a-website-for-accessibility/)
 * [Simply Accessible - Articles ](http://simplyaccessible.com/articles/)
 * [The Accessibility Cheatsheet](http://bitsofco.de/the-accessibility-cheatsheet/)
 * [What is WAI-ARIA, what does it do for me, and what not?](https://www.marcozehe.de/2014/03/27/what-is-wai-aria-what-does-it-do-for-me-and-what-not/)
