@@ -69,7 +69,7 @@
 * [Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/) – to test the contrast of your text against its background
 * [DaSilva - (pt-br) ](http://www.dasilva.org.br/)
 * [Headings Map](https://addons.mozilla.org/en-US/firefox/addon/headingsmap/) - A Firefox add-on to check whether your heading structure is logical
-* [pa11y](https://pa11y.org/)
+* [pa11y](http://www.pa11y.org/)
 * [Tenon.io](https://tenon.io/)
 * [tota11y - Accessibility Visualization Toolkit](http://khan.github.io/tota11y/)
 * [Screen Reader Simulator](https://addons.mozilla.org/en-US/firefox/addon/screen-reader-simulator/?src=search) - A Firefox add-on that allows you to simulate an on-screen displazyed screen reader. Step through your web page and read what a blind user would hear if they were using Firefox for Android with TalkBack, or a Firefox OS device with the screen reader turned on.
