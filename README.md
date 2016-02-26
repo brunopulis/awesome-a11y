@@ -58,6 +58,7 @@
 ## Books
 
 * [Building Accessible Websites](http://joeclark.org/book/) - A new book on Web Accessibility by [Joe Clark](http://joeclark.org/)
+* [UX Design And Content Strategy: The Project Guide](https://gathercontent.com/a-project-guide-to-ux-design-download-pdf) - This hands-on resource for all UXers is a project guide to UX design and content strategy that explores the relationship through a website project.
 
 ## Development Testing and Validators
 
