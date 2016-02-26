@@ -26,9 +26,9 @@
 
 ## W3C Specification
 
-* [Accessible Rich Internet Applications (WAI-ARIA) 1.0](http://www.w3.org/TR/wai-aria/)
+* [Accessible Rich Internet Applications (WAI-ARIA) 1.0](https://www.w3.org/TR/wai-aria/)
 * [Using ARIA in HTML](https://www.w3.org/TR/aria-in-html/)
-* [Web Content Accessibility Guidelines - WCAG 2.0](http://www.w3.org/TR/WCAG20/)
+* [Web Content Accessibility Guidelines - WCAG 2.0](https://www.w3.org/TR/WCAG20/)
 
 ## Guides
 
