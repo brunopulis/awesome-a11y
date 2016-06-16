@@ -46,7 +46,6 @@
 * [Design like we give a damn!](https://vimeo.com/110965713)
 * [Design for Web Accessibility from the Beginning](https://getflywheel.com/layout/design-web-accessibility-beginning/)
 * [Getting Started with Web Accessibility](http://www.w3.org/WAI/gettingstarted/Overview.html)
-* [How I Audit a Website for Accessibility](http://staging.substantial.com/blog/2014/07/22/how-i-audit-a-website-for-accessibility/)
 * [Simply Accessible - Articles ](http://simplyaccessible.com/articles/)
 * [The Accessibility Cheatsheet](http://bitsofco.de/the-accessibility-cheatsheet/)
 * [The web accessibility basics](https://www.marcozehe.de/2015/12/14/the-web-accessibility-basics/)
@@ -73,7 +72,6 @@
 * [pa11y](http://www.pa11y.org/)
 * [Tenon.io](https://tenon.io/)
 * [tota11y - Accessibility Visualization Toolkit](http://khan.github.io/tota11y/)
-* [Screen Reader Simulator](https://addons.mozilla.org/en-US/firefox/addon/screen-reader-simulator/?src=search) - A Firefox add-on that allows you to simulate an on-screen displazyed screen reader. Step through your web page and read what a blind user would hear if they were using Firefox for Android with TalkBack, or a Firefox OS device with the screen reader turned on.
 * [WAVE](http://wave.webaim.org/)
 
 ## Wordpress Plugins
