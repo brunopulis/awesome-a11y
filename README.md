@@ -15,6 +15,7 @@
   - [Books](#books)
   - [Development Testing and Validators](#development-testing-and-validators)
   - [Wordpress Plugins](#wordpress-plugins)
+  - [Webcomponents](#webcomponents)
   - [Other Resources](#other-resources)
   - [Presentations](#presentations)
   - [People to Follow in Web Accessibility](#people-to-follow-in-web-accessibility)
@@ -78,7 +79,12 @@
 
 * [WP Accessibility](https://www.joedolson.com/wp-accessibility/) - Helps with a variety of common accessibility problems in WP themes. by [@joedolson](https://github.com/joedolson)
 
+## Webcomponents
+
+* [skip-to-content](https://github.com/afonsopacifer/skip-to-content) - A Polymer element for Skip to Content. by [@afonsopacifer](https://github.com/afonsopacifer)
+
 ## Other Resources
+
 * [AIIY.js](http://allyjs.io/)
 * [A11yProject](https://github.com/a11yproject/a11yproject.com)
 * [A11y Wins](http://a11ywins.tumblr.com/) - Examples when accessibility wins by [@marcysutton](https://twitter.com/marcysutton)
@@ -88,6 +94,7 @@
 * [Not so Super Mario](https://www.youtube.com/watch?v=DvaPRlZtfyc) - A parody video showing accessibility problems using Mario Bros. games
 
 ## Presentations
+
 * [10 Simples Rules for Making My Site Accessible](http://pt.slideshare.net/HelenaZubkow/10-simple-rules-for-making-my-site-accessible) by [Helena Zubkow](https://twitter.com/misshelenasue)
 * [A Saga dos 12 Tópicos de Acessibilidade - (pt-br)](https://www.youtube.com/watch?v=RFg6XP6oluE) by [Reinaldo Ferraz](https://twitter.com/reinaldoferraz)
 * [Acessibilidade na Web modo Jedi Master - (pt-br)](https://www.youtube.com/watch?v=MMLQioPwbik) by [Reinaldo Ferraz](https://twitter.com/reinaldoferraz)
