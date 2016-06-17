@@ -63,6 +63,7 @@
 ## Development Testing and Validators
 
 * [508 Checker](http://www.508checker.com/)
+* [Access Lint](http://accesslint.com/)
 * [Access Monitor - (pt) ](http://www.acessibilidade.gov.pt/accessmonitor/)
 * [Accessibility Developer Tools for Chrome](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
 * [A11y Command-line Tools](https://addyosmani.github.io/a11y/)
