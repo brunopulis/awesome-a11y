@@ -96,6 +96,7 @@
 
 ## Presentations
 
+* [30 Minutes or Less: The Magic of Automated Accessibility Testing](http://marcysutton.github.io/a11y-automated-testing/)
 * [10 Simples Rules for Making My Site Accessible](http://pt.slideshare.net/HelenaZubkow/10-simple-rules-for-making-my-site-accessible) by [Helena Zubkow](https://twitter.com/misshelenasue)
 * [A Saga dos 12 Tópicos de Acessibilidade - (pt-br)](https://www.youtube.com/watch?v=RFg6XP6oluE) by [Reinaldo Ferraz](https://twitter.com/reinaldoferraz)
 * [Acessibilidade na Web modo Jedi Master - (pt-br)](https://www.youtube.com/watch?v=MMLQioPwbik) by [Reinaldo Ferraz](https://twitter.com/reinaldoferraz)
