@@ -42,6 +42,7 @@
 
 ## Articles and Videos
 
+* [A11Y Dialog](https://github.com/edenspiekermann/a11y-dialog)
 * [15 Rules to Making Accessible Links](http://www.sitepoint.com/15-rules-making-accessible-links/)
 * [CAPTCHA - Inaccessible to everyone](http://www.sitepoint.com/captcha-inaccessible-to-everyone/)
 * [Design like we give a damn!](https://vimeo.com/110965713)
