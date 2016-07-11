@@ -70,6 +70,7 @@
 * [A11y Command-line Tools](https://addyosmani.github.io/a11y/)
 * [Check My Colours - Validator of Color Constrast](http://www.checkmycolours.com/)
 * [Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/) – to test the contrast of your text against its background
+* [Chromelens - Extension Google Chrome](http://chromelens.xyz/)
 * [DaSilva - (pt-br) ](http://www.dasilva.org.br/)
 * [Headings Map](https://addons.mozilla.org/en-US/firefox/addon/headingsmap/) - A Firefox add-on to check whether your heading structure is logical
 * [pa11y](http://www.pa11y.org/)
