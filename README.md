@@ -48,6 +48,8 @@
 * [Design like we give a damn!](https://vimeo.com/110965713)
 * [Design for Web Accessibility from the Beginning](https://getflywheel.com/layout/design-web-accessibility-beginning/)
 * [Getting Started with Web Accessibility](http://www.w3.org/WAI/gettingstarted/Overview.html)
+* [Improving Single Page App Accessibility with a11y_kit](https://vimeo.com/117614181)
+* [Links vs Buttons in modern web applications](https://marcysutton.com/links-vs-buttons-in-modern-web-applications/)
 * [Simply Accessible - Articles ](http://simplyaccessible.com/articles/)
 * [The Accessibility Cheatsheet](http://bitsofco.de/the-accessibility-cheatsheet/)
 * [The web accessibility basics](https://www.marcozehe.de/2015/12/14/the-web-accessibility-basics/)
