@@ -35,6 +35,7 @@
 * [Accessible Mega Menu](https://github.com/adobe-accessibility/Accessible-Mega-Menu)
 * [a11yweekly](http://a11yweekly.com/)
 * [ARIA Cheatsheet](http://karlgroves-sandbox.com/CheatSheets/ARIA-Cheatsheet.html)
+* [BBC Accessibility Standards Checker](https://github.com/bbc/bbc-a11y)
 * [Easy Checks - A First Review of Web Accessibility](http://www.w3.org/WAI/eval/preliminary.html)
 * [Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course)
 * [Tuts+ Web Accessibility learning guide for Wordpress](http://code.tutsplus.com/series/accessibility--cms-799)
