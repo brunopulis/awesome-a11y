@@ -109,6 +109,7 @@
 * [Angular Accessibility](http://marcysutton.com/slides/angular-a11y-ng-europe/) by [Marcy Sutton](https://twitter.com/marcysutton)
 * [ARIA Accessibility, APIS coding like you give a damn ](http://www.slideshare.net/LeonieWatson/aria-accessibility-apis-coding-like-you-give-a-damn-2015) by [Léonie Watson](https://twitter.com/LeonieWatson)
 * [Frontend com Acessibilidade - (pt-br)](https://www.youtube.com/watch?v=UzTVq7we84w) by [Horácio Soares](https://twitter.com/horaciosoares) and [Clécio Bachini](https://twitter.com/cbachini)
+* [HTML Acessível](http://www.slideshare.net/reinaldoferraz/html-acessvel) by [Reinaldo Ferraz](https://twitter.com/reinaldoferraz)
 * [Trabalhando com WCAG e WAI-ARIA de forma correta - (pt-br)](http://slides.com/talitapagani/wcag-aria-webbr2015#/16) by [Talita Pagani](https://github.com/talitapagani)
 * [Accessibility Debt](https://www.youtube.com/watch?v=BViy4ToaJZs) by [Robert DeLuca](github.com/Robdel12)
 
