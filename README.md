@@ -43,6 +43,8 @@
 
 ## Articles and Videos
 
+* [10 rules for efficient form design](http://babich.biz/10-rules-for-efficient-form-design/)
+* [A11ycasts](https://www.youtube.com/watch?v=HtTyRajRuyY)
 * [A11Y Dialog](https://github.com/edenspiekermann/a11y-dialog)
 * [15 Rules to Making Accessible Links](http://www.sitepoint.com/15-rules-making-accessible-links/)
 * [CAPTCHA - Inaccessible to everyone](http://www.sitepoint.com/captcha-inaccessible-to-everyone/)
@@ -50,6 +52,7 @@
 * [Design for Web Accessibility from the Beginning](https://getflywheel.com/layout/design-web-accessibility-beginning/)
 * [Getting Started with Web Accessibility](http://www.w3.org/WAI/gettingstarted/Overview.html)
 * [Improving Single Page App Accessibility with a11y_kit](https://vimeo.com/117614181)
+* [Lesson from building mobile frindly accessible data tables](https://medium.com/shopify-ux/lessons-from-building-mobile-friendly-accessible-data-tables-1e05c6924eaf#.yxri88ccf)
 * [Links vs Buttons in modern web applications](https://marcysutton.com/links-vs-buttons-in-modern-web-applications/)
 * [Simply Accessible - Articles ](http://simplyaccessible.com/articles/)
 * [The Accessibility Cheatsheet](http://bitsofco.de/the-accessibility-cheatsheet/)
