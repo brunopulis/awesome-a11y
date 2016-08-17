@@ -99,6 +99,7 @@
 * [A11y Wins](http://a11ywins.tumblr.com/) - Examples when accessibility wins by [@marcysutton](https://twitter.com/marcysutton)
 * [Léonie Watson Blog](http://tink.uk/) - Posts about a11y in general.
 * [Practical ARIA Examples](http://heydonworks.com/practical_aria_examples/) - Example code and demos by [@heydonworks](https://twitter.com/heydonworks)
+* [Accessibility section - jQuery Plugins using ARIA](http://a11y.nicolas-hoffmann.net/) - Plugins and demos by [@Nico3333fr](https://twitter.com/Nico3333fr)
 * [Tota11y](http://khan.github.io/tota11y/) - An accessibility visualization toolkit
 * [Not so Super Mario](https://www.youtube.com/watch?v=DvaPRlZtfyc) - A parody video showing accessibility problems using Mario Bros. games
 * [Vox accessibility guidelines](http://accessibility.voxmedia.com/) - Vox accessibility checklist for every team member
