@@ -12,6 +12,7 @@
   - [W3C Specification](#w3c-specification)
   - [Guides](#guides)
   - [Articles and Videos](#articles-and-videos)
+  - [Courses](#courses)
   - [Books](#books)
   - [Development Testing and Validators](#development-testing-and-validators)
   - [Wordpress Plugins](#wordpress-plugins)
@@ -40,6 +41,10 @@
 * [Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course)
 * [Tuts+ Web Accessibility learning guide for Wordpress](http://code.tutsplus.com/series/accessibility--cms-799)
 * [Web Accessibility Tutorials](http://www.w3.org/WAI/tutorials/)
+
+## Courses
+
+* [Udacity Course on Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
 
 ## Articles and Videos
 
