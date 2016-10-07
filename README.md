@@ -85,6 +85,7 @@
 * [DaSilva - (pt-br) ](http://www.dasilva.org.br/)
 * [Headings Map](https://addons.mozilla.org/en-US/firefox/addon/headingsmap/) - A Firefox add-on to check whether your heading structure is logical
 * [pa11y](http://www.pa11y.org/)
+* [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) - A color blindness simulator for Mac and iOS
 * [Tenon.io](https://tenon.io/)
 * [tota11y - Accessibility Visualization Toolkit](http://khan.github.io/tota11y/)
 * [WAVE](http://wave.webaim.org/)
