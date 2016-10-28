@@ -45,6 +45,7 @@
 
 ## Courses
 
+* [Aprende Accesibilidad Web paso a paso](https://www.udemy.com/aprende-accesibilidad-web-paso-a-paso/) (Spanish)
 * [Udacity Course on Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
 
 ## Articles and Videos
