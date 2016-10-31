@@ -129,6 +129,7 @@
 * [HTML Acessível](http://www.slideshare.net/reinaldoferraz/html-acessvel) by [Reinaldo Ferraz](https://twitter.com/reinaldoferraz)
 * [Trabalhando com WCAG e WAI-ARIA de forma correta - (pt-br)](http://slides.com/talitapagani/wcag-aria-webbr2015#/16) by [Talita Pagani](https://github.com/talitapagani)
 * [Accessibility Debt](https://www.youtube.com/watch?v=BViy4ToaJZs) by [Robert DeLuca](github.com/Robdel12)
+* [Acessibilidade na Web: Levando nosso conteúdo a todas as pessoas - (pt-br)](http://slides.com/yanmagale/acessibilidade-web/) by [Yan Magalhães](https://github.com/yanmagale)
 
 ## People to Follow in Web Accessibility
 
