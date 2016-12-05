@@ -92,6 +92,7 @@
 * [tota11y - Accessibility Visualization Toolkit](http://khan.github.io/tota11y/)
 * [WAVE](http://wave.webaim.org/)
 * [aslint.org](https://www.aslint.org/)
+* [React A11y](https://github.com/reactjs/react-a11y) - Identifies accessibility issues in your React.js elements
 
 ## Wordpress Plugins
 
