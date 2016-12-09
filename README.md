@@ -40,6 +40,7 @@
 * [Easy Checks - A First Review of Web Accessibility](http://www.w3.org/WAI/eval/preliminary.html)
 * [Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course)
 * [Tuts+ Web Accessibility learning guide for Wordpress](http://code.tutsplus.com/series/accessibility--cms-799)
+* [Understanding WCAG 2.0](https://www.w3.org/TR/UNDERSTANDING-WCAG20/)
 * [Web Accesible](http://webaccesible.xyz/) (Spanish)
 * [Web Accessibility Tutorials](http://www.w3.org/WAI/tutorials/)
 
