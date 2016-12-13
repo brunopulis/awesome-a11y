@@ -33,6 +33,7 @@
 
 ## Guides
 
+* [Accessibility Guidelines](http://accessibility.voxmedia.com/)
 * [Accessible Mega Menu](https://github.com/adobe-accessibility/Accessible-Mega-Menu)
 * [a11yweekly](http://a11yweekly.com/)
 * [ARIA Cheatsheet](http://karlgroves-sandbox.com/CheatSheets/ARIA-Cheatsheet.html)
