@@ -88,6 +88,7 @@
 * [Chromelens - Extension Google Chrome](http://chromelens.xyz/)
 * [DaSilva - (pt-br) ](http://www.dasilva.org.br/)
 * [Headings Map](https://addons.mozilla.org/en-US/firefox/addon/headingsmap/) - A Firefox add-on to check whether your heading structure is logical
+* [HTML5 Outliner - Extension Google Chrome](https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo)
 * [pa11y](http://www.pa11y.org/)
 * [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) - A color blindness simulator for Mac and iOS
 * [Tenon.io](https://tenon.io/)
