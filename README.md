@@ -52,6 +52,7 @@
 
 ## Articles and Videos
 
+* [Advice for creating content that works well with screen readers](https://accessibility.blog.gov.uk/2017/02/08/advice-for-creating-content-that-works-well-with-screen-readers/)
 * [10 rules for efficient form design](http://babich.biz/10-rules-for-efficient-form-design/)
 * [A11ycasts](https://www.youtube.com/watch?v=HtTyRajRuyY)
 * [A11Y Dialog](https://github.com/edenspiekermann/a11y-dialog)
