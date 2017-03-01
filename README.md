@@ -52,6 +52,7 @@
 
 ## Articles and Videos
 
+* [Advice for creating content that works well with screen readers](https://accessibility.blog.gov.uk/2017/02/08/advice-for-creating-content-that-works-well-with-screen-readers/)
 * [10 rules for efficient form design](http://babich.biz/10-rules-for-efficient-form-design/)
 * [A11ycasts](https://www.youtube.com/watch?v=HtTyRajRuyY)
 * [A11Y Dialog](https://github.com/edenspiekermann/a11y-dialog)
@@ -81,6 +82,7 @@
 * [508 Checker](http://www.508checker.com/)
 * [Access Lint](http://accesslint.com/)
 * [Access Monitor - (pt) ](http://www.acessibilidade.gov.pt/accessmonitor/)
+* [Accessibility Developer Tools](https://github.com/GoogleChrome/accessibility-developer-tools)
 * [Accessibility Developer Tools for Chrome](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
 * [A11y Command-line Tools](https://addyosmani.github.io/a11y/)
 * [Check My Colours - Validator of Color Constrast](http://www.checkmycolours.com/)
@@ -96,6 +98,7 @@
 * [aslint.org](https://www.aslint.org/)
 * [React A11y](https://github.com/reactjs/react-a11y) - Identifies accessibility issues in your React.js elements
 * [a11y-checker](https://github.com/Muhnad/a11y-checker) - Warn about HTML Markup code accessibility issue. 
+* [eslint-plugin-jsx-a11y](https://www.npmjs.com/package/eslint-plugin-jsx-a11y) - A static analysis linter of jsx and their accessibility with screen readers
 
 ## Wordpress Plugins
 
