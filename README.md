@@ -97,6 +97,7 @@
 * [WAVE](http://wave.webaim.org/)
 * [aslint.org](https://www.aslint.org/)
 * [React A11y](https://github.com/reactjs/react-a11y) - Identifies accessibility issues in your React.js elements
+* [a11y-checker](https://github.com/Muhnad/a11y-checker) - Warn about HTML Markup code accessibility issue. 
 * [eslint-plugin-jsx-a11y](https://www.npmjs.com/package/eslint-plugin-jsx-a11y) - A static analysis linter of jsx and their accessibility with screen readers
 
 ## Wordpress Plugins
