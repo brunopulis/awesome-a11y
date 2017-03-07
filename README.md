@@ -17,6 +17,7 @@
   - [Development Testing and Validators](#development-testing-and-validators)
   - [Wordpress Plugins](#wordpress-plugins)
   - [Webcomponents](#webcomponents)
+  - [Screen Readers](#screen-readers)
   - [Other Resources](#other-resources)
   - [Presentations](#presentations)
   - [People to Follow in Web Accessibility](#people-to-follow-in-web-accessibility)
@@ -107,6 +108,16 @@
 ## Webcomponents
 
 * [skip-to-content](https://github.com/afonsopacifer/skip-to-content) - A Polymer element for Skip to Content. by [@afonsopacifer](https://github.com/afonsopacifer)
+
+## Screen Readers
+
+* [ChromeVox](http://www.chromevox.com/)
+* [JAWS - Desktop App - Windows Only](http://www.freedomscientific.com/Products/Blindness/JAWS)
+* [NVDA - Desktop App - Windows Only](https://www.nvaccess.org/)
+* [Orca Screen Reader Desktop App - Linux](https://wiki.gnome.org/Projects/Orca)
+* [Basic screen reader commands for accessibility testing - By Paciello Group](https://www.paciellogroup.com/blog/2015/01/basic-screen-reader-commands-for-accessibility-testing/)
+* [VoiceOver - By Apple, iPhone App (iOS)](http://www.apple.com/accessibility/iphone/vision/)
+* [VoiceOver - By Apple, Desktop App (Mac)](http://www.apple.com/accessibility/iphone/vision/)
 
 ## Other Resources
 
