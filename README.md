@@ -49,7 +49,8 @@
 ## Courses
 
 * [Aprende Accesibilidad Web paso a paso](https://www.udemy.com/aprende-accesibilidad-web-paso-a-paso/) (Spanish)
-* [Udacity Course on Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
+* [Web Accessibility by Google - Developing with Empathy - By udacity.com](https://www.udacity.com/course/web-accessibility--ud891)
+* [Start Building Accessible Web Applications Today - By egghead.io](https://egghead.io/courses/start-building-accessible-web-applications-today)
 
 ## Articles and Videos
 
