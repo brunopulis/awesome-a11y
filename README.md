@@ -19,7 +19,7 @@
   - [Webcomponents](#webcomponents)
   - [Screen Readers](#screen-readers)
   - [Other Resources](#other-resources)
-  - [Presentations](#presentations)
+  - [Talks](#talks)
   - [People to Follow in Web Accessibility](#people-to-follow-in-web-accessibility)
   - [Accessibility Weekly](#newsletters)
   - [Contributing](#contributing)
@@ -86,8 +86,6 @@
 * [Pro HTML5 Accessibility - by Joshue O Connor](https://www.amazon.com/Pro-HTML5-Accessibility-Professional-Apress/dp/1430241942)
 * [Web Accessibility: Web Standards and Regulatory Compliance - by Jim Thatcher](https://www.amazon.com/Web-Accessibility-Standards-Regulatory-Compliance/dp/1590596382)
 
-
-
 ## Development Testing and Validators
 
 * [508 Checker](http://www.508checker.com/)
@@ -144,7 +142,7 @@
 * [Vox accessibility guidelines](http://accessibility.voxmedia.com/) - Vox accessibility checklist for every team member
 * [Semantic Web Autocomplete for Atom](https://github.com/obetomuniz/autocomplete-semantic-web) - A plugin that offers suggestions for Schema.org, RDFa and WAI-ARIA.
 
-## Presentations
+## Talks
 
 * [WCAG is not scary anymore - A progressive approach to Website Accessibility](https://www.linkedin.com/pulse/wcag-scary-anymore-progressive-approach-website-herin-hentry?trk=pulse_spock-articles)
 * [30 Minutes or Less: The Magic of Automated Accessibility Testing](http://marcysutton.github.io/a11y-automated-testing/)
