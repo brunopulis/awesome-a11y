@@ -90,25 +90,29 @@
 ## Development Testing and Validators
 
 * [508 Checker](http://www.508checker.com/)
+* [A11y Command-line Tools](https://addyosmani.github.io/a11y/)
+* [a11y-checker](https://github.com/Muhnad/a11y-checker) - Warn about HTML Markup code accessibility issue. 
 * [Access Lint](http://accesslint.com/)
 * [Access Monitor - (pt) ](http://www.acessibilidade.gov.pt/accessmonitor/)
 * [Accessibility Developer Tools](https://github.com/GoogleChrome/accessibility-developer-tools)
 * [Accessibility Developer Tools for Chrome](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
-* [A11y Command-line Tools](https://addyosmani.github.io/a11y/)
+* [aslint.org](https://www.aslint.org/)
 * [Check My Colours - Validator of Color Constrast](http://www.checkmycolours.com/)
-* [Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/) – to test the contrast of your text against its background
+* [Chrome Accessibility Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
 * [Chromelens - Extension Google Chrome](http://chromelens.xyz/)
+* [Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/) – to test the contrast of your text against its background
+* [Color Oracle - App (Mac/Win/Linux)](http://colororacle.org/)
 * [DaSilva - (pt-br) ](http://www.dasilva.org.br/)
+* [eslint-plugin-jsx-a11y](https://www.npmjs.com/package/eslint-plugin-jsx-a11y) - A static analysis linter of jsx and their accessibility with screen readers
 * [Headings Map](https://addons.mozilla.org/en-US/firefox/addon/headingsmap/) - A Firefox add-on to check whether your heading structure is logical
+* [I want to see like the colour blind - Chrome Extension (Mac/Win)](https://chrome.google.com/webstore/detail/i-want-to-see-like-the-co/jebeedfnielkcjlcokhiobodkjjpbjia)
 * [pa11y](http://www.pa11y.org/)
+* [React A11y](https://github.com/reactjs/react-a11y) - Identifies accessibility issues in your React.js elements
 * [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) - A color blindness simulator for Mac and iOS
 * [Tenon.io](https://tenon.io/)
 * [tota11y - Accessibility Visualization Toolkit](http://khan.github.io/tota11y/)
 * [WAVE](http://wave.webaim.org/)
-* [aslint.org](https://www.aslint.org/)
-* [React A11y](https://github.com/reactjs/react-a11y) - Identifies accessibility issues in your React.js elements
-* [a11y-checker](https://github.com/Muhnad/a11y-checker) - Warn about HTML Markup code accessibility issue. 
-* [eslint-plugin-jsx-a11y](https://www.npmjs.com/package/eslint-plugin-jsx-a11y) - A static analysis linter of jsx and their accessibility with screen readers
+* [Web Accessibility Toolbar (WAT) - By The Paciello Group, IE Extension (Win only)](https://www.paciellogroup.com/resources/wat/)
 
 ## Wordpress Plugins
 
