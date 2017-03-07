@@ -4,7 +4,7 @@
 [![Join the chat at https://gitter.im/brunopulis/awesome-a11y](https://badges.gitter.im/brunopulis/awesome-a11y.svg)](https://gitter.im/brunopulis/awesome-a11y?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome Accessibility tools, articles and resources. Inspired by [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox).
+> A curated list of awesome Accessibility tools, articles and resources.
 
 **Table of Contents**
 
@@ -32,6 +32,8 @@
 * [Using ARIA in HTML](https://www.w3.org/TR/aria-in-html/)
 * [Web Content Accessibility Guidelines - WCAG 2.0](https://www.w3.org/TR/WCAG20/)
 
+----
+
 ## Guides
 
 * [Accessibility Guidelines](http://accessibility.voxmedia.com/)
@@ -46,11 +48,15 @@
 * [Web Accesible](http://webaccesible.xyz/) (Spanish)
 * [Web Accessibility Tutorials](http://www.w3.org/WAI/tutorials/)
 
+----
+
 ## Courses
 
 * [Aprende Accesibilidad Web paso a paso](https://www.udemy.com/aprende-accesibilidad-web-paso-a-paso/) (Spanish)
 * [Web Accessibility by Google - Developing with Empathy - By udacity.com](https://www.udacity.com/course/web-accessibility--ud891)
 * [Start Building Accessible Web Applications Today - By egghead.io](https://egghead.io/courses/start-building-accessible-web-applications-today)
+
+----
 
 ## Articles and Videos
 
@@ -74,6 +80,8 @@
 * [What is Web Accessibility](http://alistapart.com/article/wiwa)
 * [Web Accessibility Tutorial](https://www.w3.org/WAI/tutorials/)
 
+----
+
 ## Books
 
 * [A Web for Everyone - Designing Accessible User Experiences - by Sarah Horton & Whitney Quesenbery](http://rosenfeldmedia.com/books/a-web-for-everyone/)
@@ -86,6 +94,8 @@
 * [UX Design And Content Strategy: The Project Guide](https://gathercontent.com/a-project-guide-to-ux-design-download-pdf) - This hands-on resource for all UXers is a project guide to UX design and content strategy that explores the relationship through a website project.
 * [Pro HTML5 Accessibility - by Joshue O Connor](https://www.amazon.com/Pro-HTML5-Accessibility-Professional-Apress/dp/1430241942)
 * [Web Accessibility: Web Standards and Regulatory Compliance - by Jim Thatcher](https://www.amazon.com/Web-Accessibility-Standards-Regulatory-Compliance/dp/1590596382)
+
+----
 
 ## Development Testing and Validators
 
@@ -114,13 +124,19 @@
 * [WAVE](http://wave.webaim.org/)
 * [Web Accessibility Toolbar (WAT) - By The Paciello Group, IE Extension (Win only)](https://www.paciellogroup.com/resources/wat/)
 
+----
+
 ## Wordpress Plugins
 
 * [WP Accessibility](https://www.joedolson.com/wp-accessibility/) - Helps with a variety of common accessibility problems in WP themes. by [@joedolson](https://github.com/joedolson)
 
+----
+
 ## Webcomponents
 
 * [skip-to-content](https://github.com/afonsopacifer/skip-to-content) - A Polymer element for Skip to Content. by [@afonsopacifer](https://github.com/afonsopacifer)
+
+----
 
 ## Screen Readers
 
@@ -131,6 +147,8 @@
 * [Basic screen reader commands for accessibility testing - By Paciello Group](https://www.paciellogroup.com/blog/2015/01/basic-screen-reader-commands-for-accessibility-testing/)
 * [VoiceOver - By Apple, iPhone App (iOS)](http://www.apple.com/accessibility/iphone/vision/)
 * [VoiceOver - By Apple, Desktop App (Mac)](http://www.apple.com/accessibility/iphone/vision/)
+
+----
 
 ## Other Resources
 
@@ -147,6 +165,8 @@
 * [Vox accessibility guidelines](http://accessibility.voxmedia.com/) - Vox accessibility checklist for every team member
 * [Semantic Web Autocomplete for Atom](https://github.com/obetomuniz/autocomplete-semantic-web) - A plugin that offers suggestions for Schema.org, RDFa and WAI-ARIA.
 
+----
+
 ## Talks
 
 * [WCAG is not scary anymore - A progressive approach to Website Accessibility](https://www.linkedin.com/pulse/wcag-scary-anymore-progressive-approach-website-herin-hentry?trk=pulse_spock-articles)
@@ -161,6 +181,8 @@
 * [Trabalhando com WCAG e WAI-ARIA de forma correta - (pt-br)](http://slides.com/talitapagani/wcag-aria-webbr2015#/16) by [Talita Pagani](https://github.com/talitapagani)
 * [Accessibility Debt](https://www.youtube.com/watch?v=BViy4ToaJZs) by [Robert DeLuca](github.com/Robdel12)
 * [Acessibilidade na Web: Levando nosso conteúdo a todas as pessoas - (pt-br)](http://slides.com/yanmagale/acessibilidade-web/) by [Yan Magalhães](https://github.com/yanmagale)
+
+----
 
 ## People to Follow in Web Accessibility
 
@@ -208,6 +230,8 @@ This is a list, in no particular order, of people to follow that contribute grea
 * Steve Faulkner     [@stevefaulkner](https://twitter.com/stevefaulkner)
 * Ted Drake	[@ted_drake](https://twitter.com/ted_drake)
 
+----
+
 ## Companies & Organizations
 
 * 3play Media	[@3playmedia](https://twitter.com/3playmedia)
@@ -222,13 +246,25 @@ This is a list, in no particular order, of people to follow that contribute grea
 * Simply Accessible	[@sateaches](https://twitter.com/sateaches)
 * WebAxe [@webaxe](https://twitter.com/webaxe)
 
+----
+
 ## Newsletters
 - [Accessibility Weekly](http://a11yweekly.com/)
+
+----
 
 ##Contributing
 
 You want to contribute to this project? [Please follow these recommendations](CONTRIBUTING.md).
 
-##License
+----
+
+## Open source licensing info
 
 [![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+----
+
+## Credits and references
+
+1. Inspired by [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox).
