@@ -15,8 +15,6 @@
   - [Courses](#courses)
   - [Books](#books)
   - [Development Testing and Validators](#development-testing-and-validators)
-  - [Wordpress Plugins](#wordpress-plugins)
-  - [Webcomponents](#webcomponents)
   - [Screen Readers](#screen-readers)
   - [Other Resources](#other-resources)
   - [Talks](#talks)
@@ -123,17 +121,7 @@
 * [tota11y - Accessibility Visualization Toolkit](http://khan.github.io/tota11y/)
 * [WAVE](http://wave.webaim.org/)
 * [Web Accessibility Toolbar (WAT) - By The Paciello Group, IE Extension (Win only)](https://www.paciellogroup.com/resources/wat/)
-
-----
-
-## Wordpress Plugins
-
 * [WP Accessibility](https://www.joedolson.com/wp-accessibility/) - Helps with a variety of common accessibility problems in WP themes. by [@joedolson](https://github.com/joedolson)
-
-----
-
-## Webcomponents
-
 * [skip-to-content](https://github.com/afonsopacifer/skip-to-content) - A Polymer element for Skip to Content. by [@afonsopacifer](https://github.com/afonsopacifer)
 
 ----
