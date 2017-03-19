@@ -152,6 +152,7 @@
 * [van11y](https://van11y.net/) - A collection of accessible scripts
 * [Vox accessibility guidelines](http://accessibility.voxmedia.com/) - Vox accessibility checklist for every team member
 * [Semantic Web Autocomplete for Atom](https://github.com/obetomuniz/autocomplete-semantic-web) - A plugin that offers suggestions for Schema.org, RDFa and WAI-ARIA.
+* [middleman-aria_current](https://github.com/thoughtbot/middleman-aria_current) - A Middleman extension for indicating a current (active) link using `aria-current`.
 
 ----
 
