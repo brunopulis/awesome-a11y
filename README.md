@@ -241,7 +241,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 
 ----
 
-##Contributing
+## Contributing
 
 You want to contribute to this project? [Please follow these recommendations](CONTRIBUTING.md).
 
