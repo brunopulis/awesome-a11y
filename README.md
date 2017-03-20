@@ -233,7 +233,6 @@ This is a list, in no particular order, of people to follow that contribute grea
 * IBMAccess [@IBMAccess](https://twitter.com/IBMAccess)
 * Microsoft Access	[@MSFTaccess](https://twitter.com/MSFTaccess)
 * Paciello Group [@paciellogroup](https://twitter.com/paciellogroup)
-* PayPal Accessibility [@PayPalInclusive](https://twitter.com/PayPalInclusive)
 * Simply Accessible	[@sateaches](https://twitter.com/sateaches)
 * WebAxe [@webaxe](https://twitter.com/webaxe)
 
