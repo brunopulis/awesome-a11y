@@ -35,6 +35,7 @@
 ## Guides
 
 * [Accessibility Guidelines](http://accessibility.voxmedia.com/)
+* [Acessibilidade for Devs - pt-br](https://github.com/acessibilidade-for-devs/acessibilidade-for-devs.github.io)
 * [Accessible Mega Menu](https://github.com/adobe-accessibility/Accessible-Mega-Menu)
 * [a11yweekly](http://a11yweekly.com/)
 * [ARIA Cheatsheet](http://karlgroves-sandbox.com/CheatSheets/ARIA-Cheatsheet.html)
