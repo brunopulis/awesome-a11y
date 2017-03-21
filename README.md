@@ -154,7 +154,7 @@
 * [Semantic Web Autocomplete for Atom](https://github.com/obetomuniz/autocomplete-semantic-web) - A plugin that offers suggestions for Schema.org, RDFa and WAI-ARIA.
 * [Middleman Aria_Current](https://github.com/thoughtbot/middleman-aria_current) - A Middleman extension for indicating a current (active) link using `aria-current`.
 * [Trello accessibility cards generator](https://github.com/luarmr/trello-a11y-cards) - A node.js script to create a Trello card for every point in WCAG2 guidelines.
-
+* [Inclusive Components](http://inclusive-components.club/) - A blog trying to be a pattern library. Each post explores the design of a robust, accessible interface component.
 
 ----
 
