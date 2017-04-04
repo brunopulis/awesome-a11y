@@ -63,6 +63,7 @@
 * [10 rules for efficient form design](http://babich.biz/10-rules-for-efficient-form-design/)
 * [A11ycasts](https://www.youtube.com/watch?v=HtTyRajRuyY)
 * [A11Y Dialog](https://github.com/edenspiekermann/a11y-dialog)
+* [Automated Accessibility Checking with aXe](https://www.sitepoint.com/automated-accessibility-checking-with-axe/)
 * [15 Rules to Making Accessible Links](http://www.sitepoint.com/15-rules-making-accessible-links/)
 * [CAPTCHA - Inaccessible to everyone](http://www.sitepoint.com/captcha-inaccessible-to-everyone/)
 * [Design like we give a damn!](https://www.vimeo.com/110965713)
