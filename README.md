@@ -163,6 +163,7 @@
 
 ## Talks
 
+* [JQuerySF - Victor Tsaran - The Modern Web and Accessibility](https://www.youtube.com/watch?v=KIruVNEi6mI)
 * [WCAG is not scary anymore - A progressive approach to Website Accessibility](https://www.linkedin.com/pulse/wcag-scary-anymore-progressive-approach-website-herin-hentry?trk=pulse_spock-articles)
 * [30 Minutes or Less: The Magic of Automated Accessibility Testing](http://marcysutton.github.io/a11y-automated-testing/)
 * [10 Simples Rules for Making My Site Accessible](http://pt.slideshare.net/HelenaZubkow/10-simple-rules-for-making-my-site-accessible) by [Helena Zubkow](https://twitter.com/misshelenasue)
