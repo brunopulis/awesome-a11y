@@ -116,6 +116,7 @@
 * [DaSilva - (pt-br) ](http://www.dasilva.org.br/)
 * [eslint-plugin-jsx-a11y](https://www.npmjs.com/package/eslint-plugin-jsx-a11y) - A static analysis linter of jsx and their accessibility with screen readers
 * [Headings Map](https://addons.mozilla.org/en-US/firefox/addon/headingsmap/) - A Firefox add-on to check whether your heading structure is logical
+* [HTML5 Acessibility](http://www.html5accessibility.com/) - Get the current accessibility support status of HTML5 features across major browsers.
 * [I want to see like the colour blind - Chrome Extension (Mac/Win)](https://chrome.google.com/webstore/detail/i-want-to-see-like-the-co/jebeedfnielkcjlcokhiobodkjjpbjia)
 * [pa11y](http://www.pa11y.org/)
 * [React A11y](https://github.com/reactjs/react-a11y) - Identifies accessibility issues in your React.js elements
