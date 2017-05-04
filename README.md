@@ -146,6 +146,7 @@
 * [AIIY.js](http://allyjs.io/)
 * [A11yProject](https://github.com/a11yproject/a11yproject.com)
 * [A11y Wins](http://a11ywins.tumblr.com/) - Examples when accessibility wins by [@marcysutton](https://twitter.com/marcysutton)
+* [Alix](https://github.com/ireade/alix) - a browser extension for a11y.css
 * [Léonie Watson Blog](http://tink.uk/) - Posts about a11y in general.
 * [Practical ARIA Examples](http://heydonworks.com/practical_aria_examples/) - Example code and demos by [@heydonworks](https://twitter.com/heydonworks)
 * [Accessibility section - jQuery Plugins using ARIA](http://a11y.nicolas-hoffmann.net/) - Plugins and demos by [@Nico3333fr](https://twitter.com/Nico3333fr)
