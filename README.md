@@ -146,6 +146,7 @@
 
 ## Other Resources
 
+* [A11Y Style Guide](https://github.com/cehfisher/a11y-style-guide)
 * [AIIY.js](http://allyjs.io/)
 * [A11yProject](https://github.com/a11yproject/a11yproject.com)
 * [A11y Wins](http://a11ywins.tumblr.com/) - Examples when accessibility wins by [@marcysutton](https://twitter.com/marcysutton)
