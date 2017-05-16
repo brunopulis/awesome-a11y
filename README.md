@@ -95,6 +95,7 @@
 * [Inclusive Design Patterns - by Heydon Pickering](https://shop.smashingmagazine.com/products/inclusive-design-patterns)
 * [UX Design And Content Strategy: The Project Guide](https://gathercontent.com/a-project-guide-to-ux-design-download-pdf) - This hands-on resource for all UXers is a project guide to UX design and content strategy that explores the relationship through a website project.
 * [Pro HTML5 Accessibility - by Joshue O Connor](https://www.amazon.com/Pro-HTML5-Accessibility-Professional-Apress/dp/1430241942)
+* [Tragic Design](http://www.tragicdesign.com/) 
 * [Web Accessibility: Web Standards and Regulatory Compliance - by Jim Thatcher](https://www.amazon.com/Web-Accessibility-Standards-Regulatory-Compliance/dp/1590596382)
 
 ----
