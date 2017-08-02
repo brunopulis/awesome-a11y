@@ -116,6 +116,7 @@
 * [Chromelens - Extension Google Chrome](http://chromelens.xyz/)
 * [Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/) – to test the contrast of your text against its background
 * [Color Oracle - App (Mac/Win/Linux)](http://colororacle.org/)
+* [Contrast Ratio](https://leaverou.github.io/contrast-ratio/) - Live demonstration of the readability of your background and text color combination.
 * [DaSilva - (pt-br) ](http://www.dasilva.org.br/)
 * [eslint-plugin-jsx-a11y](https://www.npmjs.com/package/eslint-plugin-jsx-a11y) - A static analysis linter of jsx and their accessibility with screen readers
 * [Headings Map](https://addons.mozilla.org/en-US/firefox/addon/headingsmap/) - A Firefox add-on to check whether your heading structure is logical
