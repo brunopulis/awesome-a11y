@@ -247,9 +247,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 * Steve Faulkner     [@stevefaulkner](https://twitter.com/stevefaulkner)
 * Ted Drake	[@ted_drake](https://twitter.com/ted_drake)
 
-----
-
-## Companies & Organizations - :office: 
+## :office:  Companies & Organizations
 
 | Name | Link |
 | --- | --- |
@@ -266,7 +264,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 | WebAxe | [@webaxe](https://twitter.com/webaxe) |
 
 
-## Newsletters :newspapper:
+## :newspaper: Newsletters 
 
 
 | Name | Link |
