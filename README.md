@@ -62,13 +62,13 @@
 
 ----
 
-## Courses
+## :mortar_board: Courses
 
-* [Aprende Accesibilidad Web paso a paso](https://www.udemy.com/aprende-accesibilidad-web-paso-a-paso/) (Spanish)
-* [Web Accessibility by Google - Developing with Empathy - By udacity.com](https://www.udacity.com/course/web-accessibility--ud891)
-* [Start Building Accessible Web Applications Today - By egghead.io](https://egghead.io/courses/start-building-accessible-web-applications-today)
-
-----
+| Level | Name | Language | Price |
+| --- | --- | --- | --- |
+|:green_heart:| [Aprende Accesibilidad Web paso a paso](https://www.udemy.com/aprende-accesibilidad-web-paso-a-paso/) | Spanish | :free:
+|:green_heart:| [Web Accessibility - Developing with Empathy](https://www.udacity.com/course/web-accessibility--ud891) | English | :free:
+|:green_heart:| [Start Building Accessible Web Applications Today](https://egghead.io/courses/start-building-accessible-web-applications-today)| English | :free:
 
 ## Articles and Videos
 
