@@ -272,8 +272,6 @@ This is a list, in no particular order, of people to follow that contribute grea
 | Accessibility Weekly | [Accessibility Weekly](http://a11yweekly.com/) |
  
 
-----
-
 ## Contributing
 
 You want to contribute to this project? [Please follow these recommendations](CONTRIBUTING.md).
@@ -282,6 +280,7 @@ You want to contribute to this project? [Please follow these recommendations](CO
 
 ## Open source licensing info
 
+This project is licensed under the MIT license - see the [LICENSE](LICENSE.md) for details.
 [![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 ----
