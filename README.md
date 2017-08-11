@@ -47,22 +47,21 @@
 
 ## Guides
 
-* [Accessibility Guidelines](http://accessibility.voxmedia.com/)
-* [Acessibilidade for Devs - pt-br](https://github.com/acessibilidade-for-devs/acessibilidade-for-devs.github.io)
-* [Accessible Mega Menu](https://github.com/adobe-accessibility/Accessible-Mega-Menu)
-* [a11yweekly](http://a11yweekly.com/)
-* [ARIA Cheatsheet](http://karlgroves-sandbox.com/CheatSheets/ARIA-Cheatsheet.html)
-* [BBC Accessibility Standards Checker](https://github.com/bbc/bbc-a11y)
-* [Easy Checks - A First Review of Web Accessibility](http://www.w3.org/WAI/eval/preliminary.html)
-* [Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course)
-* [Tuts+ Web Accessibility learning guide for Wordpress](http://code.tutsplus.com/series/accessibility--cms-799)
-* [Understanding WCAG 2.0](https://www.w3.org/TR/UNDERSTANDING-WCAG20/)
-* [Web Accesible](http://webaccesible.xyz/) (Spanish)
-* [Web Accessibility Tutorials](http://www.w3.org/WAI/tutorials/)
+| Name | Language |
+| --- | --- |
+|[Accessibility Guidelines](http://accessibility.voxmedia.com/) | EN
+|[Acessibilidade for Devs](https://github.com/acessibilidade-for-devs/acessibilidade-for-devs.github.io) | PT-BR
+|[Accessible Mega Menu](https://github.com/adobe-accessibility/Accessible-Mega-Menu) | EN 
+|[ARIA Cheatsheet](http://karlgroves-sandbox.com/CheatSheets/ARIA-Cheatsheet.html) | EN
+|[BBC Accessibility Standards Checker](https://github.com/bbc/bbc-a11y) | EN
+|[Easy Checks - A First Review of Web Accessibility](http://www.w3.org/WAI/eval/preliminary.html) | EN
+|[Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course) | EN
+|[Tuts+ Web Accessibility learning guide for Wordpress](http://code.tutsplus.com/series/accessibility--cms-799) | EN
+|[Understanding WCAG 2.0](https://www.w3.org/TR/UNDERSTANDING-WCAG20/) | EN
+|[Web Accesible](http://webaccesible.xyz/) | ED
+|[Web Accessibility Tutorials](http://www.w3.org/WAI/tutorials/) | EN
 
-----
-
-## :mortar_board: Courses
+## Courses :mortar_board:
 
 | Level | Name | Language | Price |
 | --- | --- | --- | --- |
