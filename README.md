@@ -6,7 +6,8 @@
 
 <img src="a11y.png" />
 
-> A curated list of awesome Accessibility tools, articles and resources.
+> A curated list of awesome Accessibility tools, articles and resources. 
+> Inspired by [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox).
 
 **Table of Contents**
 
@@ -271,18 +272,13 @@ This is a list, in no particular order, of people to follow that contribute grea
 | Accessibility Weekly | [Accessibility Weekly](http://a11yweekly.com/) |
  
 
-## Contributing
+## CONTRIBUTING
 
-You want to contribute to this project? [Please follow these recommendations](CONTRIBUTING.md).
+[Please follow these recommendations](CONTRIBUTING.md).
 
 ----
 
-## Open source licensing info
+## LICENSE
 
 This project is licensed under the MIT license - see the [LICENSE](LICENSE.md) for details.
 
-----
-
-## Credits and references
-
-1. Inspired by [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox).
