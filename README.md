@@ -44,7 +44,13 @@
 |:large_orange_diamond:| [WAI-ARIA 1.1](https://www.w3.org/TR/wai-aria-1.1/) | Framework to improve the accessibility and interoperability of web content and applications |
 |:green_heart:| [Using ARIA](https://www.w3.org/TR/aria-in-html/) | Practical guide for developers on how to add accessibility infos to HTML |
 
-----
+## Newsletters :newspaper: 
+
+
+| Name | Link |
+| --- | --- |
+| Accessibility Weekly | [Accessibility Weekly](http://a11yweekly.com/) |
+
 
 ## Guides
 
@@ -266,12 +272,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 | WebAxe | [@webaxe](https://twitter.com/webaxe) |
 
 
-## Newsletters :newspaper: 
 
-
-| Name | Link |
-| --- | --- |
-| Accessibility Weekly | [Accessibility Weekly](http://a11yweekly.com/) |
  
 
 ## CONTRIBUTING
