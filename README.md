@@ -124,8 +124,8 @@
 * [508 Checker](http://www.508checker.com/)
 * [A11Y.css](https://github.com/ffoodd/a11y.css)
 * [A11y Command-line Tools](https://addyosmani.github.io/a11y/)
-* [a11y-checker](https://github.com/Muhnad/a11y-checker) - Warn about HTML Markup code accessibility issue. 
-* [Access Lint](http://accesslint.com/)
+* [a11y-checker](https://github.com/Muhnad/a11y-checker) - Warn about HTML Markup code accessibility issue.
+* [AccessLint](https://www.accesslint.com/) - A GitHub App that finds accessibility issues in your pull requests.
 * [Access Monitor - (pt) ](http://www.acessibilidade.gov.pt/accessmonitor/)
 * [Accessibility Developer Tools](https://github.com/GoogleChrome/accessibility-developer-tools)
 * [Accessibility Developer Tools for Chrome](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
