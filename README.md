@@ -26,13 +26,15 @@
   - [Contributing](#contributing)
   - [License](#license)
 
-## Levels
+## Legends
 
 | Level | Description |
 | --- | --- |
 |:green_heart:| Basic Level |
 |:large_orange_diamond:| Intermediary Level |
 |:red_circle:| Advanced Level |
+|:memo:| Text |
+|:movie_camera:| Video |
 
 
 ## W3C Specification
