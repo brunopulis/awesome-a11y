@@ -6,7 +6,7 @@
 
 <img src="a11y.png" />
 
-> A curated list of awesome Accessibility tools, articles and resources. 
+> A curated list of awesome Accessibility tools, articles and resources.
 > Inspired by [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox).
 
 **Table of Contents**
@@ -46,7 +46,7 @@
 |:large_orange_diamond:| [WAI-ARIA 1.1](https://www.w3.org/TR/wai-aria-1.1/) | Framework to improve the accessibility and interoperability of web content and applications |
 |:green_heart:| [Using ARIA](https://www.w3.org/TR/aria-in-html/) | Practical guide for developers on how to add accessibility infos to HTML |
 
-## Newsletters :newspaper: 
+## Newsletters :newspaper:
 
 
 | Name | Link |
@@ -60,7 +60,7 @@
 | --- | --- |
 |[Accessibility Guidelines](http://accessibility.voxmedia.com/) | EN
 |[Acessibilidade for Devs](https://github.com/acessibilidade-for-devs/acessibilidade-for-devs.github.io) | PT-BR
-|[Accessible Mega Menu](https://github.com/adobe-accessibility/Accessible-Mega-Menu) | EN 
+|[Accessible Mega Menu](https://github.com/adobe-accessibility/Accessible-Mega-Menu) | EN
 |[ARIA Cheatsheet](http://karlgroves-sandbox.com/CheatSheets/ARIA-Cheatsheet.html) | EN
 |[BBC Accessibility Standards Checker](https://github.com/bbc/bbc-a11y) | EN
 |[Easy Checks - A First Review of Web Accessibility](http://www.w3.org/WAI/eval/preliminary.html) | EN
@@ -69,6 +69,7 @@
 |[Understanding WCAG 2.0](https://www.w3.org/TR/UNDERSTANDING-WCAG20/) | EN
 |[Web Accesible](http://webaccesible.xyz/) | ED
 |[Web Accessibility Tutorials](http://www.w3.org/WAI/tutorials/) | EN
+|[USA Government's accessibility guide](https://accessibility.18f.gov/) | EN
 
 ## Courses :mortar_board:
 
@@ -77,6 +78,8 @@
 |:green_heart:| [Aprende Accesibilidad Web paso a paso](https://www.udemy.com/aprende-accesibilidad-web-paso-a-paso/) | Spanish | :free:
 |:green_heart:| [Web Accessibility - Developing with Empathy](https://www.udacity.com/course/web-accessibility--ud891) | English | :free:
 |:green_heart:| [Start Building Accessible Web Applications Today](https://egghead.io/courses/start-building-accessible-web-applications-today)| English | :free:
+|:green_heart:| [Web accessibility training in London](https://www.webcredible.com/training/web-accessibility-training/)| English | £495
+|:green_heart:| [Treehouse Accessibility course](https://teamtreehouse.com/library/accessibility) | :free: with trial
 
 ## Articles and Videos
 
@@ -100,6 +103,9 @@
 * [WebAIM - Introduction to Web Accessibility](http://webaim.org/intro/)
 * [What is Web Accessibility](http://alistapart.com/article/wiwa)
 * [Web Accessibility Tutorial](https://www.w3.org/WAI/tutorials/)
+* [A Software Tester's Guide to Web Accessibility](https://dojo.ministryoftesting.com/lessons/a-software-tester-s-guide-to-web-accessibility)
+* [Making Open-Source Accessible for All](https://medium.com/@kaelig/making-open-source-accessible-for-all-8131429913b1)
+* [Writing JavaScript with accessibility in mind](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9)
 
 ----
 
@@ -114,8 +120,9 @@
 * [Inclusive Design Patterns - by Heydon Pickering](https://shop.smashingmagazine.com/products/inclusive-design-patterns)
 * [UX Design And Content Strategy: The Project Guide](https://gathercontent.com/a-project-guide-to-ux-design-download-pdf) - This hands-on resource for all UXers is a project guide to UX design and content strategy that explores the relationship through a website project.
 * [Pro HTML5 Accessibility - by Joshue O Connor](https://www.amazon.com/Pro-HTML5-Accessibility-Professional-Apress/dp/1430241942)
-* [Tragic Design](http://www.tragicdesign.com/) 
+* [Tragic Design](http://www.tragicdesign.com/)
 * [Web Accessibility: Web Standards and Regulatory Compliance - by Jim Thatcher](https://www.amazon.com/Web-Accessibility-Standards-Regulatory-Compliance/dp/1590596382)
+* [How to Meet the Web Content Accessibility Guidelines 2.0 - Luke McGrath](https://www.wuhcag.com/wcag/)
 
 ----
 
@@ -151,6 +158,7 @@
 * [WP Accessibility](https://www.joedolson.com/wp-accessibility/) - Helps with a variety of common accessibility problems in WP themes. by [@joedolson](https://github.com/joedolson)
 * [skip-to-content](https://github.com/afonsopacifer/skip-to-content) - A Polymer element for Skip to Content. by [@afonsopacifer](https://github.com/afonsopacifer)
 * [Tanaguru Contrast Finder](http://contrast-finder.tanaguru.com/?lang=en) - Contrast finder that suggests a valid color range
+* [A11y Command-line Tools](https://addyosmani.com/a11y/) - Web accessibility audits powered by the Chrome Accessibility Developer Tools.
 
 ----
 
@@ -187,6 +195,10 @@
 * [Vox accessibility guidelines](http://accessibility.voxmedia.com/) - Vox accessibility checklist for every team member
 * [Semantic Web Autocomplete for Atom](https://github.com/obetomuniz/autocomplete-semantic-web) - A plugin that offers suggestions for Schema.org, RDFa and WAI-ARIA.
 * [Trello accessibility cards generator](https://github.com/luarmr/trello-a11y-cards) - A node.js script to create a Trello card for every point in WCAG2 guidelines.
+* [UK Government's accessibility blog](https://accessibility.blog.gov.uk/)
+* [Co-op design manual](https://coop-design-manual.herokuapp.com/accessibility.html) - a good overview of how to make a site accessible, including content writing guidelines and technical examples.
+* [Ebay's accessibility patterns for the web](https://ebay.gitbooks.io/mindpatterns/content/) - Huge variety of features with working code examples and best practices explained.
+* [Mozilla developer network's accessibility section](https://developer.mozilla.org/en-US/docs/Web/Accessibility) - checklists, tutorials and code examples.
 
 
 ----
@@ -206,6 +218,7 @@
 * [Trabalhando com WCAG e WAI-ARIA de forma correta - (pt-br)](http://slides.com/talitapagani/wcag-aria-webbr2015#/16) by [Talita Pagani](https://github.com/talitapagani)
 * [Accessibility Debt](https://www.youtube.com/watch?v=BViy4ToaJZs) by [Robert DeLuca](github.com/Robdel12)
 * [Acessibilidade na Web: Levando nosso conteúdo a todas as pessoas - (pt-br)](http://slides.com/yanmagale/acessibilidade-web/) by [Yan Magalhães](https://github.com/yanmagale)
+* [Designing for visual accessibility - Jordan Dunn SXSW](https://www.youtube.com/watch?v=BYh6658PCXc)
 
 ----
 
@@ -216,7 +229,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 ## People
 
 | Name | Twitter |
-| --- | --- | 
+| --- | --- |
 | Alice Boxhall | [@sundress](https://twitter.com/sundress) |
 | Cory Klatik | [@cklatik](https://twitter.com/cklatik) |
 | Dale Cruse | [@dalecruse](https://twitter.com/dalecruse) |
@@ -275,7 +288,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 
 
 
- 
+
 
 ## CONTRIBUTING
 
