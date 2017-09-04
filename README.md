@@ -62,7 +62,6 @@
 |[Acessibilidade for Devs](https://github.com/acessibilidade-for-devs/acessibilidade-for-devs.github.io) | PT-BR
 |[Accessible Mega Menu](https://github.com/adobe-accessibility/Accessible-Mega-Menu) | EN
 |[ARIA Cheatsheet](http://karlgroves-sandbox.com/CheatSheets/ARIA-Cheatsheet.html) | EN
-|[BBC Accessibility Standards Checker](https://github.com/bbc/bbc-a11y) | EN
 |[Easy Checks - A First Review of Web Accessibility](http://www.w3.org/WAI/eval/preliminary.html) | EN
 |[Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course) | EN
 |[Tuts+ Web Accessibility learning guide for Wordpress](http://code.tutsplus.com/series/accessibility--cms-799) | EN
@@ -231,7 +230,6 @@ This is a list, in no particular order, of people to follow that contribute grea
 | --- | --- |
 | Alice Boxhall | [@sundress](https://twitter.com/sundress) |
 | Cory Klatik | [@cklatik](https://twitter.com/cklatik) |
-| Dale Cruse | [@dalecruse](https://twitter.com/dalecruse) |
 | Dave Rupert | [@davatron5000](https://twitter.com/davatron5000) |
 | David A. Kennedy | [@davidakennedy](https://twitter.com/davidakennedy) |
 | Debra Ruh |	[@debraruh](https://twitter.com/debraruh) |
