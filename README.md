@@ -205,21 +205,23 @@
 
 ## Talks
 
-* [10 Simples Rules for Making My Site Accessible](http://pt.slideshare.net/HelenaZubkow/10-simple-rules-for-making-my-site-accessible) by [Helena Zubkow](https://twitter.com/misshelenasue)
-* [30 Minutes or Less: The Magic of Automated Accessibility Testing](http://marcysutton.github.io/a11y-automated-testing/)
-* [A Saga dos 12 Tópicos de Acessibilidade - (pt-br)](https://www.youtube.com/watch?v=RFg6XP6oluE) by [Reinaldo Ferraz](https://twitter.com/reinaldoferraz)
-* [Acessibilidade na Web modo Jedi Master - (pt-br)](https://www.youtube.com/watch?v=MMLQioPwbik) by [Reinaldo Ferraz](https://twitter.com/reinaldoferraz)
-* [Accessibility Debt](https://www.youtube.com/watch?v=BViy4ToaJZs) by [Robert DeLuca](github.com/Robdel12)
-* [Acessibilidade na Web: Levando nosso conteúdo a todas as pessoas - (pt-br)](http://slides.com/yanmagale/acessibilidade-web/) by [Yan Magalhães](https://github.com/yanmagale)
-* [Angular Accessibility](http://marcysutton.com/slides/angular-a11y-ng-europe/) by [Marcy Sutton](https://twitter.com/marcysutton)
-* [ARIA Accessibility, APIS coding like you give a damn ](http://www.slideshare.net/LeonieWatson/aria-accessibility-apis-coding-like-you-give-a-damn-2015) by [Léonie Watson](https://twitter.com/LeonieWatson)
-* [Designing for visual accessibility - Jordan Dunn SXSW](https://www.youtube.com/watch?v=BYh6658PCXc)
-* [Frontend com Acessibilidade - (pt-br)](https://www.youtube.com/watch?v=UzTVq7we84w) by [Horácio Soares](https://twitter.com/horaciosoares) and [Clécio Bachini](https://twitter.com/cbachini)
-* [HTML Acessível](http://www.slideshare.net/reinaldoferraz/html-acessvel) by [Reinaldo Ferraz](https://twitter.com/reinaldoferraz)
-* [JQuerySF - Victor Tsaran - The Modern Web and Accessibility](https://www.youtube.com/watch?v=KIruVNEi6mI)
-* [Trabalhando com WCAG e WAI-ARIA de forma correta - (pt-br)](http://slides.com/talitapagani/wcag-aria-webbr2015#/16) by [Talita Pagani](https://github.com/talitapagani)
-* [WCAG is not scary anymore - A progressive approach to Website Accessibility](https://www.linkedin.com/pulse/wcag-scary-anymore-progressive-approach-website-herin-hentry?trk=pulse_spock-articles)
-
+| Talk | Person | Language |
+| --- | --- | --- |
+| [10 Simples Rules for Making My Site Accessible](http://pt.slideshare.net/HelenaZubkow/10-simple-rules-for-making-my-site-accessible) | [Helena Zubkow](https://twitter.com/misshelenasue) | |
+| [30 Minutes or Less: The Magic of Automated Accessibility Testing](http://marcysutton.github.io/a11y-automated-testing/) | [Marcy Sutton](https://twitter.com/marcysutton) |
+| [A Saga dos 12 Tópicos de Acessibilidade](https://www.youtube.com/watch?v=RFg6XP6oluE) | [Reinaldo Ferraz](https://twitter.com/reinaldoferraz) | :brazil: |
+| [Acessibilidade na Web modo Jedi Master](https://www.youtube.com/watch?v=MMLQioPwbik) | [Reinaldo Ferraz](https://twitter.com/reinaldoferraz) | :brazil: |
+| [Accessibility Debt](https://www.youtube.com/watch?v=BViy4ToaJZs) | [Robert DeLuca](github.com/Robdel12) |
+| [Acessibilidade na Web: Levando nosso conteúdo a todas as pessoas - (pt-br)](http://slides.com/yanmagale/acessibilidade-web/) | [Yan Magalhães](https://github.com/yanmagale) | :brazil: |
+| [Angular Accessibility](http://marcysutton.com/slides/angular-a11y-ng-europe/) | [Marcy Sutton](https://twitter.com/marcysutton) |
+| [ARIA Accessibility, APIS coding like you give a damn ](http://www.slideshare.net/LeonieWatson/aria-accessibility-apis-coding-like-you-give-a-damn-2015) | [Léonie Watson](https://twitter.com/LeonieWatson) |
+| [Designing for visual accessibility](https://www.youtube.com/watch?v=BYh6658PCXc) | Jordan Dunn |
+| [Frontend com Acessibilidade - (pt-br)](https://www.youtube.com/watch?v=UzTVq7we84w) | [Horácio Soares](https://twitter.com/horaciosoares) and [Clécio Bachini](https://twitter.com/cbachini) | :brazil: |
+| [HTML Acessível](http://www.slideshare.net/reinaldoferraz/html-acessvel) | [Reinaldo Ferraz](https://twitter.com/reinaldoferraz) |:brazil: |
+| [The Modern Web and Accessibility](https://www.youtube.com/watch?v=KIruVNEi6mI) | [Victor Tsaran](https://twitter.com/vick08) |
+| [Trabalhando com WCAG e WAI-ARIA de forma correta - (pt-br)](http://slides.com/talitapagani/wcag-aria-webbr2015#/16) | [Talita Pagani](https://github.com/talitapagani) |
+| [WCAG is not scary anymore - A progressive approach to Website Accessibility](https://www.linkedin.com/pulse/wcag-scary-anymore-progressive-approach-website-herin-hentry?trk=pulse_spock-articles) | [Henri Hentry](https://www.linkedin.com/in/herinhentry/) |
+ 
 ## People to Follow in Web Accessibility
 
 This is a list, in no particular order, of people to follow that contribute greatly to web accessibility and web standards.
@@ -282,9 +284,6 @@ This is a list, in no particular order, of people to follow that contribute grea
 | Paciello Group | [@paciellogroup](https://twitter.com/paciellogroup) |
 | Simply Accessible | [@sateaches](https://twitter.com/sateaches) |
 | WebAxe | [@webaxe](https://twitter.com/webaxe) |
-
-
-
 
 
 ## CONTRIBUTING
