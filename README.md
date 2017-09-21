@@ -28,33 +28,20 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
   - [Contributing](#contributing)
   - [License](#license)
 
-## Legends
-
-| Level | Description |
-| --- | --- |
-|:green_heart:| Basic Level |
-|:large_orange_diamond:| Intermediary Level |
-|:red_circle:| Advanced Level |
-|:memo:| Text |
-|:movie_camera:| Video |
-
-
 ## W3C Specification
 
 | Level | Name | Description |
 | --- | --- | --- |
-|:large_orange_diamond:| [WCAG 2.0](https://www.w3.org/TR/WCAG20/) | Recommendations for making Web content more accessible|
-|:large_orange_diamond:| [WAI ARIA 1.0](https://www.w3.org/TR/wai-aria/) | Framework to improve the accessibility and interoperability of web content and applications |
-|:large_orange_diamond:| [WAI-ARIA 1.1](https://www.w3.org/TR/wai-aria-1.1/) | Framework to improve the accessibility and interoperability of web content and applications |
-|:green_heart:| [Using ARIA](https://www.w3.org/TR/aria-in-html/) | Practical guide for developers on how to add accessibility infos to HTML |
+|Intermediary| [WCAG 2.0](https://www.w3.org/TR/WCAG20/) | Recommendations for making Web content more accessible|
+|Intermediary| [WAI ARIA 1.0](https://www.w3.org/TR/wai-aria/) | Framework to improve the accessibility and interoperability of web content and applications |
+|Intermediary| [WAI-ARIA 1.1](https://www.w3.org/TR/wai-aria-1.1/) | Framework to improve the accessibility and interoperability of web content and applications |
+|Basic | [Using ARIA](https://www.w3.org/TR/aria-in-html/) | Practical guide for developers on how to add accessibility infos to HTML |
 
-## Newsletters :newspaper:
-
+## Newsletters
 
 | Name | Link |
 | --- | --- |
 | Accessibility Weekly | [Accessibility Weekly](http://a11yweekly.com/) |
-
 
 ## Guides
 
@@ -72,15 +59,15 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
 |[Web Accessibility Tutorials](http://www.w3.org/WAI/tutorials/) | EN
 |[USA Government's accessibility guide](https://accessibility.18f.gov/) | EN
 
-## Courses :mortar_board:
+## Courses
 
 | Level | Name | Language | Price |
 | --- | --- | --- | --- |
-|:green_heart:| [Aprende Accesibilidad Web paso a paso](https://www.udemy.com/aprende-accesibilidad-web-paso-a-paso/) | Spanish | :free:
-|:green_heart:| [Web Accessibility - Developing with Empathy](https://www.udacity.com/course/web-accessibility--ud891) | English | :free:
-|:green_heart:| [Start Building Accessible Web Applications Today](https://egghead.io/courses/start-building-accessible-web-applications-today)| English | :free:
-|:green_heart:| [Web accessibility training in London](https://www.webcredible.com/training/web-accessibility-training/)| English | £495
-|:green_heart:| [Treehouse Accessibility course](https://teamtreehouse.com/library/accessibility) | :free: with trial
+|Basic| [Aprende Accesibilidad Web paso a paso](https://www.udemy.com/aprende-accesibilidad-web-paso-a-paso/) | Spanish | Free
+|Basic| [Web Accessibility - Developing with Empathy](https://www.udacity.com/course/web-accessibility--ud891) | English | Free
+|Basic| [Start Building Accessible Web Applications Today](https://egghead.io/courses/start-building-accessible-web-applications-today)| English | Free
+|Basic| [Web accessibility training in London](https://www.webcredible.com/training/web-accessibility-training/)| English | £495
+|Basic | [Treehouse Accessibility course](https://teamtreehouse.com/library/accessibility) | Free with trial
 
 ## Articles and Videos
 
@@ -271,7 +258,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 | Steve Faulkner     | [@stevefaulkner](https://twitter.com/stevefaulkner) |
 | Ted Drake |	[@ted_drake](https://twitter.com/ted_drake) |
 
-## Companies & Organizations :office:
+## Companies & Organizations
 
 | Name | Link |
 | --- | --- |
