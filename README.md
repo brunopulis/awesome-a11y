@@ -67,7 +67,7 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
 |Basic| [Web Accessibility - Developing with Empathy](https://www.udacity.com/course/web-accessibility--ud891) | English | Free
 |Basic| [Start Building Accessible Web Applications Today](https://egghead.io/courses/start-building-accessible-web-applications-today)| English | Free
 |Basic| [Web accessibility training in London](https://www.webcredible.com/training/web-accessibility-training/)| English | £495
-|Basic | [Treehouse Accessibility course](https://teamtreehouse.com/library/accessibility) | Free with trial
+|Basic | [Treehouse Accessibility course](https://teamtreehouse.com/library/accessibility) | English | Free with trial
 
 ## Articles and Videos
 
