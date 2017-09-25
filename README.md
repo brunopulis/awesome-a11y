@@ -133,7 +133,7 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
 * [Color Oracle - App (Mac/Win/Linux)](http://colororacle.org/)
 * [Contrast Ratio](https://leaverou.github.io/contrast-ratio/) - Live demonstration of the readability of your background and text color combination.
 * [DaSilva - (pt-br) ](http://www.dasilva.org.br/)
-* [Ember A11y Testing] (https://github.com/ember-a11y/ember-a11y-testing) - A suite of accessibility tests that can be run within the Ember testing framework.
+* [Ember A11y Testing](https://github.com/ember-a11y/ember-a11y-testing) - A suite of accessibility tests that can be run within the Ember testing framework.
 * [eslint-plugin-jsx-a11y](https://www.npmjs.com/package/eslint-plugin-jsx-a11y) - A static analysis linter of jsx and their accessibility with screen readers
 * [Headings Map](https://addons.mozilla.org/en-US/firefox/addon/headingsmap/) - A Firefox add-on to check whether your heading structure is logical
 * [HTML5 Acessibility](http://www.html5accessibility.com/) - Get the current accessibility support status of HTML5 features across major browsers.
@@ -176,8 +176,8 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
 * [Color Safe](http://colorsafe.co/)
 * [Color Tool - Material Design](https://material.io/color/#!/?view.left=0&view.right=0)
 * [Ebay's accessibility patterns for the web](https://ebay.gitbooks.io/mindpatterns/content/) - Huge variety of features with working code examples and best practices explained.
-* [Ember A11y] (https://github.com/ember-a11y/ember-a11y) - an Ember addon for managing content focus. 
-* [Ember A11y Landmarks] (https://github.com/ember-a11y/ember-a11y-landmarks) - An Ember Addon that helps with landmark roles in Ember apps. 
+* [Ember A11y](https://github.com/ember-a11y/ember-a11y) - an Ember addon for managing content focus. 
+* [Ember A11y Landmarks](https://github.com/ember-a11y/ember-a11y-landmarks) - An Ember Addon that helps with landmark roles in Ember apps. 
 * [Inclusive Components](http://inclusive-components.club/) - A blog trying to be a pattern library. Each post explores the design of a robust, accessible interface component.
 * [Léonie Watson Blog](http://tink.uk/) - Posts about a11y in general.
 * [Middleman Aria_Current](https://github.com/thoughtbot/middleman-aria_current) - A Middleman extension for indicating a current (active) link using `aria-current`.
@@ -206,7 +206,7 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
 | [Acessibilidade na Web: Levando nosso conteúdo a todas as pessoas - (pt-br)](http://slides.com/yanmagale/acessibilidade-web/) | [Yan Magalhães](https://github.com/yanmagale) | PT-BR |
 | [Accessibility Debt](https://www.youtube.com/watch?v=BViy4ToaJZs) | [Robert DeLuca](github.com/Robdel12) | EN |
 | [ARIA Accessibility, APIS coding like you give a damn ](http://www.slideshare.net/LeonieWatson/aria-accessibility-apis-coding-like-you-give-a-damn-2015) | [Léonie Watson](https://twitter.com/LeonieWatson) | EN |
-| [Building Accessible Applications: A Reasonable Approach] (https://www.youtube.com/watch?v=qxvNXBT03AY) | [Melanie Sumner](https://github.com/MelSumner) | EN |
+| [Building Accessible Applications: A Reasonable Approach](https://www.youtube.com/watch?v=qxvNXBT03AY) | [Melanie Sumner](https://github.com/MelSumner) | EN |
 | [Designing for visual accessibility](https://www.youtube.com/watch?v=BYh6658PCXc) | Jordan Dunn | EN |
 | [Frontend com Acessibilidade](https://www.youtube.com/watch?v=UzTVq7we84w) | [Horácio Soares](https://twitter.com/horaciosoares) and [Clécio Bachini](https://twitter.com/cbachini) | PT-BR |
 | [HTML Acessível](http://www.slideshare.net/reinaldoferraz/html-acessvel) | [Reinaldo Ferraz](https://twitter.com/reinaldoferraz) | PT-BR |
