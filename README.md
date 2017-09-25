@@ -133,6 +133,7 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
 * [Color Oracle - App (Mac/Win/Linux)](http://colororacle.org/)
 * [Contrast Ratio](https://leaverou.github.io/contrast-ratio/) - Live demonstration of the readability of your background and text color combination.
 * [DaSilva - (pt-br) ](http://www.dasilva.org.br/)
+* [Ember A11y Testing] (https://github.com/ember-a11y/ember-a11y-testing) - A suite of accessibility tests that can be run within the Ember testing framework.
 * [eslint-plugin-jsx-a11y](https://www.npmjs.com/package/eslint-plugin-jsx-a11y) - A static analysis linter of jsx and their accessibility with screen readers
 * [Headings Map](https://addons.mozilla.org/en-US/firefox/addon/headingsmap/) - A Firefox add-on to check whether your heading structure is logical
 * [HTML5 Acessibility](http://www.html5accessibility.com/) - Get the current accessibility support status of HTML5 features across major browsers.
@@ -166,28 +167,30 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
 ## Other Resources
 
 * [A11Y Style Guide](https://github.com/cehfisher/a11y-style-guide)
-* [AIIY.js](http://allyjs.io/)
-* [A11yProject](https://github.com/a11yproject/a11yproject.com)
 * [A11y Wins](http://a11ywins.tumblr.com/) - Examples when accessibility wins by [@marcysutton](https://twitter.com/marcysutton)
-* [Alix](https://github.com/ireade/alix) - a browser extension for a11y.css
+* [A11yProject](https://github.com/a11yproject/a11yproject.com)
+* [AIIY.js](http://allyjs.io/)
 * [Accessibility section - jQuery Plugins using ARIA](http://a11y.nicolas-hoffmann.net/) - Plugins and demos by [@Nico3333fr](https://twitter.com/Nico3333fr)
+* [Alix](https://github.com/ireade/alix) - a browser extension for a11y.css
+* [Co-op design manual](https://coop-design-manual.herokuapp.com/accessibility.html) - a good overview of how to make a site accessible, including content writing guidelines and technical examples.
 * [Color Safe](http://colorsafe.co/)
 * [Color Tool - Material Design](https://material.io/color/#!/?view.left=0&view.right=0)
+* [Ebay's accessibility patterns for the web](https://ebay.gitbooks.io/mindpatterns/content/) - Huge variety of features with working code examples and best practices explained.
+* [Ember A11y] (https://github.com/ember-a11y/ember-a11y) - an Ember addon for managing content focus. 
+* [Ember A11y Landmarks] (https://github.com/ember-a11y/ember-a11y-landmarks) - An Ember Addon that helps with landmark roles in Ember apps. 
 * [Inclusive Components](http://inclusive-components.club/) - A blog trying to be a pattern library. Each post explores the design of a robust, accessible interface component.
 * [Léonie Watson Blog](http://tink.uk/) - Posts about a11y in general.
 * [Middleman Aria_Current](https://github.com/thoughtbot/middleman-aria_current) - A Middleman extension for indicating a current (active) link using `aria-current`.
+* [Mozilla developer network's accessibility section](https://developer.mozilla.org/en-US/docs/Web/Accessibility) - checklists, tutorials and code examples.
 * [Not so Super Mario](https://www.youtube.com/watch?v=DvaPRlZtfyc) - A parody video showing accessibility problems using Mario Bros. games
-* [Practical ARIA Examples](http://heydonworks.com/practical_aria_examples/) - Example code and demos by [@heydonworks](https://twitter.com/heydonworks)
 * [Open Color](https://yeun.github.io/open-color) - Open color is a color scheme for UI design. You can use it for font, background, border, etc. It contains a gray and twelve colors. Open color is provided as CSS, SCSS, LESS, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.
-* [Tota11y](http://khan.github.io/tota11y/) - An accessibility visualization toolkit
-* [van11y](https://van11y.net/) - A collection of accessible scripts
-* [Vox accessibility guidelines](http://accessibility.voxmedia.com/) - Vox accessibility checklist for every team member
+* [Practical ARIA Examples](http://heydonworks.com/practical_aria_examples/) - Example code and demos by [@heydonworks](https://twitter.com/heydonworks)
 * [Semantic Web Autocomplete for Atom](https://github.com/obetomuniz/autocomplete-semantic-web) - A plugin that offers suggestions for Schema.org, RDFa and WAI-ARIA.
+* [Tota11y](http://khan.github.io/tota11y/) - An accessibility visualization toolkit
 * [Trello accessibility cards generator](https://github.com/luarmr/trello-a11y-cards) - A node.js script to create a Trello card for every point in WCAG2 guidelines.
 * [UK Government's accessibility blog](https://accessibility.blog.gov.uk/)
-* [Co-op design manual](https://coop-design-manual.herokuapp.com/accessibility.html) - a good overview of how to make a site accessible, including content writing guidelines and technical examples.
-* [Ebay's accessibility patterns for the web](https://ebay.gitbooks.io/mindpatterns/content/) - Huge variety of features with working code examples and best practices explained.
-* [Mozilla developer network's accessibility section](https://developer.mozilla.org/en-US/docs/Web/Accessibility) - checklists, tutorials and code examples.
+* [Vox accessibility guidelines](http://accessibility.voxmedia.com/) - Vox accessibility checklist for every team member
+* [van11y](https://van11y.net/) - A collection of accessible scripts
 
 ----
 
@@ -203,6 +206,7 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
 | [Acessibilidade na Web: Levando nosso conteúdo a todas as pessoas - (pt-br)](http://slides.com/yanmagale/acessibilidade-web/) | [Yan Magalhães](https://github.com/yanmagale) | PT-BR |
 | [Accessibility Debt](https://www.youtube.com/watch?v=BViy4ToaJZs) | [Robert DeLuca](github.com/Robdel12) | EN |
 | [ARIA Accessibility, APIS coding like you give a damn ](http://www.slideshare.net/LeonieWatson/aria-accessibility-apis-coding-like-you-give-a-damn-2015) | [Léonie Watson](https://twitter.com/LeonieWatson) | EN |
+| [Building Accessible Applications: A Reasonable Approach] (https://www.youtube.com/watch?v=qxvNXBT03AY) | [Melanie Sumner](https://github.com/MelSumner) | EN |
 | [Designing for visual accessibility](https://www.youtube.com/watch?v=BYh6658PCXc) | Jordan Dunn | EN |
 | [Frontend com Acessibilidade](https://www.youtube.com/watch?v=UzTVq7we84w) | [Horácio Soares](https://twitter.com/horaciosoares) and [Clécio Bachini](https://twitter.com/cbachini) | PT-BR |
 | [HTML Acessível](http://www.slideshare.net/reinaldoferraz/html-acessvel) | [Reinaldo Ferraz](https://twitter.com/reinaldoferraz) | PT-BR |
