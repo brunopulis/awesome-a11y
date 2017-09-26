@@ -14,7 +14,7 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
 **Table of Contents**
 
 - [Awesome Accessibility](##awesome-accessibility)
-  - [W3C Specification](#w3c-specification)
+  - [W3C Specification](topics/specification.md)
   - [Accessibility Weekly](#newsletters)
   - [Guides](#guides)
   - [Articles and Videos](#articles-and-videos)
@@ -27,15 +27,6 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
   - [People to Follow in Web Accessibility](#people-to-follow-in-web-accessibility)
   - [How to contributing](#contributing)
   - [License](#license)
-
-## W3C Specification
-
-| Level | Name | Description |
-| --- | --- | --- |
-|Intermediary| [WCAG 2.0](https://www.w3.org/TR/WCAG20/) | Recommendations for making Web content more accessible|
-|Intermediary| [WAI ARIA 1.0](https://www.w3.org/TR/wai-aria/) | Framework to improve the accessibility and interoperability of web content and applications |
-|Intermediary| [WAI-ARIA 1.1](https://www.w3.org/TR/wai-aria-1.1/) | Framework to improve the accessibility and interoperability of web content and applications |
-|Basic | [Using ARIA](https://www.w3.org/TR/aria-in-html/) | Practical guide for developers on how to add accessibility infos to HTML |
 
 ## Newsletters
 
