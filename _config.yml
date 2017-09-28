@@ -1,0 +1,8 @@
+title: Awesome-a11y
+description: List of awesome accessibility resources
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
