@@ -13,3 +13,4 @@
 * [Tragic Design](http://www.tragicdesign.com/)
 * [Web Accessibility: Web Standards and Regulatory Compliance - by Jim Thatcher](https://www.amazon.com/Web-Accessibility-Standards-Regulatory-Compliance/dp/1590596382)
 * [How to Meet the Web Content Accessibility Guidelines 2.0 - Luke McGrath](https://www.wuhcag.com/wcag/)
+* [Accessibility For Everyone - Laura Kalbag](https://abookapart.com/products/accessibility-for-everyone)
