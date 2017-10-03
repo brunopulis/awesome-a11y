@@ -39,6 +39,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 | Neil Milliken |	[@NeilMilliken](https://twitter.com/NeilMilliken) |
 | Patrick Fox |	[@patrickfox](https://twitter.com/patrickfox) |
 | Reinaldo Ferraz | [@reinaldoferraz](https://twitter.com/reinaldoferraz) |
+| Scott O'Hara | [@scottohara](https://twitter.com/scottohara) |
 | Scott Vinkle | [@svinkle](https://twitter.com/svinkle) |
 | Shawn Lawton Henry | [@shawn_slh](https://twitter.com/shawn_slh) |
 | Sina Bahram |	[@SinaBahram](https://twitter.com/SinaBahram) |
