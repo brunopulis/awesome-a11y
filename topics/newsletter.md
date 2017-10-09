@@ -1,4 +1,4 @@
-i## Newsletters
+## Newsletters
 
 | Name | Link |
 | --- | --- |
