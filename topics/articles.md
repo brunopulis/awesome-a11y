@@ -15,6 +15,7 @@
 * [Lesson from building mobile frindly accessible data tables](https://medium.com/shopify-ux/lessons-from-building-mobile-friendly-accessible-data-tables-1e05c6924eaf#.yxri88ccf)
 * [Links vs Buttons in modern web applications](https://marcysutton.com/links-vs-buttons-in-modern-web-applications/)
 * [Simply Accessible - Articles ](http://simplyaccessible.com/articles/)
+* [Textos sobre acessibilidade na Web em português](http://acessibilidade.pt.webiwg.org/)
 * [The Accessibility Cheatsheet](http://bitsofco.de/the-accessibility-cheatsheet/)
 * [The web accessibility basics](https://www.marcozehe.de/2015/12/14/the-web-accessibility-basics/)
 * [What is WAI-ARIA, what does it do for me, and what not?](https://www.marcozehe.de/2014/03/27/what-is-wai-aria-what-does-it-do-for-me-and-what-not/)
