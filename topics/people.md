@@ -20,6 +20,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 | Eric Eggert | [@yatil](https://twitter.com/yatil) |
 | Eric Wright | [@ewaccess](https://twitter.com/ewaccess) |
 | Greg Tarnoff | [@gregtarnoff](https://twitter.com/gregtarnoff) |
+| Hector Minto| [@hminto](https://twitter.com/hminto) |
 | Heydon Works | [@heydonworks](http://twitter.com/heydonworks) |
 | Jeffrey Zeldman |	[@zeldman](https://twitter.com/zeldman) |
 | Jen Simmons |	[@jensimmons](https://twitter.com/jensimmons) |
