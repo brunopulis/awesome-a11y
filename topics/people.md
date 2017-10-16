@@ -35,6 +35,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 | Marco Zehe | [@MarcoZehe](https://twitter.com/MarcoZehe) |
 | Marcy Sutton  | [@marcysutton](http://twitter.com/marcysutton) |
 | Mike Paciello | [@mpaciello](https://twitter.com/mpaciello) |
+| Molly Watt| [@MollyWattTalks](https://twitter.com/MollyWattTalks) |
 | Monika Piotrowicz | [@monsika](https://twitter.com/monsika) |
 | Neil Milliken |	[@NeilMilliken](https://twitter.com/NeilMilliken) |
 | Patrick Fox |	[@patrickfox](https://twitter.com/patrickfox) |
