@@ -16,16 +16,18 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
 - [Awesome Accessibility](##awesome-accessibility)
   - [W3C Specification](topics/specification.md)
   - [Accessibility Weekly](topics/newsletter.md)
-  - [Guides](topics/guides.md)
   - [Articles and Videos](topics/articles.md)
-  - [Courses](topics/courses.md)
   - [Books](topics/books.md)
-  - [Development Testing and Validators](topics/validators.md)
-  - [Screen Readers](topics/assistive-technology.md)
-  - [Other Resources](topics/other-resources.md)
-  - [Talks](topics/talks.md)
-  - [People to Follow in Web Accessibility](topics/people.md)
+  - [Courses](topics/courses.md)
   - [Companies & Organizations](topics/companies.md)
+  - [Development Testing and Validators](topics/validators.md)
+  - [Guides](topics/guides.md)
+  - [Meetups](topics/meetups.md)
+  - [Other Resources](topics/other-resources.md)
+  - [People to Follow in Web Accessibility](topics/people.md)
+  - [Screen Readers](topics/assistive-technology.md)
+  - [Talks](topics/talks.md)
+  
 
 ## CONTRIBUTING
 
