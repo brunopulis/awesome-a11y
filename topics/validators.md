@@ -33,3 +33,4 @@
 * [skip-to-content](https://github.com/afonsopacifer/skip-to-content) - A Polymer element for Skip to Content. by [@afonsopacifer](https://github.com/afonsopacifer)
 * [Tanaguru Contrast Finder](http://contrast-finder.tanaguru.com/?lang=en) - Contrast finder that suggests a valid color range
 * [A11y Command-line Tools](https://addyosmani.com/a11y/) - Web accessibility audits powered by the Chrome Accessibility Developer Tools.
+* [AcessibilityJS](https://github.com/github/accessibilityjs) - Client side accessibility error scanner.
