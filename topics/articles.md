@@ -10,6 +10,7 @@
 * [CAPTCHA - Inaccessible to everyone](http://www.sitepoint.com/captcha-inaccessible-to-everyone/)
 * [Design like we give a damn!](https://www.vimeo.com/110965713)
 * [Design for Web Accessibility from the Beginning](https://getflywheel.com/layout/design-web-accessibility-beginning/)
+* [Gap Analysis/ADHD at the WC3](https://www.w3.org/WAI/PF/cognitive-a11y-tf/wiki/Gap_Analysis/ADHD)
 * [Getting Started with Web Accessibility](http://www.w3.org/WAI/gettingstarted/Overview.html)
 * [Improving Single Page App Accessibility with a11y_kit](https://www.vimeo.com/117614181)
 * [Lesson from building mobile frindly accessible data tables](https://medium.com/shopify-ux/lessons-from-building-mobile-friendly-accessible-data-tables-1e05c6924eaf#.yxri88ccf)
@@ -24,4 +25,5 @@
 * [Web Accessibility Tutorial](https://www.w3.org/WAI/tutorials/)
 * [A Software Tester's Guide to Web Accessibility](https://dojo.ministryoftesting.com/lessons/a-software-tester-s-guide-to-web-accessibility)
 * [Making Open-Source Accessible for All](https://medium.com/@kaelig/making-open-source-accessible-for-all-8131429913b1)
+* [W3C Cognitive and Learning Disabilities Accessibility Task Force](https://www.w3.org/WAI/PF/cognitive-a11y-tf/wiki/Main_Page)
 * [Writing JavaScript with accessibility in mind](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9)

@@ -18,5 +18,6 @@
 | Accessibility Ottawa | [@a11yYOW](https://twitter.com/a11yYOW)|
 | Buffa11y | [@buffa11y](https://twitter.com/buffa11y)|
 | Open | [@openmcr](https://twitter.com/openmcr)|
+|  Portland Accessibility and User Experience (PDXAUX)|[PDXAUX on Meetup](https://www.meetup.com/Portland-Accessibility-and-User-Experience-Meetup/)|
 | role=drinks | [@roledrinks](https://twitter.com/roledrinks)|
 | WebA11y.jp［エーイレブンワイ | [@weba11y](https://twitter.com/weba11y)|
