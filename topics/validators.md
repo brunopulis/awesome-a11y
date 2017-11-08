@@ -11,6 +11,7 @@
 * [Accessibility Developer Tools](https://github.com/GoogleChrome/accessibility-developer-tools)
 * [Accessibility Developer Tools for Chrome](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
 * [aslint.org](https://www.aslint.org/)
+* [aXe Core](https://axe-core.org/) - Chrome and Firefox extension to audit pages
 * [Check My Colours - Validator of Color Constrast](http://www.checkmycolours.com/)
 * [Chrome Accessibility Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
 * [Chromelens - Extension Google Chrome](http://chromelens.xyz/)
