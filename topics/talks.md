@@ -4,6 +4,7 @@
 | --- | --- | --- |
 | [10 Simples Rules for Making My Site Accessible](http://pt.slideshare.net/HelenaZubkow/10-simple-rules-for-making-my-site-accessible) | [Helena Zubkow](https://twitter.com/misshelenasue) | EN |
 | [30 Minutes or Less: The Magic of Automated Accessibility Testing](http://marcysutton.github.io/a11y-automated-testing/) | [Marcy Sutton](https://twitter.com/marcysutton) | EN |
+| [Accessibility in pattern libraries](https://www.slideshare.net/maxdesign/accessibility-in-pattern-libraries/) | [Russ Weakley ](https://twitter.com/russmaxdesign) | EN |
 | [Accessibility: Where to start?](https://www.youtube.com/watch?v=byh6G3vViWM)| [Scott O'Hara](https://twitter.com/scottohara) | EN |
 | [Accessibility Debt](https://www.youtube.com/watch?v=BViy4ToaJZs) | [Robert DeLuca](github.com/Robdel12) | EN |
 | [A Saga dos 12 Tópicos de Acessibilidade](https://www.youtube.com/watch?v=RFg6XP6oluE) | [Reinaldo Ferraz](https://twitter.com/reinaldoferraz) | PT-BR |
