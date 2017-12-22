@@ -1,6 +1,7 @@
 
 ## Other Resources
 
+* [24 Accessibility](https://www.24a11y.com) - A series of articles on all subjects related to digital accessibility.
 * [A11Y Style Guide](https://github.com/cehfisher/a11y-style-guide)
 * [A11y Wins](http://a11ywins.tumblr.com/) - Examples when accessibility wins by [@marcysutton](https://twitter.com/marcysutton)
 * [A11yProject](https://github.com/a11yproject/a11yproject.com)
