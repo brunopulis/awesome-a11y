@@ -8,6 +8,7 @@
 * [AIIY.js](http://allyjs.io/)
 * [Accessibility section - jQuery Plugins using ARIA](http://a11y.nicolas-hoffmann.net/) - Plugins and demos by [@Nico3333fr](https://twitter.com/Nico3333fr)
 * [Alix](https://github.com/ireade/alix) - a browser extension for a11y.css
+* [Atalan - Digital Accessibility: How can we help](https://atalan.fr/agissons/en/index.html) - a website to to raise awareness of accessibility
 * [Co-op design manual](https://coop-design-manual.herokuapp.com/accessibility.html) - a good overview of how to make a site accessible, including content writing guidelines and technical examples.
 * [Color Safe](http://colorsafe.co/)
 * [Color Tool - Material Design](https://material.io/color/#!/?view.left=0&view.right=0)
