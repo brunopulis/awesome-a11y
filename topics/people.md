@@ -22,6 +22,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 | Greg Tarnoff | [@gregtarnoff](https://twitter.com/gregtarnoff) |
 | Hector Minto| [@hminto](https://twitter.com/hminto) |
 | Heydon Works | [@heydonworks](http://twitter.com/heydonworks) |
+| Ire Aderinokun | [@ireaderinokun](http://twitter.com/ireaderinokun) |
 | Jeffrey Zeldman |	[@zeldman](https://twitter.com/zeldman) |
 | Jen Simmons |	[@jensimmons](https://twitter.com/jensimmons) |
 | Joe Dolson   | [@joedolson](https://twitter.com/joedolson) |
@@ -41,6 +42,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 | Neil Milliken |	[@NeilMilliken](https://twitter.com/NeilMilliken) |
 | Patrick Fox |	[@patrickfox](https://twitter.com/patrickfox) |
 | Reinaldo Ferraz | [@reinaldoferraz](https://twitter.com/reinaldoferraz) |
+| Rob Dodson | [@rob_dodson](https://twitter.com/rob_dodson) |
 | Scott O'Hara | [@scottohara](https://twitter.com/scottohara) |
 | Scott Vinkle | [@svinkle](https://twitter.com/svinkle) |
 | Shawn Lawton Henry | [@shawn_slh](https://twitter.com/shawn_slh) |
