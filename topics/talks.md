@@ -10,6 +10,7 @@
 | [A Saga dos 12 Tópicos de Acessibilidade](https://www.youtube.com/watch?v=RFg6XP6oluE) | [Reinaldo Ferraz](https://twitter.com/reinaldoferraz) | PT-BR |
 | [Acessibilidade na Web modo Jedi Master](https://www.youtube.com/watch?v=MMLQioPwbik) | [Reinaldo Ferraz](https://twitter.com/reinaldoferraz) | PT-BR |
 | [Acessibilidade na Web: Levando nosso conteúdo a todas as pessoas - (pt-br)](http://slides.com/yanmagale/acessibilidade-web/) | [Yan Magalhães](https://github.com/yanmagale) | PT-BR |
+| [Acessibilidade Web: Muito além da tag ALT - (pt-br)](https://www.youtube.com/watch?v=SzmAa5rS5RU&t=17s) | [Thiago Marques](https://github.com/althi) | PT-BR |
 | [Angular Accessibility](http://marcysutton.com/slides/angular-a11y-ng-europe/) | [Marcy Sutton](https://twitter.com/marcysutton) | EN |
 | [ARIA Accessibility, APIS coding like you give a damn ](http://www.slideshare.net/LeonieWatson/aria-accessibility-apis-coding-like-you-give-a-damn-2015) | [Léonie Watson](https://twitter.com/LeonieWatson) | EN |
 | [Building Accessible Applications: A Reasonable Approach](https://www.youtube.com/watch?v=qxvNXBT03AY) | [Melanie Sumner](https://github.com/MelSumner) | EN |

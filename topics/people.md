@@ -7,6 +7,8 @@ This is a list, in no particular order, of people to follow that contribute grea
 | Name | Twitter |
 | --- | --- |
 | Alice Boxhall | [@sundress](https://twitter.com/sundress) |
+| Alistair Duggin | [@dugboticus](https://twitter.com/dugboticus) |
+| Carie Fisher | [@cariefisher](https://twitter.com/cariefisher) |
 | Cory Klatik | [@cklatik](https://twitter.com/cklatik) |
 | Dave Rupert | [@davatron5000](https://twitter.com/davatron5000) |
 | David A. Kennedy | [@davidakennedy](https://twitter.com/davidakennedy) |
@@ -27,6 +29,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 | Jen Simmons |	[@jensimmons](https://twitter.com/jensimmons) |
 | Joe Dolson   | [@joedolson](https://twitter.com/joedolson) |
 | John Foliot | [@johnfoliot](https://twitter.com/johnfoliot) |
+| John McNabb | [@JohnKMcNabb](https://twitter.com/JohnKMcNabb) |
 | Jonathan Hassell |	[@jonhassell](https://twitter.com/jonhassell) |
 | Joseph Karr O'Connor | [@AccessibleJoe](https://twitter.com/AccessibleJoe) |
 | Karl Groves  | [@karlgroves](https://twitter.com/karlgroves) |
@@ -36,6 +39,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 | Lucy Greco | [@accessaces](https://twitter.com/accessaces) |
 | Marco Zehe | [@MarcoZehe](https://twitter.com/MarcoZehe) |
 | Marcy Sutton  | [@marcysutton](http://twitter.com/marcysutton) |
+| Michiel Bijl | [@MichielBijl](https://twitter.com/MichielBijl) |
 | Mike Paciello | [@mpaciello](https://twitter.com/mpaciello) |
 | Molly Watt| [@MollyWattTalks](https://twitter.com/MollyWattTalks) |
 | Monika Piotrowicz | [@monsika](https://twitter.com/monsika) |

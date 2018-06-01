@@ -11,6 +11,7 @@
 | a11yMTL | [@a11yMTL](https://twitter.com/a11yMTL)|
 | a11yQC | [@a11yqc](https://twitter.com/a11yqc/)|
 | A11YRTP | [@A11yRtp](https://twitter.com/A11yRtp)|
+| A11y Scottland | [@a11yscotland](https://twitter.com/a11yscotland)
 | A11ySEA | [@a11ysea](https://twitter.com/a11ysea)|
 | AccessibilityBayArea | [@a11ybay](https://twitter.com/a11ybay)|
 | AccessibilityDC | [@AccessibilityDC](https://twitter.com/AccessibilityDC)|
