@@ -22,6 +22,7 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
   - [Companies & Organizations](topics/companies.md)
   - [Development Testing and Validators](topics/validators.md)
   - [Guides](topics/guides.md)
+  - [Laws](topics/laws.md)
   - [Meetups](topics/meetups.md)
   - [Other Resources](topics/other-resources.md)
   - [People to Follow in Web Accessibility](topics/people.md)
