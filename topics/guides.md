@@ -14,3 +14,4 @@
 |[Web Accesible](http://webaccesible.xyz/) | ED
 |[Web Accessibility Tutorials](http://www.w3.org/WAI/tutorials/) | EN
 |[USA Government's accessibility guide](https://accessibility.18f.gov/) | EN
+|[WebAIM WCAG 2.1 Checklist](https://webaim.org/standards/wcag/checklist) | EN
