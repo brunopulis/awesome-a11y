@@ -1,12 +1,12 @@
 # Guidelines to contribute
 
-- Add section if needed.
-- If you create a new section, add a item in summary.
-- Add section description.
-- Add section title to Table of contents.
-- Add subsection using header of third level
-- Put in alphabetical order the new items
-- Search previous suggestions before making a new one, as yours may be a duplicate.
+- Add a new section only when needed.
+- When you create a new section, add an item in the summary.
+- Add a `description`.
+- Add a `title` to the Table of Contents (see [README.md](https://github.com/brunopulis/awesome-a11y/blob/master/README.md)).
+- Add a subsection using header of third level
+- Put the new items in alphabetical order
+- Search previous issues before making a new one, avoid duplicates.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - Send a Pull Request.
