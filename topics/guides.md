@@ -15,3 +15,5 @@
 |[Web Accessibility Tutorials](http://www.w3.org/WAI/tutorials/) | EN
 |[USA Government's accessibility guide](https://accessibility.18f.gov/) | EN
 |[WebAIM WCAG 2.1 Checklist](https://webaim.org/standards/wcag/checklist) | EN
+|[WebAIM WCAG 2.1 Checklist](http://anysurfer.be/fr/en-pratique/sites-web/checklist-wcag-2-1-de-webaim) | FR
+|[WebAIM WCAG 2.1 Checklist](http://anysurfer.be/nl/in-de-praktijk/websites/webaims-wcag-2-checklist) | NL
