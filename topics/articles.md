@@ -9,6 +9,7 @@
 * [Basic screen reader commands for accessibility testing](https://www.paciellogroup.com/blog/2015/01/basic-screen-reader-commands-for-accessibility-testing/)
 * [CAPTCHA - Inaccessible to everyone](http://www.sitepoint.com/captcha-inaccessible-to-everyone/)
 * [Creating Accessible HTML a crash course in aria landmark regions](https://c2experience.com/blog/2018/03/creating-accessible-html-a-crash-course-in-aria-landmark-regions/)
+* [Deque Systems YouTube Channel](https://www.youtube.com/channel/UCvNQ5aJllZ5Oi49jtMKeb0Q)
 * [Design like we give a damn!](https://www.vimeo.com/110965713)
 * [Design for Web Accessibility from the Beginning](https://getflywheel.com/layout/design-web-accessibility-beginning/)
 * [Gap Analysis/ADHD at the WC3](https://www.w3.org/WAI/PF/cognitive-a11y-tf/wiki/Gap_Analysis/ADHD)
