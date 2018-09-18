@@ -1,4 +1,4 @@
-## Newsletters
+## Newsletters :email:
 
 | Name | Link |
 | --- | --- |
