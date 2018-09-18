@@ -2,6 +2,7 @@
 
 | Name | Language |
 | --- | --- |
+|[Accessibility Cheatsheet](https://moritzgiessmann.de/accessibility-cheatsheet/)| EN
 |[Accessibility Guidelines](http://accessibility.voxmedia.com/) | EN
 |[Acessibilidade for Devs](https://github.com/acessibilidade-for-devs/acessibilidade-for-devs.github.io) | PT-BR
 |[Acessibilidade Toolkit](https://github.com/acessibilidade/toolkit)| PT-BR
