@@ -22,6 +22,7 @@
 * [Textos sobre acessibilidade na Web](http://acessibilidade.pt.webiwg.org/) [pt-br]
 * [The Accessibility Cheatsheet](http://bitsofco.de/the-accessibility-cheatsheet/)
 * [The web accessibility basics](https://www.marcozehe.de/2015/12/14/the-web-accessibility-basics/)
+* [Variable Fonts and Dyslexia](http://adrianroselli.com/2018/08/variable-fonts-and-dyslexia.html)
 * [What is WAI-ARIA, what does it do for me, and what not?](https://www.marcozehe.de/2014/03/27/what-is-wai-aria-what-does-it-do-for-me-and-what-not/)
 * [WebAIM - Introduction to Web Accessibility](http://webaim.org/intro/)
 * [What is Web Accessibility](http://alistapart.com/article/wiwa)
