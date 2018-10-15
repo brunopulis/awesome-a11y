@@ -7,6 +7,7 @@
 |[UX Design And Content Strategy: The Project Guide - This hands-on resource for all UXers is a project guide to UX design and content strategy that explores the relationship through a website project.](https://gathercontent.com/a-project-guide-to-ux-design-download-pdf) | GatherContent
 |[Apps For All: Coding Accessible Web Applications](https://shop.smashingmagazine.com/products/apps-for-all)| Heydon Pickering
 |[Inclusive Design Patterns](https://shop.smashingmagazine.com/products/inclusive-design-patterns)|Heydon Pickering
+|[Form Design Patterns](https://www.smashingmagazine.com/printed-books/form-design-patterns/)|Adam Silver
 |[Designing with Web Standards](https://www.amazon.com/Designing-Web-Standards-Jeffrey-Zeldman/dp/0321616952)| Jeffrey Zeldman
 |[Building Accessible Websites - A new book on Web Accessibility](http://joeclark.org/book/)|[Joe Clark](http://joeclark.org/)
 |[Tragic Design](http://www.tragicdesign.com/)| Jonathan Shariat, Cynthia Savad Saucier
