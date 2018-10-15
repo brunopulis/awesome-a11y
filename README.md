@@ -26,7 +26,7 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
   - [Meetups](topics/meetups.md)
   - [Other Resources](topics/other-resources.md)
   - [People to Follow in Web Accessibility](topics/people.md)
-  - [Screen Readers](topics/assistive-technology.md)
+  - [Assistive Technology](topics/assistive-technology.md)
   - [Talks](topics/talks.md)
   
 
