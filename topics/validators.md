@@ -36,7 +36,7 @@
 |[DaSilva](http://www.dasilva.org.br/)|PT-BR|
 |[Sim Daltonism](https://michelf.ca/projects/sim-daltonism/)|A color blindness simulator for Mac and iOS
 |[Tenon.io](https://tenon.io/)|EN|
-|[tota11y - Accessibility Visualization Toolkit](http://khan.github.io/tota11y/)| Simple validator using
+|[tota11y - Accessibility Visualization Toolkit](http://khan.github.io/tota11y/)| Simple validator using bookmarklet or Javascript plugin
 |[WAVE](http://wave.webaim.org/)|Validator online|
 
 
