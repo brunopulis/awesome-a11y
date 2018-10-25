@@ -34,11 +34,12 @@
 |[Access Monitor](http://www.acessibilidade.gov.pt/accessmonitor/)|Validator|
 |[Check My Colours](http://www.checkmycolours.com/)|Validator of Color Constrast
 |[DaSilva](http://www.dasilva.org.br/)|PT-BR|
+|[Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)|Google Chrome tool for web page audits
 |[Sim Daltonism](https://michelf.ca/projects/sim-daltonism/)|A color blindness simulator for Mac and iOS
 |[Tenon.io](https://tenon.io/)|EN|
 |[tota11y - Accessibility Visualization Toolkit](http://khan.github.io/tota11y/)| Simple validator using
-|[WAVE](http://wave.webaim.org/)|Validator online
-|[Lighthouse](https://developers.google.com/web/tools/lighthouse/)|Google Chrome tool for web page audits|
+|[WAVE](http://wave.webaim.org/)|Validator online|
+
 
 
 ### Plugins for frameworks and CMS
