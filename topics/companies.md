@@ -8,6 +8,7 @@
 | AccessibilityOz | [@AcessibilityOz](https://twitter.com/accessibilityoz)|
 | Accessible Techcomm | [@AccessTechcomm](https://twitter.com/AccessTechcomm)|
 | Acesso para Todos | [Acesso para Todos](https://www.acessoparatodos.com.br/index.php)|
+| AudioEye | [@AudioEye](https://www.audioeye.com/)|
 | A11YProject | [@A11YProject](https://twitter.com/A11YProject)|
 | Axess Lab | [@AxessLab](https://twitter.com/AxessLab)|
 | Deque Systems | [@dequesystems](http://www.deque.com/)|
