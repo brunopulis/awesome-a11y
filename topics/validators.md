@@ -47,6 +47,9 @@
 | --- | --- |
 |[Ember A11y Testing](https://github.com/ember-a11y/ember-a11y-testing)| A suite of accessibility tests that can be run within the Ember testing framework
 |[eslint-plugin-jsx-a11y](https://www.npmjs.com/package/eslint-plugin-jsx-a11y)| A static analysis linter of jsx and their accessibility with screen readers
+|[eslint-plugin-vue-a11y](https://github.com/maranran/eslint-plugin-vue-a11y)| Static AST checker for accessibility rules on elements in .vue
 |[React A11y](https://github.com/reactjs/react-a11y)|Identifies accessibility issues in your React.js elements
 |[pa11y](http://www.pa11y.org/)|
+|[vue-a11y-utils](https://github.com/Jinjiang/vue-a11y-utils)| Utilities for accessibility (a11y) in Vue.js
+|[vue-axe](https://github.com/vue-a11y/vue-axe)| Accessibility auditing for Vue.js applications
 |[WP Accessibility](https://www.joedolson.com/wp-accessibility/)|Helps with a variety of common accessibility problems in WP themes
