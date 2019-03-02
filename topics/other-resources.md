@@ -30,6 +30,7 @@
 |[Practical ARIA Examples](http://heydonworks.com/practical_aria_examples/)| EN
 |[Semantic Web Autocomplete for Atom](https://github.com/obetomuniz/autocomplete-semantic-web) - A plugin that offers suggestions for Schema.org, RDFa and WAI-ARIA.|EN
 |[Stories of Web Users](https://www.w3.org/WAI/people-use-web/user-stories/) - A series of user scenarios that help contextualize accessibility work. |EN
+|[Skip Links](https://github.com/Muhnad/skip-links) - React component that helps you to add skip navigation links.| EN
 |[Tota11y](http://khan.github.io/tota11y/) - An accessibility visualization toolkit| EN
 |[Trello accessibility cards generator](https://github.com/luarmr/trello-a11y-cards) - A node.js script to create a Trello card for every point in WCAG2 guidelines.| EN
 |[UI resources for Accessibility](http://uigoodies.com/accessibility.html)| EN
@@ -38,4 +39,3 @@
 |[Vox accessibility guidelines](http://accessibility.voxmedia.com/) - Vox accessibility checklist for every team member| EN
 |[van11y](https://van11y.net/) - A collection of accessible scripts| EN
 |[WCAG 2.1 Map poster](http://intopia.digital/pdf/WCAG2_1Map.pdf) - All WCAG criteria| EN
-
