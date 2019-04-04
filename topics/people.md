@@ -6,8 +6,10 @@ This is a list, in no particular order, of people to follow that contribute grea
 
 | Name | Twitter |
 | --- | --- |
+| Accessibility is important | [@a11yisimportant](https://twitter.com/a11yisimportant) |
 | Alice Boxhall | [@sundress](https://twitter.com/sundress) |
 | Alistair Duggin | [@dugboticus](https://twitter.com/dugboticus) |
+| Anand Chowdhary | [@anandchowdhary](https://twitter.com/anandchowdhary) |
 | Carie Fisher | [@cariefisher](https://twitter.com/cariefisher) |
 | Cory Klatik | [@cklatik](https://twitter.com/cklatik) |
 | Dave Rupert | [@davatron5000](https://twitter.com/davatron5000) |
