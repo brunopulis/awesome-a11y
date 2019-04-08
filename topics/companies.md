@@ -21,6 +21,7 @@
 | Paciello Group | [@paciellogroup](https://twitter.com/paciellogroup)|
 | PayPal Accessibility | [@PayPalInclusive](https://twitter.com/PayPalInclusive)|
 | Open Inclusion | [@openforaccess](https://twitter.com/openforaccess)|
+| Oswald Labs | [@oswaldlabs](https://twitter.com/oswaldlabs)|
 | Simply Accessible | [@sateaches](https://twitter.com/sateaches)|
 | Twitter A11y | [@TwitterA11y](https://twitter.com/TwitterA11y)|
 | WAI at W3C | [@w3c_wai](https://twitter.com/w3c_wai)|
