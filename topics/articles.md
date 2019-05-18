@@ -32,3 +32,4 @@
 * [Writing JavaScript with accessibility in mind](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9)
 * [Web accessibility audits powered by the Chrome logo Chrome Accessibility Developer Tools.](https://addyosmani.com/a11y/)
 * [W3C Cognitive and Learning Disabilities Accessibility Task Force](https://www.w3.org/WAI/PF/cognitive-a11y-tf/wiki/Main_Page)
+* [Accessibility and React: Tips and Best Practices](https://www.aditus.io/talks/react-and-accessibility/)
