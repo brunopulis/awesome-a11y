@@ -1,6 +1,6 @@
 ## People to Follow in Web Accessibility
 
-This is a list, in no particular order, of people to follow that contribute greatly to web accessibility and web standards.
+This is a list, in no particular order, of people to follow that contribute greatly to web accessibility and web standards. You can see a detail list of this resource in [People to follow in a11y](https://github.com/joe-watkins/top-people-to-follow-in-web-accessibility) by [Joe Watkins](https://github.com/joe-watkins)
 
 ## People
 
