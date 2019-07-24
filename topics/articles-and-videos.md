@@ -1,4 +1,4 @@
-# Articles and videos
+# Articles and Videos
 
 ## Articles
 

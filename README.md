@@ -14,7 +14,7 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
 **Table of Contents**
 
 - [Accessibility Weekly](topics/newsletter.md)
-- [Articles and Videos](topics/articles.md)
+- [Articles and Videos](topics/articles-and-videos.md)
 - [Assistive Technology](topics/assistive-technology.md)
 - [Books](topics/books.md)
 - [Companies & Organizations](topics/companies.md)
