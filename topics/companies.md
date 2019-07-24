@@ -13,14 +13,12 @@
 | [Deque Systems](http://www.deque.com/) | [@dequesystems](https://twitter.com/dequesystems) |
 | [Google Accessibility](https://www.google.com/accessibility/) | [@googleaccess](https://twitter.com/googleaccess) |
 | [IBMAccess](https://www.ibm.com/able/) | [@IBMAccess](https://twitter.com/IBMAccess) |
-| ~~Inclusive Components~~ - not a company, more of a book with companion site | ~~[@inclusicomps](https://twitter.com/inclusicomps)~~ - no longer works |
 | [Intopia](https://intopia.digital/) | [@Intopia](https://twitter.com/Intopia) |
 | [Knowbility](https://knowbility.org/) | [@knowbility](https://twitter.com/knowbility) |
 | [Level Access](https://www.levelaccess.com/) | [@LevelAccessA11y](https://twitter.com/LevelAccessA11y) |
 | [Microsoft Accessibility](https://www.microsoft.com/en-us/accessibility/) | [@MSFTEnable](https://twitter.com/MSFTEnable) |
 | [Open Inclusion](https://openinclusion.com/) | [@openforaccess](https://twitter.com/openforaccess) |
 | [Oswald Labs](https://oswaldlabs.com/) | [@OswaldLabs](https://twitter.com/oswaldlabs) |
-| ~~PayPal Accessibility~~ - looks inactive | ~~[@PayPalInclusive](https://twitter.com/PayPalInclusive)~~ - looks inactive |
 | [Simply Accessible](http://simplyaccessible.com/) | [@SAteaches](https://twitter.com/sateaches) |
 | [The Paciello Group](https://www.paciellogroup.com/) | [@paciellogroup](https://twitter.com/paciellogroup) |
 | Twitter Accessibility | [@TwitterA11y](https://twitter.com/TwitterA11y) |
