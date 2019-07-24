@@ -1,4 +1,4 @@
-## Companies & Organizations
+## Companies and Organizations
 
 | Name | Twitter | What they do |
 |---   |---      |---           |
