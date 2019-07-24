@@ -28,3 +28,5 @@
 | [Web Axe](http://www.webaxe.org/) | [@webaxe](https://twitter.com/webaxe) | Blog and podcast on accessibility |
 | Web Sem Barreiras | [@websembarreiras](https://twitter.com/websembarreiras) | |
 | [WordPress Accessibility Team](https://make.wordpress.org/accessibility/) |[@WPAccessibility](https://twitter.com/WPAccessibility) | Working group within WordPress community that creates standards and guides |
+
+> Also see [Professional Help section](https://a11yproject.com/resources/#professional-help) on the A11y Project website.
