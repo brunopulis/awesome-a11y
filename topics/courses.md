@@ -1,4 +1,4 @@
-# Courses
+## Courses
 
 | Level | Name | Language | Price |
 |---    |---   |---       |---    |
