@@ -1,6 +1,7 @@
 ## Articles and Videos
 
 * [Accessibility and React: Tips and Best Practices](https://www.aditus.io/talks/react-and-accessibility/) by João Figueiredo
+* [An introduction to accessibility: Part 1](https://getflywheel.com/layout/an-introduction-to-accessibility-part-1/) ([Part 2](https://getflywheel.com/layout/an-introduction-to-accessibility-part-2/)) by Adam Soucie
 * [10 Rules For Efficient Form Design](http://babich.biz/10-rules-for-efficient-form-design/) by Nick Babich
 * [Making Accessible Links: 15 Golden Rules For Developers](http://www.sitepoint.com/15-rules-making-accessible-links/) by Gian Wild
 * [A11ycasts](https://www.youtube.com/watch?v=HtTyRajRuyY) from Google Chrome Developers team, mainly Rob Dodson
@@ -12,17 +13,15 @@
 * [CAPTCHA - Inaccessible to Everyone](http://www.sitepoint.com/captcha-inaccessible-to-everyone/) by Gian Wild
 * [Creating Accessible HTML: A Crash Course in ARIA Landmark Regions](https://c2experience.com/blog/2018/03/creating-accessible-html-a-crash-course-in-aria-landmark-regions/) by Genevieve Nelson
 * [Deque Systems YouTube Channel](https://www.youtube.com/channel/UCvNQ5aJllZ5Oi49jtMKeb0Q)
-* ~~[Design for Web Accessibility from the Beginning](https://getflywheel.com/layout/design-web-accessibility-beginning/)~~ - now redirects to part 1 of an accessibility article for developers
 * [Design like we give a damn!](https://www.vimeo.com/110965713) by Léonie Watson
 * [Gap Analysis/ADHD](https://www.w3.org/WAI/PF/cognitive-a11y-tf/wiki/Gap_Analysis/ADHD) from the W3C
-* ~~[Getting Started with Web Accessibility](http://www.w3.org/WAI/gettingstarted/Overview.html)~~ now redirects to Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
 * [Improving Single Page App Accessibility with a11y_kit](https://www.vimeo.com/117614181) by Patrick Fox
+* [Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/) from the W3C
 * [Lesson from building mobile frindly accessible data tables](https://medium.com/shopify-ux/lessons-from-building-mobile-friendly-accessible-data-tables-1e05c6924eaf#.yxri88ccf) by Tetsuro Takara
 * [Links vs. Buttons in Modern Web Applications](https://marcysutton.com/links-vs-buttons-in-modern-web-applications/) by Marcy Sutton
 * [Making Open-Source Accessible for All](https://medium.com/@kaelig/making-open-source-accessible-for-all-8131429913b1) by Kaelig Deloumeau-Prigent
 * [Simply Accessible - Articles](http://simplyaccessible.com/articles/)
 * [Testes automatizados de acessibilidade com Axe e Puppeteer](https://medium.com/@oieduardorabelo/testes-automatizados-de-acessibilidade-6a164e77e11e) [pt-br] by Eduardo Rabelo
-* ~~[Textos sobre acessibilidade na Web](http://acessibilidade.pt.webiwg.org/) [pt-br]~~ - no longer works
 * [The Accessibility Cheatsheet](http://bitsofco.de/the-accessibility-cheatsheet/) by Ire Aderinokun
 * [The web accessibility basics](https://www.marcozehe.de/2015/12/14/the-web-accessibility-basics/) by Marco Zehe
 * [Variable Fonts and Dyslexia](http://adrianroselli.com/2018/08/variable-fonts-and-dyslexia.html) by Adrian Roselli
