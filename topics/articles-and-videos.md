@@ -1,6 +1,6 @@
-# Articles and Videos
+## Articles and Videos
 
-## Articles
+### Articles
 
 * [Accessibility and React: Tips and Best Practices](https://www.aditus.io/talks/react-and-accessibility/) by João Figueiredo
 * [An introduction to accessibility: Part 1](https://getflywheel.com/layout/an-introduction-to-accessibility-part-1/) ([Part 2](https://getflywheel.com/layout/an-introduction-to-accessibility-part-2/)) by Adam Soucie
@@ -27,13 +27,13 @@
 * [What is Web Accessibility](http://alistapart.com/article/wiwa) by Trenton Mos
 * [Writing JavaScript with accessibility in mind](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9) by Manuel Matuzovic
 
-### Sources
+#### Sources
 * [Cognitive and Learning Disabilities Accessibility Task Force](https://www.w3.org/WAI/PF/cognitive-a11y-tf/wiki/Main_Page) at the W3C
 * [Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/) from the W3C
 * [Simply Accessible - Articles](http://simplyaccessible.com/articles/)
 * [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/) from the W3C
 
-## Videos
+### Videos
 * [A11ycasts](https://www.youtube.com/watch?v=HtTyRajRuyY) series from Google Chrome Developers team, mainly Rob Dodson
 * [Deque Systems YouTube Channel](https://www.youtube.com/channel/UCvNQ5aJllZ5Oi49jtMKeb0Q)
 * [Design like we give a damn!](https://www.vimeo.com/110965713) by Léonie Watson
