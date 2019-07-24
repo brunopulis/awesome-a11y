@@ -1,6 +1,6 @@
-# Assistive Technologies
+## Assistive Technologies
 
-## Screen Readers
+### Screen Readers
 | Name | Cost | Type | Operating system(s) |
 |---   |---   |---   |---                  |
 | [ChromeVox](http://www.chromevox.com/) | Free | Chrome extension | All |
@@ -9,7 +9,7 @@
 | [Orca](https://wiki.gnome.org/Projects/Orca) | Free | Desktop app | Linux |
 | VoiceOver for [iOS](http://www.apple.com/accessibility/iphone/vision/) and [macOS](https://www.apple.com/accessibility/mac/vision/) | Free | Built-in mobile and desktop apps | iOS and macOS |
 
-## On Screen Keyboard (OSK)
+### On Screen Keyboard (OSK)
 | Name | Operating system(s) |
 |---   |---                  |
 | [OptiKey](https://github.com/OptiKey/OptiKey/wiki) | Windows |
