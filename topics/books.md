@@ -17,3 +17,5 @@
 | [A Web for Everyone - Designing Accessible User Experiences](http://rosenfeldmedia.com/books/a-web-for-everyone/) | Sarah Horton & Whitney Quesenbery |
 | [Designing with Progressive Enhancement: Building the Web that Works for Everyone](https://www.amazon.com/Designing-Progressive-Enhancement-Building-Everyone/dp/0321658884/) | Todd Parker, Patty Toland, Scott Jehl, Maggie Costello Wachs |
 | [Web Accessibility: Web Standards and Regulatory Compliance](https://www.amazon.com/Web-Accessibility-Standards-Regulatory-Compliance/dp/1590596382) | Jim Thatcher |
+
+> Also see the [Books section](https://a11yproject.com/resources/#books) on the A11y Project
