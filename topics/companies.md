@@ -18,14 +18,14 @@
 | Knowbility | [@knowbility](https://twitter.com/knowbility)|
 | Level Access | [@LevelAccessA11y](https://twitter.com/LevelAccessA11y)|
 | Microsoft Access | [@MSFTaccess](https://twitter.com/MSFTaccess)|
-| Paciello Group | [@paciellogroup](https://twitter.com/paciellogroup)|
-| PayPal Accessibility | [@PayPalInclusive](https://twitter.com/PayPalInclusive)|
 | Open Inclusion | [@openforaccess](https://twitter.com/openforaccess)|
 | Oswald Labs | [@oswaldlabs](https://twitter.com/oswaldlabs)|
+| Paciello Group | [@paciellogroup](https://twitter.com/paciellogroup)|
+| PayPal Accessibility | [@PayPalInclusive](https://twitter.com/PayPalInclusive)|
 | Simply Accessible | [@sateaches](https://twitter.com/sateaches)|
 | Twitter A11y | [@TwitterA11y](https://twitter.com/TwitterA11y)|
 | WAI at W3C | [@w3c_wai](https://twitter.com/w3c_wai)|
 | WebAIM | [@webaim](https://twitter.com/webaim)|
+| WebAxe | [@webaxe](https://twitter.com/webaxe)|
 | Web Sem Barreiras | [@websembarreiras](https://twitter.com/websembarreiras)|
 | WPAccessibility Team |[@WPAccessibility](https://twitter.com/WPAccessibility)|
-| WebAxe | [@webaxe](https://twitter.com/webaxe)|
