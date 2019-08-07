@@ -17,7 +17,7 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
 - [Articles and Videos](topics/articles-and-videos.md)
 - [Assistive Technology](topics/assistive-technology.md)
 - [Books](topics/books.md)
-- [Companies & Organizations](topics/companies.md)
+- [Companies and Organizations](topics/companies-and-organizations.md)
 - [Courses](topics/courses.md)
 - [Development Testing and Validators](topics/validators.md)
 - [Guides](topics/guides.md)
