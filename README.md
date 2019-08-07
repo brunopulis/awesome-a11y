@@ -8,35 +8,30 @@
 
 Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) which you can [see on Dribble](https://dribbble.com/shots/2121794-rock-n-roll-a11y).
 
-> A curated list of awesome Accessibility tools, articles and resources.
+> A curated list of awesome accessibility tools, articles, and resources.
 > Inspired by [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox).
 
 **Table of Contents**
 
-- [Awesome Accessibility](##awesome-accessibility)
-  - [W3C Specification](topics/specification.md)
-  - [Accessibility Weekly](topics/newsletter.md)
-  - [Articles and Videos](topics/articles.md)
-  - [Books](topics/books.md)
-  - [Courses](topics/courses.md)
-  - [Companies & Organizations](topics/companies.md)
-  - [Development Testing and Validators](topics/validators.md)
-  - [Guides](topics/guides.md)
-  - [Laws](topics/laws.md)
-  - [Meetups](topics/meetups.md)
-  - [Other Resources](topics/other-resources.md)
-  - [People to Follow in Web Accessibility](topics/people.md)
-  - [Assistive Technology](topics/assistive-technology.md)
-  - [Talks](topics/talks.md)
-  
+- [Accessibility Weekly](topics/newsletter.md)
+- [Articles and Videos](topics/articles-and-videos.md)
+- [Assistive Technology](topics/assistive-technology.md)
+- [Books](topics/books.md)
+- [Companies & Organizations](topics/companies.md)
+- [Courses](topics/courses.md)
+- [Development Testing and Validators](topics/validators.md)
+- [Guides](topics/guides.md)
+- [Laws](topics/laws.md)
+- [Meetups](topics/meetups.md)
+- [Other Resources](topics/other-resources.md)
+- [People to Follow in Web Accessibility](topics/people.md)
+- [Talks](topics/talks.md)
+- [W3C Specification](topics/specification.md)
 
 ## CONTRIBUTING
 
 [Please follow these recommendations](CONTRIBUTING.md).
 
-----
-
 ## LICENSE
 
 This project is licensed under the MIT license - see the [LICENSE](LICENSE.md) for details.
-
