@@ -3,7 +3,7 @@
 | Name | Twitter | What they do |
 |---   |---      |---           |
 | [3play Media](https://www.3playmedia.com/) | [@3playmedia](https://twitter.com/3playmedia) | Captioning, subtitling, audio descriptions, transcripts, and transcribing |
-| A11Y | [@a11y](https://twitter.com/a11y) | Aggregator accoutn for accessibility-related content |
+| A11Y | [@a11y](https://twitter.com/a11y) | Aggregator account for accessibility-related content |
 | [A11Y Project](https://a11yproject.com/) | [@A11YProject](https://twitter.com/A11YProject) | Community-driven collection of patterns, resources, events, and more |
 | [Accessible360](https://accessible360.com/) | [@Accessible_360](https://twitter.com/accessible_360/) | Auditing, consulting, and training |
 | [AccessibilityOz](https://www.accessibilityoz.com/) | [@accessibilityoz](https://twitter.com/accessibilityoz) |
