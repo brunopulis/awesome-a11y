@@ -36,3 +36,5 @@
 | Buffa11y | Buffalo, NY | [@buffa11y](https://twitter.com/buffa11y) |
 | MidMO Accessibility | Colombia, MO | [@MidMOA11Y](https://twitter.com/MidMOA11Y) |
 | Portland Accessibility and User Experience (PDXAUX) | Portland, OR | [PDXAUX on Meetup](https://www.meetup.com/Portland-Accessibility-and-User-Experience-Meetup/) |
+
+> Find meetups in your area through [meetups.com](https://www.meetup.com/find/?allMeetups=false&keywords=a11y&radius=Infinity&sort=recommended&eventFilter=mysugg)
