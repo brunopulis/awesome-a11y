@@ -41,6 +41,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 | Lucy Greco | [@accessaces](https://twitter.com/accessaces) |
 | Marco Zehe | [@MarcoZehe](https://twitter.com/MarcoZehe) |
 | Marcy Sutton  | [@marcysutton](http://twitter.com/marcysutton) |
+| Melanie Sumner | [@melaniersumner](https://twitter.com/melaniersumner) |
 | Michiel Bijl | [@MichielBijl](https://twitter.com/MichielBijl) |
 | Mike Paciello | [@mpaciello](https://twitter.com/mpaciello) |
 | Molly Watt| [@MollyWattTalks](https://twitter.com/MollyWattTalks) |
