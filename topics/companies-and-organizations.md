@@ -10,9 +10,11 @@
 | Accessible Techcomm | [@AccessTechcomm](https://twitter.com/AccessTechcomm) | Auditing, consulting, and training |
 | [Acesso para Todos](https://www.acessoparatodos.com.br/) | _None_ | Development |
 | [AudioEye](https://www.audioeye.com/) | [@audioeyeinc](https://twitter.com/audioeyeinc) | |
+| [Audima](https://audima.co/) | _None_ | Audio descriptions |
 | [Axess Lab](https://axesslab.com/) | [@AxessLab](https://twitter.com/AxessLab) | Auditing, consulting, and training |
 | [Deque Systems](http://www.deque.com/) | [@dequesystems](https://twitter.com/dequesystems) | Auditing, consulting, and training |
 | [Google Accessibility](https://www.google.com/accessibility/) | [@googleaccess](https://twitter.com/googleaccess) |
+| [Hand Talk](https://www.handtalk.me/) | _None_ | Transcription |
 | [IBMAccess](https://www.ibm.com/able/) | [@IBMAccess](https://twitter.com/IBMAccess) | Internal support at IBM, product R&D |
 | [Intopia](https://intopia.digital/) | [@Intopia](https://twitter.com/Intopia) | Auditing, consulting, training, and development |
 | [Knowbility](https://knowbility.org/) | [@knowbility](https://twitter.com/knowbility) | Auditing, consulting, and training |
