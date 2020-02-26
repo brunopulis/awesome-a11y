@@ -21,6 +21,7 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
 - [Courses](topics/courses.md)
 - [Development Testing and Validators](topics/validators.md)
 - [Guides](topics/guides.md)
+- [Jobs](topics/jobs.md)
 - [Laws](topics/laws.md)
 - [Meetups](topics/meetups.md)
 - [Other Resources](topics/other-resources.md)
