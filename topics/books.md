@@ -10,6 +10,7 @@
 | [Building Accessible Websites](http://joeclark.org/book/) | [Joe Clark](http://joeclark.org/)
 | [Designing with Progressive Enhancement: Building the Web that Works for Everyone](https://www.amazon.com/Designing-Progressive-Enhancement-Building-Everyone/dp/0321658884/) | Todd Parker, Patty Toland, Scott Jehl, Maggie Costello Wachs |
 | [Designing with Web Standards](https://www.amazon.com/Designing-Web-Standards-Jeffrey-Zeldman/dp/0321616952) | Jeffrey Zeldman |
+| [Digital Accessibility as a Business Practice](https://pressbooks.library.ryerson.ca/dabp/) | Digital Education Strategies|
 | [Form Design Patterns](https://www.smashingmagazine.com/printed-books/form-design-patterns/) | Adam Silver |
 | [How to Meet the Web Content Accessibility Guidelines 2.0](https://www.wuhcag.com/wcag/) | Luke McGrath |
 | [Inclusive Design Patterns](https://shop.smashingmagazine.com/products/inclusive-design-patterns) | Heydon Pickering |
