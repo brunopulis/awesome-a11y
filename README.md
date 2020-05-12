@@ -27,6 +27,7 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
 - [Other Resources](topics/other-resources.md)
 - [People to Follow in Web Accessibility](topics/people.md)
 - [Talks](topics/talks.md)
+- [Tools](topics/tools.md)
 - [W3C Specification](topics/specification.md)
 
 ## CONTRIBUTING
