@@ -4,6 +4,7 @@
 |---   |---     |
 | [Accessibility For Everyone](https://abookapart.com/products/accessibility-for-everyone) | Laura Kalbag |
 | [Acessibilidade na Web](https://www.amazon.com.br/Acessibilidade-web-Universit%C3%A1ria-Reinaldo-Ferraz-ebook/dp/B077ZW7267?qid=1527961804&refinements=p_27%3AReinaldo+Ferraz&sr=1-2&text=Reinaldo+Ferraz&ref=sr_1_2) | Reinaldo Ferraz |
+| [Acessibilidade na Web: Boas práticas para construir sites e aplicações acessíveis](https://www.casadocodigo.com.br/products/livro-acessibilidade) | Reinaldo Ferraz |
 | [Adaptive Web Design: Crafting Rich Experiences with Progressive Enhancement](https://www.amazon.com/Adaptive-Web-Design-Experiences-Progressive/dp/098358950X) | Aaron Gustafson |
 | [Apps For All: Coding Accessible Web Applications](https://shop.smashingmagazine.com/products/apps-for-all) | Heydon Pickering |
 | [A Web for Everyone: Designing Accessible User Experiences](http://rosenfeldmedia.com/books/a-web-for-everyone/) | Sarah Horton and Whitney Quesenbery |
