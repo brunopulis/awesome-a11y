@@ -11,15 +11,18 @@
 * [A Software Tester's Guide to Web Accessibility](https://dojo.ministryoftesting.com/lessons/a-software-tester-s-guide-to-web-accessibility)
 * [Automated Accessibility Checking with aXe](https://www.sitepoint.com/automated-accessibility-checking-with-axe/) by Pavels Jelisejevs
 * [Basic screen reader commands for accessibility testing](https://www.paciellogroup.com/blog/2015/01/basic-screen-reader-commands-for-accessibility-testing/) by Léonie Watson
+* [Building the most inaccessible site possible with a perfect Lighthouse score](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/) by Manuel Matuzović
 * [CAPTCHA - Inaccessible to Everyone](http://www.sitepoint.com/captcha-inaccessible-to-everyone/) by Gian Wild
 * [Creating Accessible HTML: A Crash Course in ARIA Landmark Regions](https://c2experience.com/blog/2018/03/creating-accessible-html-a-crash-course-in-aria-landmark-regions/) by Genevieve Nelson
 * [Gap Analysis/ADHD](https://www.w3.org/WAI/PF/cognitive-a11y-tf/wiki/Gap_Analysis/ADHD) from the W3C
+* [Implementing an accessible focus indicator](https://darekkay.com/blog/accessible-focus-indicator/) by Darek Kay
 * [Lesson from building mobile frindly accessible data tables](https://medium.com/shopify-ux/lessons-from-building-mobile-friendly-accessible-data-tables-1e05c6924eaf#.yxri88ccf) by Tetsuro Takara
 * [Links vs. Buttons in Modern Web Applications](https://marcysutton.com/links-vs-buttons-in-modern-web-applications/) by Marcy Sutton
 * [Making Open-Source Accessible for All](https://medium.com/@kaelig/making-open-source-accessible-for-all-8131429913b1) by Kaelig Deloumeau-Prigent
 * [Testes automatizados de acessibilidade com Axe e Puppeteer](https://medium.com/@oieduardorabelo/testes-automatizados-de-acessibilidade-6a164e77e11e) [pt-br] by Eduardo Rabelo
 * [The Accessibility Cheatsheet](http://bitsofco.de/the-accessibility-cheatsheet/) by Ire Aderinokun
 * [The web accessibility basics](https://www.marcozehe.de/2015/12/14/the-web-accessibility-basics/) by Marco Zehe
+* [The state of accessible web UI frameworks](https://darekkay.com/blog/accessible-ui-frameworks/) by Darek Kay
 * [Variable Fonts and Dyslexia](http://adrianroselli.com/2018/08/variable-fonts-and-dyslexia.html) by Adrian Roselli
 * [Introduction to Web Accessibility](http://webaim.org/intro/) by WebAIM
 * [Web accessibility audits powered by the Chrome logo Chrome Accessibility Developer Tools](https://addyosmani.com/a11y/)
