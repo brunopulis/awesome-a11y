@@ -19,6 +19,7 @@
 * [Lesson from building mobile frindly accessible data tables](https://medium.com/shopify-ux/lessons-from-building-mobile-friendly-accessible-data-tables-1e05c6924eaf#.yxri88ccf) by Tetsuro Takara
 * [Links vs. Buttons in Modern Web Applications](https://marcysutton.com/links-vs-buttons-in-modern-web-applications/) by Marcy Sutton
 * [Making Open-Source Accessible for All](https://medium.com/@kaelig/making-open-source-accessible-for-all-8131429913b1) by Kaelig Deloumeau-Prigent
+* [NGX-Skeleton-Loader — States, Animations, Performance, and Accessibility for your Angular App](https://medium.com/@willmendesneto/ngx-skeleton-loader-states-animations-performance-and-accessibility-for-your-angular-app-ad0fd86da7a5) by Will Mendes
 * [Testes automatizados de acessibilidade com Axe e Puppeteer](https://medium.com/@oieduardorabelo/testes-automatizados-de-acessibilidade-6a164e77e11e) [pt-br] by Eduardo Rabelo
 * [The Accessibility Cheatsheet](http://bitsofco.de/the-accessibility-cheatsheet/) by Ire Aderinokun
 * [The web accessibility basics](https://www.marcozehe.de/2015/12/14/the-web-accessibility-basics/) by Marco Zehe
