@@ -2,6 +2,7 @@
 
 ### Articles
 
+* [NGX-Skeleton-Loader — States, Animations, Performance, and Accessibility for your Angular App](https://medium.com/@willmendesneto/ngx-skeleton-loader-states-animations-performance-and-accessibility-for-your-angular-app-ad0fd86da7a5) by Will Mendes
 * [Accessibility and React: Tips and Best Practices](https://www.aditus.io/talks/react-and-accessibility/) by João Figueiredo
 * [An introduction to accessibility: Part 1](https://getflywheel.com/layout/an-introduction-to-accessibility-part-1/) ([Part 2](https://getflywheel.com/layout/an-introduction-to-accessibility-part-2/)) by Adam Soucie
 * [10 Rules For Efficient Form Design](http://babich.biz/10-rules-for-efficient-form-design/) by Nick Babich
