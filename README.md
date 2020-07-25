@@ -1,6 +1,4 @@
-# Awesome Accessibility
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Accessibility [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![The #a11y hashtag with the ones replaced by a fist giving the rock and roll sign.](https://user-images.githubusercontent.com/1204692/30697506-9fd3020c-9eb5-11e7-95ca-a6c56785dd66.png)
 
