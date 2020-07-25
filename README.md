@@ -7,6 +7,8 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
 > A curated list of awesome accessibility tools, articles, and resources.
 > Inspired by [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox).
 
+*Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
+
 **Table of Contents**
 
 - [Accessibility Weekly](topics/newsletter.md)
@@ -25,10 +27,6 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
 - [Talks](topics/talks.md)
 - [Tools](topics/tools.md)
 - [W3C Specification](topics/specification.md)
-
-## CONTRIBUTING
-
-[Please follow these recommendations](CONTRIBUTING.md).
 
 ## LICENSE
 
