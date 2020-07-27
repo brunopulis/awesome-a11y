@@ -27,7 +27,3 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
 - [Talks](topics/talks.md)
 - [Tools](topics/tools.md)
 - [W3C Specification](topics/specification.md)
-
-## LICENSE
-
-This project is licensed under the MIT license - see the [LICENSE](LICENSE.md) for details.
