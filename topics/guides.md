@@ -10,6 +10,7 @@
 | [Accessible Mega Menu](https://github.com/adobe-accessibility/Accessible-Mega-Menu) | EN |
 | [ACT-Rules Community](https://act-rules.github.io/rules/) | EN |
 | [ARIA Cheatsheet](http://karlgroves-sandbox.com/CheatSheets/ARIA-Cheatsheet.html) | EN |
+| [Awesome A11y Vue](https://github.com/vue-a11y/awesome-a11y-vue) | EN |
 | [Easy Checks - A First Review of Web Accessibility](http://www.w3.org/WAI/eval/preliminary.html) | EN |
 | [How To Meet WCAG Quick Reference](https://www.w3.org/WAI/WCAG21/quickref/) | EN |
 | [Introduction to Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891) | EN |
