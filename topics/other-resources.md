@@ -28,13 +28,11 @@
 |[Mozilla developer network's accessibility section](https://developer.mozilla.org/en-US/docs/Web/Accessibility) - checklists, tutorials and code examples.| EN
 |[Not so Super Mario](https://www.youtube.com/watch?v=DvaPRlZtfyc) - A parody video showing accessibility problems using Mario Bros. games| EN
 |[Open Color](https://yeun.github.io/open-color) - Color scheme for UI design. You can use it for font, background, border, etc. It contains a gray and twelve colors. Open color is provided as CSS, SCSS, LESS, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.| EN
-|[Practical ARIA Examples](http://heydonworks.com/practical_aria_examples/)| EN
 |[Semantic Web Autocomplete for Atom](https://github.com/obetomuniz/autocomplete-semantic-web) - A plugin that offers suggestions for Schema.org, RDFa and WAI-ARIA.|EN
 |[Stories of Web Users](https://www.w3.org/WAI/people-use-web/user-stories/) - A series of user scenarios that help contextualize accessibility work. |EN
 |[Skip Links](https://github.com/Muhnad/skip-links) - React component that helps you to add skip navigation links.| EN
 |[Tota11y](http://khan.github.io/tota11y/) - An accessibility visualization toolkit| EN
 |[Trello accessibility cards generator](https://github.com/luarmr/trello-a11y-cards) - A node.js script to create a Trello card for every point in WCAG2 guidelines.| EN
-|[UI resources for Accessibility](http://uigoodies.com/accessibility.html)| EN
 |[UK Government's accessibility blog](https://accessibility.blog.gov.uk/)| EN
 |[Visability - Inclusive and diverse accessibility icons](https://www.visability93.com/)| EN
 |[Vox accessibility guidelines](http://accessibility.voxmedia.com/) - Vox accessibility checklist for every team member| EN

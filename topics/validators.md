@@ -25,14 +25,13 @@
 |[Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/)| To test the contrast of your text against its background
 |[Color Oracle](http://colororacle.org/)| App (Mac/Win/Linux) for check colours
 |[Contrast Ratio](https://leaverou.github.io/contrast-ratio/)|Live demonstration of the readability of your background and text color combination
-|[I want to see like the colour blind](https://chrome.google.com/webstore/detail/i-want-to-see-like-the-co/jebeedfnielkcjlcokhiobodkjjpbjia)|Chrome Extension (Mac/Win)
 |[Tanaguru Contrast Finder](http://contrast-finder.tanaguru.com/?lang=en)|Contrast finder that suggests a valid color range
 
 ### Validators
 | Validator | Description
 | --- | --- |
 |[508 Checker](http://www.508checker.com/)|Check a11y with 508 rules|
-|[Access Monitor](http://www.acessibilidade.gov.pt/accessmonitor/)|Validator|
+|[Access Monitor](http://accessmonitor.acessibilidade.gov.pt/amp/)|Validator|
 |[Check My Colours](http://www.checkmycolours.com/)|Validator of Color Constrast
 |[DaSilva](http://www.dasilva.org.br/)|PT-BR|
 |[Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)|Google Chrome tool for web page audits
