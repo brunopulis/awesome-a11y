@@ -21,6 +21,8 @@
 ### Colors and contrast
 | Tool | Description
 | --- | --- |
+|[Accessible Colors](https://accessible-colors.com/)|
+|[Check My Colours](http://www.checkmycolours.com/)|Validator of Color Constrast
 |[Chromelens - Extension Google Chrome](http://chromelens.xyz/)|
 |[Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/)| To test the contrast of your text against its background
 |[Color Oracle](http://colororacle.org/)| App (Mac/Win/Linux) for check colours
@@ -32,17 +34,12 @@
 | --- | --- |
 |[508 Checker](http://www.508checker.com/)|Check a11y with 508 rules|
 |[Access Monitor](http://accessmonitor.acessibilidade.gov.pt/amp/)|Validator|
-|[Check My Colours](http://www.checkmycolours.com/)|Validator of Color Constrast
 |[DaSilva](http://www.dasilva.org.br/)|PT-BR|
 |[Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)|Google Chrome tool for web page audits
 |[Sim Daltonism](https://michelf.ca/projects/sim-daltonism/)|A color blindness simulator for Mac and iOS
 |[Tenon.io](https://tenon.io/)|EN|
 |[tota11y - Accessibility Visualization Toolkit](http://khan.github.io/tota11y/)| Simple validator using bookmarklet or Javascript plugin
 |[WAVE](http://wave.webaim.org/)|Validator online|
-
-
-
-
 
 ### Plugins for frameworks and CMS
 | Validator | Description
