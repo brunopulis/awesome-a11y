@@ -19,6 +19,7 @@
 |---   |---   | ---        |  --- |
 |Screen Reader | [Android Accessibility Suite](https://play.google.com/store/apps/details?id=com.google.android.marvin.talkback) | [Google](https://www.google.com/) | Free |
 |Screen Reader | [JAWS](https://www.freedomscientific.com/products/software/jaws/) | [Freedom Scientific](https://www.freedomscientific.com/) | $90/year |
+|Screen Reader | [Narrator (Windows 10)](https://support.microsoft.com/en-us/windows/complete-guide-to-narrator-e4397a0d-ef4f-b386-d8ae-c172f109bdb1) | Microsoft | Free |
 |Screen Reader | [NVDA](https://www.nvaccess.org/download/) | [NV Access](https://www.nvaccess.org/) |Free |
 |Screen Reader | [ORCA](https://wiki.gnome.org/Projects/Orca) | [The Gnome Project](https://www.gnome.org/) | Free |
 |Screen Reader | [VoiceOver (iOS)](https://www.apple.com/accessibility/iphone/vision/) | Apple | Free |
