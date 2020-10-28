@@ -17,6 +17,7 @@
 |[HTML5 Acessibility](http://www.html5accessibility.com/)|Get the current accessibility support status of HTML5 features across major browsers
 |[Stylelint a11y](https://github.com/YozhikM/stylelint-a11y)|Stylelint a11y|
 |[Web Accessibility Toolbar (WAT)](https://www.paciellogroup.com/resources/wat/)|The Web Accessibility Toolbar (WAT) has been developed to aid manual examination of web pages for a variety of aspects of accessibility.
+|[ARIA DevTools](https://chrome.google.com/webstore/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck)|Chrome extension that displays a developer-friendly visual representation of the browser accessibility tree.
 
 ### Colors and contrast
 | Tool | Description
