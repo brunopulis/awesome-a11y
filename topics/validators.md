@@ -21,6 +21,7 @@
 ### Colors and contrast
 | Tool | Description
 | --- | --- |
+|[a11y-contrast](https://github.com/darekkay/a11y-contrast)| A CLI utility to calculate/verify accessible magic numbers for a color palette
 |[Accessible Colors](https://accessible-colors.com/)|
 |[Check My Colours](http://www.checkmycolours.com/)|Validator of Color Constrast
 |[Chromelens - Extension Google Chrome](http://chromelens.xyz/)|

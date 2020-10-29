@@ -13,6 +13,7 @@
 * [Building the most inaccessible site possible with a perfect Lighthouse score](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/) by Manuel Matuzović
 * [CAPTCHA - Inaccessible to Everyone](http://www.sitepoint.com/captcha-inaccessible-to-everyone/) by Gian Wild
 * [Creating Accessible HTML: A Crash Course in ARIA Landmark Regions](https://c2experience.com/blog/2018/03/creating-accessible-html-a-crash-course-in-aria-landmark-regions/) by Genevieve Nelson
+* [Designing an accessible color palette with magic numbers](https://darekkay.com/blog/accessible-color-palette/) by Darek Kay
 * [Gap Analysis/ADHD](https://www.w3.org/WAI/PF/cognitive-a11y-tf/wiki/Gap_Analysis/ADHD) from the W3C
 * [Implementing an accessible focus indicator](https://darekkay.com/blog/accessible-focus-indicator/) by Darek Kay
 * [Introduction to Web Accessibility](http://webaim.org/intro/) by WebAIM

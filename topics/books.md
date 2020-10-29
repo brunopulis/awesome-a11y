@@ -11,14 +11,16 @@
 | [A Web for Everyone: Designing Accessible User Experiences](http://rosenfeldmedia.com/books/a-web-for-everyone/) | Sarah Horton and Whitney Quesenbery |
 | [Building Access: Universal Design and the Politics of Disability](https://www.upress.umn.edu/book-division/books/building-access) | Aimi Hamraie |
 | [Building Accessible Websites](http://joeclark.org/book/) | [Joe Clark](http://joeclark.org/) |
-|[Color Accessibility Workflows](https://abookapart.com/products/color-accessibility-workflows)| [Geri Coady](http://www.hellogeri.com/)|
+| [Building accessible websites 101](https://www.weba11y101.com/) | [Manjula Dube](https://twitter.com/manjula_dube) |
+| [Color Accessibility Workflows](https://abookapart.com/products/color-accessibility-workflows) | [Geri Coady](http://www.hellogeri.com/)|
 | [Digital Accessibility as a Business Practice](https://pressbooks.library.ryerson.ca/dabp/) | Digital Education Strategies|
-|[Design for real life](https://abookapart.com/products/design-for-real-life)|[Eric Meyer](https://meyerweb.com/) & [Sara Wachter-Boettcher](https://www.sarawb.com/)|
+| [Design for real life](https://abookapart.com/products/design-for-real-life) | [Eric Meyer](https://meyerweb.com/) & [Sara Wachter-Boettcher](https://www.sarawb.com/)|
 | [Designing with Progressive Enhancement: Building the Web that Works for Everyone](https://www.amazon.com/Designing-Progressive-Enhancement-Building-Everyone/dp/0321658884/) | Todd Parker, Patty Toland, Scott Jehl, Maggie Costello Wachs |
 | [Designing with Web Standards](https://www.amazon.com/Designing-Web-Standards-Jeffrey-Zeldman/dp/0321616952) | Jeffrey Zeldman |
 | [Disability visibility](https://www.penguinrandomhouse.com/books/617802/disability-visibility-by-alice-wong/)|Alice Wong|
 | [Form Design Patterns](https://www.smashingmagazine.com/printed-books/form-design-patterns/) | Adam Silver |
 | [How to Meet the Web Content Accessibility Guidelines 2.0](https://www.wuhcag.com/wcag/) | Luke McGrath |
+| [Inclusive Components](https://shop.smashingmagazine.com/products/inclusive-components) | Heydon Pickering |
 | [Inclusive Design Patterns](https://shop.smashingmagazine.com/products/inclusive-design-patterns) | Heydon Pickering |
 | [Mismatch: How Inclusion Shapes Design](https://mitpress.mit.edu/books/mismatch)|Kate Holmes|
 | [Practical Web Inclusion & Accessibility](https://learna11y.com/)|Ashley Firth|
