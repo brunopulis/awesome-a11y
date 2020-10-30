@@ -14,13 +14,20 @@ This is a list, in no particular order, of people to follow that contribute grea
 | Anand Chowdhary | [@anandchowdhary](https://twitter.com/anandchowdhary) |
 | Andrea Skeries | [@Artistic_Abode](https://twitter.com/Artistic_Abode) |
 | Andrew Arch | [@amja](https://twitter.com/amja) |
+| Andy Ronksley | [@RooRonks](https://twitter.com/RooRonks) |
+| Arthur Rigaud | [@arigaud_ca](https://twitter.com/arigaud_ca) |
 | Ashley Bischoff | [@handcoding](https://twitter.com/handcoding) |
 | Becky Gibson | [@becka11y](https://twitter.com/becka11y) |
 | Billy Gregory | [@thebillygregory](https://twitter.com/thebillygregory) |
+| Bruno Pulis | [@obrunopulis](https://twitter.com/obrunopulis) |
+| Cameron Cundiff | [@ckundo](https://twitter.com/ckundo) |
 | Carie Fisher | [@cariefisher](https://twitter.com/cariefisher) |
+| Charlie Turrell | [@AccessibilityC3](https://twitter.com/AccessibilityC3) |
 | Claudia Nascimento | [@claumartin](https://twitter.com/claumartin)
+| Claudio Luís Vera | [@modulist](https://twitter.com/modulist)
 | Cordelia McGee-Tubb | [@cordeliadillon](https://twitter.com/cordeliadillon) |
 | Cynthia Shelly | [@cyns](https://twitter.com/cyns) |
+| Daniel Göransson | [@DanielGoransson](https://twitter.com/DanielGoransson) |
 | Darek Kay | [@darek_kay](https://twitter.com/darek_kay) |
 | Dave Rupert | [@davatron5000](https://twitter.com/davatron5000) |
 | David A. Kennedy | [@davidakennedy](https://twitter.com/davidakennedy) |
@@ -40,6 +47,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 | Glenda Sims | [@goodwitch](https://twitter.com/goodwitch) |
 | Graham Armfield | [@coolfields](https://twitter.com/coolfields) |
 | Greg Tarnoff | [@gregtarnoff](https://twitter.com/gregtarnoff) |
+| Harcourt Hamsa | [@freescrpt](https://twitter.com/freescrpt) |
 | Hector Minto | [@hminto](https://twitter.com/hminto) |
 | Helena McCabe | [@misshelenasue](https://twitter.com/misshelenasue) |
 | Henny Swan | [@iheni](https://twitter.com/iheni) |
@@ -67,6 +75,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 | Laura Carlson | [@laura_carlson](https://twitter.com/laura_carlson) |
 | Laura Kalbag | [@laurakalbag](https://twitter.com/laurakalbag) |
 | Léonie Watson | [@LeonieWatson](http://twitter.com/LeonieWatson) |
+| Luis Garcia | [@garcialo](https://twitter.com/garcialo) |
 | Lucy Greco | [@accessaces](https://twitter.com/accessaces) |
 | Luke McGrath | [@lukejmcgrath](https://twitter.com/lukejmcgrath) |
 | Manjula Dube | [@manjula_dube](https://twitter.com/mmatuzomanjula_dube) |
@@ -87,6 +96,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 | Paul Adam | [@pauljadam](https://twitter.com/pauljadam) |
 | Reinaldo Ferraz | [@reinaldoferraz](https://twitter.com/reinaldoferraz) |
 | Rachel Carden | [@bamadesigner](https://twitter.com/bamadesigner) |
+| Rachel R. Vasquez | [@RachelRVasquez](https://twitter.com/RachelRVasquez) |
 | Rian Rietveld | [@RianRietveld](https://twitter.com/RianRietveld) |
 | Rob Dodson | [@rob_dodson](https://twitter.com/rob_dodson) |
 | Russ Weakley | [@russmaxdesign](https://twitter.com/russmaxdesign) |
@@ -98,6 +108,9 @@ This is a list, in no particular order, of people to follow that contribute grea
 | Shawn Lawton Henry | [@shawn_slh](https://twitter.com/shawn_slh) |
 | Sina Bahram | [@SinaBahram](https://twitter.com/SinaBahram) |
 | Sommer Panage | [@Sommer](https://twitter.com/Sommer) |
+| Stefan Judis | [@stefanjudis](https://twitter.com/stefanjudis) |
+| Steph Slattery [@sublimemarch](https://twitter.com/sublimemarch) |
 | Steve Faulkner | [@stevefaulkner](https://twitter.com/stevefaulkner) |
+| Suz Hinton | [@noopkat](https://twitter.com/noopkat) |
 | Svetlana Kouznetsova | [@svknyc](https://twitter.com/svknyc) |
 | Ted Drake | [@ted_drake](https://twitter.com/ted_drake) |

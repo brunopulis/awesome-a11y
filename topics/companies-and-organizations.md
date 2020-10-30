@@ -20,11 +20,13 @@
 | [Knowbility](https://knowbility.org/) | [@knowbility](https://twitter.com/knowbility) | Auditing, consulting, and training |
 | [Level Access](https://www.levelaccess.com/) | [@LevelAccessA11y](https://twitter.com/LevelAccessA11y) | Auditing, consulting, training, and developemnt |
 | [Microsoft Accessibility](https://www.microsoft.com/en-us/accessibility/) | [@MSFTEnable](https://twitter.com/MSFTEnable) | R&D and accessibility help desk for Microsoft products |
+| [NV Access](https://www.nvaccess.org/) | [@NVAccess](https://twitter.com/NVAccess) | NVDA screen reader, training |
 | [Open Inclusion](https://openinclusion.com/) | [@openforaccess](https://twitter.com/openforaccess) | Market research |
 | [Oswald Labs](https://oswaldlabs.com/) | [@OswaldLabs](https://twitter.com/oswaldlabs) | Product development and accelerator |
 | [Simply Accessible](http://simplyaccessible.com/) | [@SAteaches](https://twitter.com/sateaches) | Auditing, consulting, development, training, and user research |
 | [The Paciello Group](https://www.paciellogroup.com/) | [@paciellogroup](https://twitter.com/paciellogroup) | Auditing, consulting, training, and products |
 | Twitter Accessibility | [@TwitterA11y](https://twitter.com/TwitterA11y) | Feed of accessibility-related updates from Twitter dev team |
+| [UsableNet](https://usablenet.com/) | [@Usablenet](https://twitter.com/Usablenet) | Auditing, consulting, training, and products |
 | [WAI at W3C](https://www.w3.org/WAI/) | [@w3c_wai](https://twitter.com/w3c_wai) | Initiative that develops guidelines and standards like WCAG and ARIA |
 | [WebAIM](https://webaim.org/) | [@webaim](https://twitter.com/webaim) | Auditing, consulting, and training |
 | [Web Axe](http://www.webaxe.org/) | [@webaxe](https://twitter.com/webaxe) | Blog and podcast on accessibility |
