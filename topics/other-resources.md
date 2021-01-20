@@ -34,7 +34,6 @@
 |[Tota11y](http://khan.github.io/tota11y/) - An accessibility visualization toolkit| EN
 |[Trello accessibility cards generator](https://github.com/luarmr/trello-a11y-cards) - A node.js script to create a Trello card for every point in WCAG2 guidelines.| EN
 |[UK Government's accessibility blog](https://accessibility.blog.gov.uk/)| EN
-|[Visability - Inclusive and diverse accessibility icons](https://www.visability93.com/)| EN
 |[Vox accessibility guidelines](http://accessibility.voxmedia.com/) - Vox accessibility checklist for every team member| EN
 |[van11y](https://van11y.net/) - A collection of accessible scripts| EN
 |[WCAG 2.1 Map poster](http://intopia.digital/pdf/WCAG2_1Map.pdf) - All WCAG criteria| EN
