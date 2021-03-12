@@ -35,16 +35,20 @@
 
 #### Sources
 
-* [Cognitive and Learning Disabilities Accessibility Task Force](https://www.w3.org/WAI/PF/cognitive-a11y-tf/wiki/Main_Page) at the W3C
-* [Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/) from the W3C
-* [Simply Accessible - Articles](http://simplyaccessible.com/articles/)
-* [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/) from the W3C
+| Name | Language |
+|---   |---       |
+| [Cognitive and Learning Disabilities Accessibility Task Force](https://www.w3.org/WAI/PF/cognitive-a11y-tf/wiki/Main_Page) at the W3C | EN |
+| [Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/) from the W3C | EN |
+| [Simply Accessible - Articles](http://simplyaccessible.com/articles/) | EN |
+| [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/) from the W3C | EN |
 
 ### Videos
 
-* [A11ycasts](https://www.youtube.com/watch?v=HtTyRajRuyY) series from Google Chrome Developers team, mainly Rob Dodson
-* [Deque Systems YouTube Channel](https://www.youtube.com/channel/UCvNQ5aJllZ5Oi49jtMKeb0Q)
-* [Design like we give a damn!](https://www.vimeo.com/110965713) by Léonie Watson
-* [Improving Single Page App Accessibility with a11y_kit](https://www.vimeo.com/117614181) by Patrick Fox
-* [Demystifying WAI-ARIA](https://davidmacd.com/blog/wai-aria-accessbility-for-average-web-developers.html)
-* [QA in London - Shifting Accessibility Testing To The Left, With Marie Drake](https://www.youtube.com/watch?v=0URKi9NmL-I)
+| Name | Language |
+|---   |---       |
+| [A11ycasts](https://www.youtube.com/watch?v=HtTyRajRuyY) series from Google Chrome Developers team, mainly Rob Dodson | EN |
+| [Demystifying WAI-ARIA](https://davidmacd.com/blog/wai-aria-accessbility-for-average-web-developers.html) | EN |
+| [Deque Systems YouTube Channel](https://www.youtube.com/channel/UCvNQ5aJllZ5Oi49jtMKeb0Q) | EN |
+| [Design like we give a damn!](https://www.vimeo.com/110965713) by Léonie Watson | EN |
+| [Improving Single Page App Accessibility with a11y_kit](https://www.vimeo.com/117614181) by Patrick Fox | EN |
+| [QA in London - Shifting Accessibility Testing To The Left, With Marie Drake](https://www.youtube.com/watch?v=0URKi9NmL-I) | EN |
