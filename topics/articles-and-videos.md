@@ -47,3 +47,4 @@
 * [Design like we give a damn!](https://www.vimeo.com/110965713) by Léonie Watson
 * [Improving Single Page App Accessibility with a11y_kit](https://www.vimeo.com/117614181) by Patrick Fox
 * [Demystifying WAI-ARIA](https://davidmacd.com/blog/wai-aria-accessbility-for-average-web-developers.html)
+* [QA in London - Shifting Accessibility Testing To The Left, With Marie Drake](https://www.youtube.com/watch?v=0URKi9NmL-I)
