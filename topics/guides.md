@@ -5,6 +5,7 @@
 | [A11y Enginner](https://a11yengineer.com/) | EN |
 | [Accessibility Cheatsheet](https://moritzgiessmann.de/accessibility-cheatsheet/) | EN |
 | [Accessibility Guidelines](http://accessibility.voxmedia.com/) | EN |
+| [Accessibility Guideline used at BBC](https://github.com/bbc/bbc-a11y/blob/master/guides/coverage.md) | EN | 
 | [Acessibilidade for Devs](https://github.com/acessibilidade-for-devs/acessibilidade-for-devs.github.io) | PT-BR |
 | [Acessibility for Robots](https://bocoup.com/blog/accessibility-for-robots) | EN |
 | [Acessibilidade Toolkit](https://github.com/acessibilidade/toolkit) | PT-BR |
@@ -22,4 +23,4 @@
 | [Web Accessibility Tutorials](http://www.w3.org/WAI/tutorials/) | EN |
 | [USA Government's accessibility guide](https://accessibility.18f.gov/) | EN |
 | [WebAIM WCAG 2.1 Checklist](https://webaim.org/standards/wcag/checklist) | EN |
-| [Acessibility Guideline used at BBC](https://github.com/bbc/bbc-a11y/blob/master/guides/coverage.md) | EN | 
+
