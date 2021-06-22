@@ -19,6 +19,7 @@
 | [Designing with Web Standards](https://www.amazon.com/Designing-Web-Standards-Jeffrey-Zeldman/dp/0321616952) | Jeffrey Zeldman |
 | [Disability visibility](https://www.penguinrandomhouse.com/books/617802/disability-visibility-by-alice-wong/)|Alice Wong|
 | [Form Design Patterns](https://www.smashingmagazine.com/printed-books/form-design-patterns/) | Adam Silver |
+| [Gaia: Um Guia de Recomendações Sobre Design Digital Inclusivo para Pessoas com Autismo (Portuguese Edition)](https://www.amazon.com/-/pt/dp/B08BPGVS87)| [Talita Pagani](http://talitapagani.com/) |
 | [How to Meet the Web Content Accessibility Guidelines 2.0](https://www.wuhcag.com/wcag/) | Luke McGrath |
 | [Inclusive Components](https://shop.smashingmagazine.com/products/inclusive-components) | Heydon Pickering |
 | [Inclusive Design Patterns](https://shop.smashingmagazine.com/products/inclusive-design-patterns) | Heydon Pickering |
