@@ -25,7 +25,6 @@
 * [Serviços para adicionar legendas em vídeos](http://reinaldoferraz.com.br/servicos-para-adicionar-legendas-em-videos/) by Reinaldo Ferraz
 * [Testes automatizados de acessibilidade com Axe e Puppeteer](https://medium.com/@oieduardorabelo/testes-automatizados-de-acessibilidade-6a164e77e11e) [pt-br] by Eduardo Rabelo
 * [The Accessibility Cheatsheet](http://bitsofco.de/the-accessibility-cheatsheet/) by Ire Aderinokun
-* [The web accessibility basics](https://www.marcozehe.de/articles/2015-12-14-the-web-accessibility-basics/) by Marco Zehe
 * [The state of accessible web UI frameworks](https://darekkay.com/blog/accessible-ui-frameworks/) by Darek Kay
 * [Variable Fonts and Dyslexia](http://adrianroselli.com/2018/08/variable-fonts-and-dyslexia.html) by Adrian Roselli
 * [Web accessibility audits powered by the Chrome logo Chrome Accessibility Developer Tools](https://addyosmani.com/a11y/)
