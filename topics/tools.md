@@ -10,6 +10,7 @@
 |Bookmarklet | [Focus Order Favlet](https://labs.levelaccess.com/index.php/Focus_Order_Favlet) | Level Access | Free |
 |Bookmarklet | [HTML CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/) | Squizz |Free |
 |Bookmarklet | [Inacessible Twitter](https://defaced.dev/tools/inaccessible-twitter/) | Chris Johnson |Free |
+|Bookmarklet | [Javascript Bookmarklets for Accessibility](https://pauljadam.com/bookmarklets/index.html)| Paul Jadam | Free |
 |Bookmarklet | [Nu Markup Validation Service Bookmarklets](https://developer.paciellogroup.com/blog/2012/06/nu-markup-validation-service-bookmarklets/) | The Paciello Group |Free |
 |Bookmarklet | [The Visual ARIA Bookmarklet](http://whatsock.com/training/matrices/visual-aria.htm) | WhatSock |Free |
 |Bookmarklet | [tota11y](http://khan.github.io/tota11y/) | Khan Academy |Free |
