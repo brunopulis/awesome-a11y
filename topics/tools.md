@@ -4,11 +4,11 @@
 
 | Type | Name | Created By | Cost |
 |---   |---   |--- |--- |
-|Bookmarklet |[44x44 Pixel Cursor Bookmarklet](https://codepen.io/jared_w_smith/full/vYGXeMy) | Jared Smith | Free |
-|Bookmarklet |[Ajbar](https://howlowck.github.io/Akbar/) | Hao Luo | Free |
+|Bookmarklet | [44x44 Pixel Cursor Bookmarklet](https://codepen.io/jared_w_smith/full/vYGXeMy) | Jared Smith | Free |
+|Bookmarklet | [Accessibility Checker](https://Accessi.org) | Accessi.org | Free |
+|Bookmarklet | [Ajbar](https://howlowck.github.io/Akbar/) | Hao Luo | Free |
 |Bookmarklet | [ANDI](https://www.ssa.gov/accessibility/andi/help/howtouse.html) | [The United States Social Security Administration](https://www.ssa.gov/accessibility/andi/help/howtouse.html) | Free |
 |Bookmarklet | [Focus Order Favlet](https://labs.levelaccess.com/index.php/Focus_Order_Favlet) | Level Access | Free |
-|Bookmarklet | [Website Accessibility Checker](https://Accessi.org) | Accessi.org | Free |
 |Bookmarklet | [HTML CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/) | Squizz |Free |
 |Bookmarklet | [Inacessible Twitter](https://defaced.dev/tools/inaccessible-twitter/) | Chris Johnson |Free |
 |Bookmarklet | [Nu Markup Validation Service Bookmarklets](https://developer.paciellogroup.com/blog/2012/06/nu-markup-validation-service-bookmarklets/) | The Paciello Group |Free |
