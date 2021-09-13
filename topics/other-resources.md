@@ -12,7 +12,6 @@
 |[Accessibility for Teams](https://accessibility.digital.gov/) - A quick-start guide for embedding accessibility and inclusive design practices into your team’s workflow| EN
 |[Alix](https://github.com/ireade/alix) - a browser extension for a11y.css| EN
 |[Atalan - Digital Accessibility: How can we help](https://atalan.fr/agissons/en/index.html) - a website to to raise awareness of accessibility| EN
-|[awesome-japanese-a11y-companies](https://github.com/yamanoku/awesome-japanese-a11y-companies) - An awesome-list of Japanese technology companies that are working on or promoting accessibility. | JA
 |[Co-op design manual](https://coop-design-manual.herokuapp.com/accessibility.html) - a good overview of how to make a site accessible, including content writing guidelines and technical examples.|EN
 |[Colorable](https://colorable.jxnblk.com/)| EN
 |[Color Safe](http://colorsafe.co/)| EN
