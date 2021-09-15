@@ -15,6 +15,7 @@
 | [Deque Systems](http://www.deque.com/) | [@dequesystems](https://twitter.com/dequesystems) | Auditing, consulting, and training |
 | [Google Accessibility](https://www.google.com/accessibility/) | [@googleaccess](https://twitter.com/googleaccess) |
 | [Hand Talk](https://www.handtalk.me/) | _None_ | Transcription |
+| [IAAP](https://www.accessibilityassociation.org/) | [@IAAPOrg](https://twitter.com/IAAPOrg) | Accessibility professionals from around the world come together to define, promote and improve the accessibility profession through networking, education and certification. |
 | [IBMAccess](https://www.ibm.com/able/) | [@IBMAccess](https://twitter.com/IBMAccess) | Internal support at IBM, product R&D |
 | [Intopia](https://intopia.digital/) | [@Intopia](https://twitter.com/Intopia) | Auditing, consulting, training, and development |
 | [Knowbility](https://knowbility.org/) | [@knowbility](https://twitter.com/knowbility) | Auditing, consulting, and training |
