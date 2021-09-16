@@ -11,6 +11,7 @@
 | [Acesso para Todos](https://www.acessoparatodos.com.br/) | _None_ | Development |
 | [AudioEye](https://www.audioeye.com/) | [@audioeyeinc](https://twitter.com/audioeyeinc) | |
 | [Audima](https://audima.co/) | _None_ | Audio descriptions |
+|[Awesome japanese a11y companies](https://github.com/yamanoku/awesome-japanese-a11y-companies) | _None_ | An awesome-list of Japanese technology companies that are working on or promoting accessibility. |
 | [Axess Lab](https://axesslab.com/) | [@AxessLab](https://twitter.com/AxessLab) | Auditing, consulting, and training |
 | [Deque Systems](http://www.deque.com/) | [@dequesystems](https://twitter.com/dequesystems) | Auditing, consulting, and training |
 | [Google Accessibility](https://www.google.com/accessibility/) | [@googleaccess](https://twitter.com/googleaccess) |
