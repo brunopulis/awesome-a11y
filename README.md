@@ -1,4 +1,4 @@
-# Awesome Accessibility [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+.;.;/# Awesome Accessibility [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 *Para uma versão em português deste arquivo, veja [README.pt-BR](README-pt-br.md).*
 
@@ -13,11 +13,12 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
 
 **Table of Contents**
 
-- [Accessibility Weekly](topics/newsletter.md)
+- [Accessibility Weekly](topics/newsletter.md)  
 - [Articles and Videos](topics/articles-and-videos.md)
 - [Assistive Technology](topics/assistive-technology.md)
 - [Blogs](topics/blogs.md)
 - [Books](topics/books.md)
+- [Certificates](topics/certificates.md)
 - [Companies and Organizations](topics/companies-and-organizations.md)
 - [Conferences](topics/conferences.md)
 - [Courses](topics/courses.md)
