@@ -1,6 +1,6 @@
 # Awesome Accessibility [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*Para uma versão em português deste arquivo, veja [README.pt-BR.md](https://github.com/brunopulis/awesome-a11y/blob/master/README.pt-BR.md).*
+*Para uma versão em português deste arquivo, veja [README.pt-BR](README-pt-br.md).*
 
 ![The #a11y hashtag with the ones replaced by a fist giving the rock and roll sign.](https://user-images.githubusercontent.com/1204692/30697506-9fd3020c-9eb5-11e7-95ca-a6c56785dd66.png)
 
