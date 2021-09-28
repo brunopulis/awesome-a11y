@@ -1,4 +1,4 @@
-.;.;/# Awesome Accessibility [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Accessibility [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 *Para uma versão em português deste arquivo, veja [README.pt-BR](README-pt-br.md).*
 
