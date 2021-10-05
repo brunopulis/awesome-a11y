@@ -4,7 +4,7 @@
 | Name | Language |
 | --- | --- |
 |[24 Accessibility](https://www.24a11y.com) - A series of articles on all subjects related to digital accessibility| EN
-|[A11y Color Tokens](https://github.com/5t3ph/a11y-color-tokens)| EN
+|[A11y Color Tokens](https://github.com/5t3ph/a11y-color-tokens) - Generate accessible complementary text or UI colors as Sass variables and/or CSS custom properties from your base color tokens | EN
 |[A11Y Style Guide](https://github.com/cehfisher/a11y-style-guide)| EN
 |[A11y Wins](http://a11ywins.tumblr.com/) - Examples when accessibility wins| EN
 |[A11yProject](https://github.com/a11yproject/a11yproject.com)| EN
