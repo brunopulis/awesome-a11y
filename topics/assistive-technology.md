@@ -1,5 +1,7 @@
 ## Assistive Technologies
 
+- [Awesome Assistive Technology](https://github.com/openassistive/awesome-assistivetech)
+
 ### Screen Readers
 | Name | Cost | Type | Operating system(s) |
 |---   |---   |---   |---                  |
