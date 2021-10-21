@@ -11,6 +11,7 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
 
 **Sumário**
 
+- [Comece aqui](topics/getting-started.md)
 - [Newsletters](topics/newsletter.md)
 - [Artigos e vídeos](topics/articles-and-videos.md)
 - [Blogs](topics/blogs.md)
