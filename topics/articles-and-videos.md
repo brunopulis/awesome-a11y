@@ -16,6 +16,7 @@
 | [CAPTCHA - Inaccessible to Everyone](http://www.sitepoint.com/captcha-inaccessible-to-everyone/) |  Gian Wild
 | [Creating Accessible HTML: A Crash Course in ARIA Landmark Regions](https://c2experience.com/blog/2018/03/creating-accessible-html-a-crash-course-in-aria-landmark-regions/) |  Genevieve Nelson
 | [Designing an accessible color palette with magic numbers](https://darekkay.com/blog/accessible-color-palette/) |  Darek Kay
+| [Designing for accessibility is not that hard](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94) | Pablo Stanley
 | [Gap Analysis/ADHD](https://www.w3.org/WAI/PF/cognitive-a11y-tf/wiki/Gap_Analysis/ADHD) | from the W3C
 | [Implementing an accessible focus indicator](https://darekkay.com/blog/accessible-focus-indicator/) |  Darek Kay
 | [Introduction to Web Accessibility](http://webaim.org/intro/) |  WebAIM
