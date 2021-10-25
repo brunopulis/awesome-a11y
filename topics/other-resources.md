@@ -36,7 +36,6 @@
 |[UK Government's accessibility blog](https://accessibility.blog.gov.uk/)| EN
 |[Vox accessibility guidelines](http://accessibility.voxmedia.com/) - Vox accessibility checklist for every team member| EN
 |[van11y](https://van11y.net/) - A collection of accessible scripts| EN
-|[WCAG 2.1 Map poster](http://intopia.digital/pdf/WCAG2_1Map.pdf) - All WCAG criteria| EN
+|[WCAG 2.1 Map poster](https://intopia.digital/articles/intopia-launches-wcag-2-1-map/) - All WCAG criteria| EN
 |[Web Accessibility Handbook](https://www.ogcio.gov.hk/en/our_work/community/web_mobileapp_accessibility/promulgating_resources/handbook/)| EN
 |[Who can use - ](https://github.com/CoreyGinnivan/whocanuse)| EN
-
