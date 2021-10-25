@@ -10,11 +10,11 @@
 |[Carie Fisher](https://cariefisher.com/write)| EN
 |[Derek Featherstone](https://feather.ca/)| EN
 |[Eric Bailey](https://ericwbailey.design/writing/) | EN
-|[Eric Eggert](https://yatil.net/posts/)| EN
+|[Eric Eggert](https://yatil.net/blog)| EN
 |[Hidde](https://hiddedevries.nl/en/blog/) | EN
 |[Karl Groves](https://karlgroves.com/category/accessibility) | EN
 |[Léonie Watson Blog](http://tink.uk/) | EN
-|[Lívia Gabos](https://liviagabos.com/artigos/) | PT-BR 
+|[Lívia Gabos](https://liviagabos.com/artigos/) | PT-BR
 |[Marcelo Sales](https://medium.com/@msales)| PT-BR
 |[Marco Zehe](https://www.marcozehe.de/) | EN
 |[Marcy Sutton](https://marcysutton.com/writing/) | EN
@@ -22,4 +22,3 @@
 |[Reinaldo Ferraz](https://reinaldoferraz.com.br/)| PT-BR
 |[Steve Faulkner](https://stevefaulkner.github.io/Articles/index.html) | EN
 |[Zoë Bijl](https://moiety.me/thinks/)| EN
-
