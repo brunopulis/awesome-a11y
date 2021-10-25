@@ -56,9 +56,8 @@
 |Bookmarklet | [The Visual ARIA Bookmarklet](http://whatsock.com/training/matrices/visual-aria.htm) | WhatSock |Free |
 |Bookmarklet | [tota11y](http://khan.github.io/tota11y/) | Khan Academy |Free |
 
-
-
 ### Colors and contrast
+
 | Tool | Description
 | --- | --- |
 |[a11y-contrast](https://github.com/darekkay/a11y-contrast)| A CLI utility to calculate/verify accessible magic numbers for a color palette
@@ -71,6 +70,7 @@
 |[Tanaguru Contrast Finder](http://contrast-finder.tanaguru.com/?lang=en)|Contrast finder that suggests a valid color range
 
 ### Validators
+
 | Validator | Description
 | --- | --- |
 |[508 Checker](http://www.508checker.com/)|Check a11y with 508 rules|
@@ -82,7 +82,8 @@
 |[tota11y - Accessibility Visualization Toolkit](http://khan.github.io/tota11y/)| Simple validator using bookmarklet or Javascript plugin
 |[WAVE](http://wave.webaim.org/)|Validator online|
 
-#### Plugins for frameworks and CMS
+### Plugins for frameworks and CMS
+
 | Validator | Description
 | --- | --- |
 |[Ember A11y Testing](https://github.com/ember-a11y/ember-a11y-testing)| A suite of accessibility tests that can be run within the Ember testing framework
