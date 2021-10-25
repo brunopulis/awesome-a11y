@@ -13,16 +13,14 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
 
 **Table of Contents**
 
-- [Accessibility Weekly](topics/newsletter.md)  
+- [Accessibility Weekly](topics/newsletter.md)
 - [Articles and Videos](topics/articles-and-videos.md)
-- [Assistive Technology](topics/assistive-technology.md)
 - [Blogs](topics/blogs.md)
 - [Books](topics/books.md)
 - [Certificates](topics/certificates.md)
 - [Companies and Organizations](topics/companies-and-organizations.md)
 - [Conferences](topics/conferences.md)
 - [Courses](topics/courses.md)
-- [Development Testing and Validators](topics/validators.md)
 - [Guides](topics/guides.md)
 - [Jobs](topics/jobs.md)
 - [Laws](topics/laws.md)
