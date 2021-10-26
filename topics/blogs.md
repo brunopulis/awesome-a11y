@@ -20,6 +20,6 @@
 |[Marcy Sutton](https://marcysutton.com/writing/) | EN
 |[Nicolas Steenhout](https://incl.ca/archives/) | EN
 |[Reinaldo Ferraz](https://reinaldoferraz.com.br/)| PT-BR
+|[Sara Soueidan](https://www.sarasoueidan.com/blog/) | EN
 |[Steve Faulkner](https://stevefaulkner.github.io/Articles/index.html) | EN
-|[Sara Soueidan](https://www.sarasoueidan.com/) | EN
 |[Zoë Bijl](https://moiety.me/thinks/)| EN
