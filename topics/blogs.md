@@ -21,4 +21,5 @@
 |[Nicolas Steenhout](https://incl.ca/archives/) | EN
 |[Reinaldo Ferraz](https://reinaldoferraz.com.br/)| PT-BR
 |[Steve Faulkner](https://stevefaulkner.github.io/Articles/index.html) | EN
+|[Sara Soueidan](https://www.sarasoueidan.com/) | EN
 |[Zoë Bijl](https://moiety.me/thinks/)| EN
