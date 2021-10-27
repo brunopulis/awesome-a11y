@@ -4,6 +4,7 @@
 
 | Name | Language |
 | --- | --- |
+|[Adam Silver](https://adamsilver.io/blog/) | EN
 |[Adrian Roselli](https://adrianroselli.com/) | EN
 |[Alastair Campbell](https://alastairc.uk/blog/)| EN
 |[Bruno Pulis](https://brunopulis.com/)| PT-BR
