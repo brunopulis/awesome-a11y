@@ -12,6 +12,7 @@
 |[Derek Featherstone](https://feather.ca/)| EN
 |[Eric Bailey](https://ericwbailey.design/writing/) | EN
 |[Eric Eggert](https://yatil.net/blog)| EN
+|[Federeico Monaco](https://www.federicomonaco.it/) | EN
 |[Hidde](https://hiddedevries.nl/en/blog/) | EN
 |[Karl Groves](https://karlgroves.com/category/accessibility) | EN
 |[Léonie Watson Blog](http://tink.uk/) | EN
