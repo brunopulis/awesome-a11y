@@ -17,11 +17,14 @@
 |[Karl Groves](https://karlgroves.com/category/accessibility) | EN
 |[Léonie Watson Blog](http://tink.uk/) | EN
 |[Lívia Gabos](https://liviagabos.com/artigos/) | PT-BR
+|[Luis Garcia](https://www.garcialo.com/) | EN
 |[Marcelo Sales](https://medium.com/@msales)| PT-BR
 |[Marco Zehe](https://www.marcozehe.de/) | EN
 |[Marcy Sutton](https://marcysutton.com/writing/) | EN
 |[Nicolas Steenhout](https://incl.ca/archives/) | EN
 |[Reinaldo Ferraz](https://reinaldoferraz.com.br/)| PT-BR
 |[Sara Soueidan](https://www.sarasoueidan.com/blog/) | EN
+|[Scott O'Hara](https://www.scottohara.me/) | EN
+|[Scott Vinkle](https://scottvinkle.me/) | EN
 |[Steve Faulkner](https://stevefaulkner.github.io/Articles/index.html) | EN
 |[Zoë Bijl](https://moiety.me/thinks/)| EN
