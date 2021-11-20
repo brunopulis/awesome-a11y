@@ -14,6 +14,7 @@
 | [Awesome A11y Vue](https://github.com/vue-a11y/awesome-a11y-vue) | EN |
 | [Easy Checks - A First Review of Web Accessibility](http://www.w3.org/WAI/eval/preliminary.html) | EN |
 | [eMAG - Modelo de Acessibilidade em Governo Eletrônico](http://emag.governoeletronico.gov.br/) | PT-BR |
+| [Horcel -  Guia de Recomendações de Design Inclusivo para pessoas com TDAH, dislexia, discalculia e disortografia](https://horcel.wiki.br/)|PT-BR|
 | [How To Meet WCAG Quick Reference](https://www.w3.org/WAI/WCAG21/quickref/) | EN |
 | [Introduction to Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891) | EN |
 | [Tuts+ Web Accessibility learning guide for Wordpress](http://code.tutsplus.com/series/accessibility--cms-799) | EN |
