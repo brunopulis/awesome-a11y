@@ -109,7 +109,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 | Sina Bahram | [@SinaBahram](https://twitter.com/SinaBahram) |
 | Sommer Panage | [@Sommer](https://twitter.com/Sommer) |
 | Stefan Judis | [@stefanjudis](https://twitter.com/stefanjudis) |
-| Steph Slattery [@sublimemarch](https://twitter.com/sublimemarch) |
+| Steph Slattery | [@sublimemarch](https://twitter.com/sublimemarch) |
 | Steve Faulkner | [@stevefaulkner](https://twitter.com/stevefaulkner) |
 | Suz Hinton | [@noopkat](https://twitter.com/noopkat) |
 | Svetlana Kouznetsova | [@svknyc](https://twitter.com/svknyc) |
