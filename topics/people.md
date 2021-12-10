@@ -80,6 +80,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 | Luke McGrath | [@lukejmcgrath](https://twitter.com/lukejmcgrath) |
 | Manjula Dube | [@manjula_dube](https://twitter.com/mmatuzomanjula_dube) |
 | Manuel Matuzović | [@mmatuzo](https://twitter.com/mmatuzo) |
+| Marcelo Sales | [@msales](https://twitter.com/msales) |
 | Marco Zehe | [@MarcoZehe](https://twitter.com/MarcoZehe) |
 | Marcy Sutton | [@marcysutton](http://twitter.com/marcysutton) |
 | Melanie Sumner | [@melaniersumner](https://twitter.com/melaniersumner) |
