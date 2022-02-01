@@ -47,6 +47,7 @@
 | Type | Name | Created By | Cost |
 |---   |---   |--- |--- |
 |Bookmarklet | [44x44 Pixel Cursor Bookmarklet](https://codepen.io/jared_w_smith/full/vYGXeMy) | Jared Smith | Free |
+|Bookmarklet | [A11y Tools](https://a11y-tools.com/bookmarklets) | A11y Tools | Free |
 |Bookmarklet | [Accessibility Checker](https://Accessi.org) | Accessi.org | Free |
 |Bookmarklet | [Ajbar](https://howlowck.github.io/Akbar/) | Hao Luo | Free |
 |Bookmarklet | [ANDI](https://www.ssa.gov/accessibility/andi/help/howtouse.html) | [The United States Social Security Administration](https://www.ssa.gov/accessibility/andi/help/howtouse.html) | Free |
