@@ -21,7 +21,6 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
 - [Empresas e organizações](topics/companies-and-organizations.md)
 - [Especificação W3C](topics/specification.md)
 - [Ferramentas](topics/tools.md)
-- [Ferramentas e validadores](topics/validators.md)
 - [Legislações](topics/laws.md)
 - [Livros](topics/books.md)
 - [Meetups](topics/meetups.md)
@@ -29,5 +28,4 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
 - [Oportunidades](topics/jobs.md)
 - [Palestras](topics/talks.md)
 - [Pessoas para seguir](topics/people.md)
-- [Tecnologia assistiva](topics/assistive-technology.md)
 
