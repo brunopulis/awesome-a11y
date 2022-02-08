@@ -11,6 +11,7 @@
 |[AIIY.js](http://allyjs.io/)| EN
 |[Accessibility section - jQuery Plugins using ARIA](http://a11y.nicolas-hoffmann.net/) - Plugins and demos| EN
 |[Accessibility for Teams](https://accessibility.digital.gov/) - A quick-start guide for embedding accessibility and inclusive design practices into your team’s workflow| EN
+|[Accessibility Awareness Lab Resources](https://www.deque.com/empathy-lab-online/)|EN
 |[Alix](https://github.com/ireade/alix) - a browser extension for a11y.css| EN
 |[Atalan - Digital Accessibility: How can we help](https://atalan.fr/agissons/en/index.html) - a website to to raise awareness of accessibility| EN
 |[Colorable](https://colorable.jxnblk.com/)| EN
