@@ -46,13 +46,11 @@
 
 | Type | Name | Created By | Cost |
 |---   |---   |--- |--- |
-|Bookmarklet | [44x44 Pixel Cursor Bookmarklet](https://codepen.io/jared_w_smith/full/vYGXeMy) | Jared Smith | Free |
 |Bookmarklet | [A11y Tools](https://a11y-tools.com/bookmarklets) | A11y Tools | Free |
 |Bookmarklet | [Accessibility Checker](https://Accessi.org) | Accessi.org | Free |
 |Bookmarklet | [Ajbar](https://howlowck.github.io/Akbar/) | Hao Luo | Free |
 |Bookmarklet | [ANDI](https://www.ssa.gov/accessibility/andi/help/howtouse.html) | [The United States Social Security Administration](https://www.ssa.gov/accessibility/andi/help/howtouse.html) | Free |
 |Bookmarklet | [Focus Order Favlet](https://labs.levelaccess.com/index.php/Focus_Order_Favlet) | Level Access | Free |
-|Bookmarklet | [HTML CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/) | Squizz |Free |
 |Bookmarklet | [Inacessible Twitter](https://defaced.dev/tools/inaccessible-twitter/) | Chris Johnson |Free |
 |Bookmarklet | [Javascript Bookmarklets for Accessibility](https://pauljadam.com/bookmarklets/index.html)| Paul Jadam | Free |
 |Bookmarklet | [Nu Markup Validation Service Bookmarklets](https://developer.paciellogroup.com/blog/2012/06/nu-markup-validation-service-bookmarklets/) | The Paciello Group |Free |
@@ -78,7 +76,6 @@
 | --- | --- |
 |[508 Checker](http://www.508checker.com/)|Check a11y with 508 rules|
 |[Access Monitor](http://accessmonitor.acessibilidade.gov.pt/amp/)|Validator|
-|[DaSilva](http://www.dasilva.org.br/)|PT-BR|
 |[Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)|Google Chrome tool for web page audits
 |[Sim Daltonism](https://michelf.ca/projects/sim-daltonism/)|A color blindness simulator for Mac and iOS
 |[Tenon.io](https://tenon.io/)|EN|
