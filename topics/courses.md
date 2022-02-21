@@ -4,7 +4,6 @@
 |---    |---   |---       |---    |
 | Basic | [A Beginner's Guide to Web Accessibility](https://webdesign.tutsplus.com/courses/a-beginners-guide-to-web-accessibility) | EN | $19/month |
 | Basic | [Accessibility Courses](https://github.com/mgifford/a11y-courses) | EN | Free |
-| Basic | [Aprende Accesibilidad Web paso a paso](https://www.udemy.com/course/aprende-accesibilidad-web-paso-a-paso/) | Spanish | Free |
 | Basic | [Curso eMAG para Desenvolvedor](http://emag.governoeletronico.gov.br/cursodesenvolvedor/) | PT-BR | Free |
 | Basic | [Curso eMAG para Conteudista](http://emag.governoeletronico.gov.br/cursoconteudista/) | PT-BR | Free |
 | Intermediary | [Desenvolvimento Frontend](https://cursos.timtec.com.br/course/desenvolvimento-de-front-end/intro) | PT-BR | Free |
