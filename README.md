@@ -1,4 +1,8 @@
-# Awesome Accessibility [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Accessibility 
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+<a href="https://www.producthunt.com/posts/awesome-accessibility?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome&#0045;accessibility" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=339140&theme=light" alt="Awesome&#0032;Accessibility&#0032; - A&#0032;curate&#0032;list&#0032;about&#0032;A11Y | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 *Para uma versão em português deste arquivo, veja [README.pt-BR](README-pt-br.md).*
 
