@@ -10,3 +10,7 @@
 - Check your spelling and grammar.
 - Make sure your text editor is set to `remove trailing whitespace`.
 - Send a Pull Request.
+
+## Thanks to contribute
+
+![GitHub Contributors](https://contrib.rocks/image?repo=brunopulis/awesome-a11y)
