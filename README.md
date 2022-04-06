@@ -4,6 +4,7 @@
 ![License](https://img.shields.io/badge/license-CC0%201.0-green)
 ![Github Contributors](https://img.shields.io/github/contributors/brunopulis/awesome-a11y)
 ![Github Forks](https://img.shields.io/github/forks/brunopulis/awesome-a11y?style=flat-square)
+![Liberapay](https://img.shields.io/liberapay/patrons/brunopulis.svg)
 
 
 <a href="https://www.producthunt.com/posts/awesome-accessibility?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome&#0045;accessibility" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=339140&theme=light" alt="Awesome&#0032;Accessibility&#0032; - A&#0032;curate&#0032;list&#0032;about&#0032;A11Y | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
