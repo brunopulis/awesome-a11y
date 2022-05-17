@@ -69,6 +69,7 @@
 |[Color Oracle](http://colororacle.org/)| App (Mac/Win/Linux) for check colours
 |[Contrast Ratio](https://leaverou.github.io/contrast-ratio/)|Live demonstration of the readability of your background and text color combination
 |[Tanaguru Contrast Finder](http://contrast-finder.tanaguru.com/?lang=en)|Contrast finder that suggests a valid color range
+|[Who Can use](https://whocanuse.com/)||
 
 ### Validators
 
@@ -80,7 +81,7 @@
 |[Sim Daltonism](https://michelf.ca/projects/sim-daltonism/)|A color blindness simulator for Mac and iOS
 |[Tenon.io](https://tenon.io/)|EN|
 |[tota11y - Accessibility Visualization Toolkit](http://khan.github.io/tota11y/)| Simple validator using bookmarklet or Javascript plugin
-|[WAVE](http://wave.webaim.org/)|Validator online|
+|[WAVE](http://wave.webaim.org/)|Validator online| A tool that brings attention and understanding to how color contrast can affect different people with visual impairments.
 
 ### Plugins for frameworks and CMS
 
