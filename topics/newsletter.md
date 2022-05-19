@@ -2,7 +2,7 @@
 
 - [Accessibility Weekly](http://a11yweekly.com/)
 - [Axess Lab Newsletter](https://axesslab.com/newsletter/)
-- [Newsletter do Pulis]https://buttondown.email/brunopulis) 
+- [Bruno Pulis Newsletter](https://buttondown.email/brunopulis) 
 - [Deque News](https://www.deque.com/get-accessibility-help/deque-news/)
 - [Microassist](https://www.microassist.com/about/newsletter-subscriptions/)
 - [University of Minnesota Duluth Webdev Newsletter](https://www.d.umn.edu/itss/training/online/webdesign/webdev_listserv.html)
