@@ -4,9 +4,7 @@
 ![License](https://img.shields.io/badge/license-CC0%201.0-green)
 ![Github Contributors](https://img.shields.io/github/contributors/brunopulis/awesome-a11y)
 ![Github Forks](https://img.shields.io/github/forks/brunopulis/awesome-a11y?style=flat-square)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U4IDQTS)
 ![Liberapay](https://img.shields.io/liberapay/patrons/brunopulis.svg)
-
 
 <a href="https://www.producthunt.com/posts/awesome-accessibility?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome&#0045;accessibility" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=339140&theme=light" alt="Awesome&#0032;Accessibility&#0032; - A&#0032;curate&#0032;list&#0032;about&#0032;A11Y | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
@@ -41,3 +39,7 @@ _Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 - [Talks](topics/talks.md)
 - [Tools](topics/tools.md)
 - [W3C Specification](topics/specification.md)
+
+## Support me
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U4IDQTS)
