@@ -4,6 +4,7 @@
 ![License](https://img.shields.io/badge/license-CC0%201.0-green)
 ![Github Contributors](https://img.shields.io/github/contributors/brunopulis/awesome-a11y)
 ![Github Forks](https://img.shields.io/github/forks/brunopulis/awesome-a11y?style=flat-square)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U4IDQTS)
 ![Liberapay](https://img.shields.io/liberapay/patrons/brunopulis.svg)
 
 
