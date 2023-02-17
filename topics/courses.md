@@ -4,7 +4,8 @@
 
 * [A Beginner's Guide to Web Accessibility](https://webdesign.tutsplus.com/courses/a-beginners-guide-to-web-accessibility)
 * [Accessibility Courses](https://github.com/accessibility/a11y-courses)                                                
-* [Develop Accessible Web Apps with React](https://egghead.io/courses/develop-accessible-web-apps-with-react)                     
+* [Develop Accessible Web Apps with React](https://egghead.io/courses/develop-accessible-web-apps-with-react)
+* [Deque University](https://dequeuniversity.com/)                     
 * [Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)                                  
 * [Start Building Accessible Web Applications Today](https://egghead.io/courses/start-building-accessible-web-applications-today)
 * [Teach Access Portal](https://teachaccess.github.io/tutorial/)                                                                  
