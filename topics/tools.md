@@ -3,7 +3,7 @@
 | Tool | Description
 | --- | --- |
 |[A11Y.css](https://github.com/ffoodd/a11y.css)|This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code
-|[A11yWatch](https://github.com/a11ywatch/a11ywatch)| Lightning-fast web accessibility automation.
+|[A11yWatch](https://github.com/a11ywatch/a11ywatch)| The powerful web accessibility tool.
 |[A11y Command-line Tools](https://addyosmani.com/a11y/)| Web accessibility audits powered by the Chrome Accessibility Developer Tools
 |[a11y-checker](https://github.com/Muhnad/a11y-checker)| Warn about HTML Markup code accessibility issue
 |[AcessibilityJS](https://github.com/github/accessibilityjs)|Client side accessibility error scanner
