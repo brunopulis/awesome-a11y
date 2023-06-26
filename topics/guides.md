@@ -20,6 +20,7 @@
 | [Introduction to Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891) | EN |
 | [Orange Mobile Accessibility Guidelines for Android and iOS](https://a11y-guidelines.orange.com/en/mobile/) | EN |
 | [Orange Mobile Accessibility Guidelines for Android and iOS](https://a11y-guidelines.orange.com/fr/mobile/) | FR |
+| [Plain language Web Accessibility Guidelines Summary](https://www.web-accessibility.io/playbook) | EN |
 | [Tuts+ Web Accessibility learning guide for Wordpress](http://code.tutsplus.com/series/accessibility--cms-799) | EN |
 | [Understanding WCAG 2.0](https://www.w3.org/TR/UNDERSTANDING-WCAG20/) | EN |
 | [Web Accesible](http://webaccesible.xyz/) | ED |
