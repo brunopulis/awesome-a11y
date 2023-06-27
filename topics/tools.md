@@ -84,11 +84,11 @@
 
 | Validator | Description
 | --- | --- |
-|[508 Checker](http://www.508checker.com/)|Check a11y with 508 rules|
 |[Access Monitor](http://accessmonitor.acessibilidade.gov.pt/)|Validator|
+|[ExcellentWebCheck](https://excellentwebcheck.com/website-accessibility-checker)|Mobile, Tablet and Desktop Accessibility Checker & Monitor|
 |[Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)|Google Chrome tool for web page audits
 |[Sim Daltonism](https://michelf.ca/projects/sim-daltonism/)|A color blindness simulator for Mac and iOS
-|[Tenon.io](https://tenon.io/)|EN|
+|[levelaccess](https://www.levelaccess.com/solutions/accessibility-audit-and-testing/)|Accessibility Auditing|
 |[tota11y - Accessibility Visualization Toolkit](http://khan.github.io/tota11y/)| Simple validator using bookmarklet or Javascript plugin
 |[WAVE](http://wave.webaim.org/)|Validator online| A tool that brings attention and understanding to how color contrast can affect different people with visual impairments.
 
