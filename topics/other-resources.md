@@ -25,7 +25,6 @@
 |[Ebay's accessibility patterns for the web](https://ebay.gitbooks.io/mindpatterns/content/) - Huge variety of features with working code examples and best practices explained.| EN
 |[Ember A11y](https://github.com/ember-a11y/ember-a11y) - an Ember addon for managing content focus.| EN
 |[Ember A11y Landmarks](https://github.com/ember-a11y/ember-a11y-landmarks) - An Ember Addon that helps with landmark roles in Ember apps.| EN
-|[Inclusive Components](http://inclusive-components.club/) - A blog trying to be a pattern library. Each post explores the design of a robust, accessible interface component| EN
 |[Léonie Watson Blog](http://tink.uk/) - Posts about a11y in general.| EN
 |[Middleman Aria_Current](https://github.com/thoughtbot/middleman-aria_current) - A Middleman extension for indicating a current (active) link using `aria-current`.| EN
 |[Mozilla developer network's accessibility section](https://developer.mozilla.org/en-US/docs/Web/Accessibility) - checklists, tutorials and code examples.| EN
@@ -33,7 +32,6 @@
 |[Open Color](https://yeun.github.io/open-color) - Color scheme for UI design. You can use it for font, background, border, etc. It contains a gray and twelve colors. Open color is provided as CSS, SCSS, LESS, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.| EN
 |[Open Source Accessibility Resources](https://accessibility.civicactions.com/)| EN
 |[Reasonable Colors](https://reasonable.work/colors/) - Open-source color system for building accessible, nice-looking color palettes.| EN
-|[Semantic Web Autocomplete for Atom](https://github.com/obetomuniz/autocomplete-semantic-web) - A plugin that offers suggestions for Schema.org, RDFa and WAI-ARIA.|EN
 |[Stories of Web Users](https://www.w3.org/WAI/people-use-web/user-stories/) - A series of user scenarios that help contextualize accessibility work. |EN
 |[Skip Links](https://github.com/Muhnad/skip-links) - React component that helps you to add skip navigation links.| EN
 |[Trello accessibility cards generator](https://github.com/luarmr/trello-a11y-cards) - A node.js script to create a Trello card for every point in WCAG2 guidelines.| EN
