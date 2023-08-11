@@ -51,6 +51,14 @@
 | [OptiKey](https://github.com/OptiKey/OptiKey/wiki) | Windows |
 | [Windows On-Screen Keyboard](https://support.microsoft.com/en-us/help/10762/windows-use-on-screen-keyboard) | Windows 10, 8.1, and 7 |
 
+#### Voice Control
+
+| Name | Operating System | Cost | FOSS |
+|---|---|---|---|
+| [Numen](https://numenvoice.org) | Linux | Free | Open Source |
+| [Talon](https://talonvoice.com) | Windows, Mac, Linux (X11 only) | Free/Paid | Closed Source |
+| [Voice Attack](https://voiceattack.com) | Windows | Free/Paid | Closed Source |
+
 ### Bookmarklets
 
 | Type | Name | Created By | Cost |
