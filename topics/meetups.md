@@ -24,6 +24,7 @@
 | Accessibility Scotland                 | Scotland            | [@a11yscotland](https://twitter.com/a11yscotland)                          |
 | Bristol Inclusive Design & Development | Bristol, England    | [@BrisInclusive](https://twitter.com/BrisInclusive)                        |
 | Budapest Accessibility Meetup          | Budapest, Hungary   | [@a11ybudapest](https://www.meetup.com/Budapest-Accessibility-Meetup/)     |
+| Champions of Accessibility Network                   | London, England     | [LinkedIn]([https://twitter.com/a11yLondon](https://www.linkedin.com/groups/12499821/))                              |
 | London Accessibility                   | London, England     | [@a11yLondon](https://twitter.com/a11yLondon)                              |
 | Open                                   | Manchester, England | [@openmcr](https://twitter.com/openmcr)                                    |
 | Paris Web Accessibility                | Paris, France       | [Paris Web Accessibility](https://www.meetup.com/Paris-Web-Accessibility/) |
