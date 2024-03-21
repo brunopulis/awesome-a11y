@@ -24,5 +24,7 @@
 | [Understanding WCAG 2.0](https://www.w3.org/TR/UNDERSTANDING-WCAG20/) | EN |
 | [Web Accesible](http://webaccesible.xyz/) | ED |
 | [Web Accessibility Tutorials](http://www.w3.org/WAI/tutorials/) | EN |
+| [UK Home Office's Do's and Don'ts](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts) | MULTIPLE |
+| [UK Government's accessibility guide](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction) | EN |
 | [USA Government's accessibility guide](https://accessibility.18f.gov/) | EN |
 | [WebAIM WCAG 2.1 Checklist](https://webaim.org/standards/wcag/checklist) | EN |
