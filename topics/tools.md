@@ -82,6 +82,7 @@
 |[Accessible Colors](https://accessible-colors.com/)|
 |[Check My Colours](http://www.checkmycolours.com/)|Validator of Color Constrast
 |[Chromelens - Extension Google Chrome](http://chromelens.xyz/)|
+|[Color Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5) |
 |[Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/)| To test the contrast of your text against its background
 |[Color Oracle](http://colororacle.org/)| App (Mac/Win/Linux) for check colours
 |[Tanaguru Contrast Finder](http://contrast-finder.tanaguru.com/?lang=en)|Contrast finder that suggests a valid color range
