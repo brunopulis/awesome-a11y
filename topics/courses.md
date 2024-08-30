@@ -17,9 +17,8 @@
 ## Portuguese
 
 * [AccessBoost](https://www.accessboost.com.br/)
+* [Curso básico de acessibilidade digital](https://www.udemy.com/course/curso-basico-de-acessibilidade-digital/)
 * [Curso eMAG para Desenvolvedor](https://www.escolavirtual.gov.br/curso/42)                                       
 * [Curso eMAG para Conteudista](https://www.escolavirtual.gov.br/curso/41)                                          
-* [Introdução à Audiodescrição](https://www.escolavirtual.gov.br/curso/320)                                                       
-* [Padrões HTML5, CSS3 e Acessibilidade](http://www.w3c.br/Cursos/PadroesWebAcessibilidade)                                                                          
-* [Web Semântica](http://www.w3c.br/Cursos/WebSemantica)                                                                          
+* [Introdução à Audiodescrição](https://www.escolavirtual.gov.br/curso/320)                                                                                                                             
                                                                     
