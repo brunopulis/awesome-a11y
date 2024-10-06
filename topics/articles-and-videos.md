@@ -24,6 +24,7 @@
 | [Links vs. Buttons in Modern Web Applications](https://marcysutton.com/links-vs-buttons-in-modern-web-applications/) |  Marcy Sutton
 | [Making Accessible Links: 15 Golden Rules For Developers](http://www.sitepoint.com/15-rules-making-accessible-links/) |  Gian Wild
 | [Making Open-Source Accessible for All](https://medium.com/@kaelig/making-open-source-accessible-for-all-8131429913b1) |  Kaelig Deloumeau-Prigent
+| [Microsoft Active Accessibility and UI Automation Compared](https://learn.microsoft.com/en-us/windows/win32/winauto/microsoft-active-accessibility-and-ui-automation-compared) | Microsoft
 | [NGX-Skeleton-Loader — States, Animations, Performance, and Accessibility for your Angular App](https://medium.com/@willmendesneto/ngx-skeleton-loader-states-animations-performance-and-accessibility-for-your-angular-app-ad0fd86da7a5) |  Will Mendes
 | [Serviços para adicionar legendas em vídeos](http://reinaldoferraz.com.br/servicos-para-adicionar-legendas-em-videos/) |  Reinaldo Ferraz
 | [Testes automatizados de acessibilidade com Axe e Puppeteer](https://medium.com/@oieduardorabelo/testes-automatizados-de-acessibilidade-6a164e77e11e) |  Eduardo Rabelo
