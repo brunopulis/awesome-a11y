@@ -83,7 +83,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 | Marcelo Sales | [@msales](https://twitter.com/msales) |
 | Marco Zehe | [@MarcoZehe](https://twitter.com/MarcoZehe) |
 | Marcy Sutton | [@marcysutton](http://twitter.com/marcysutton) |
-| Melanie Sumner | [@melaniersumner](https://twitter.com/melaniersumner) |
+| Melanie Sumner | [@a11yMel](https://bsky.app/profile/a11ymel.bsky.social) |
 | Michael Spellacy | [@spellacy](https://twitter.com/spellacy) |
 | Michiel Bijl | [@MichielBijl](https://twitter.com/MichielBijl) |
 | Mike Gifford | [@mgifford](https://twitter.com/mgifford) |
