@@ -28,6 +28,7 @@
 |[Stylelint a11y](https://github.com/YozhikM/stylelint-a11y)|Stylelint a11y|
 |[Virtual Screen Reader](https://github.com/guidepup/virtual-screen-reader)|Virtual screen reader driver for unit test automation.|
 |[Web Accessibility Toolbar (WAT)](https://www.paciellogroup.com/resources/wat/)|The Web Accessibility Toolbar (WAT) has been developed to aid manual examination of web pages for a variety of aspects of accessibility.
+|[AltTextLab](https://www.alttextlab.com/)|AI-powered alt text generator for images.
 
 ### Assistive Technologies
 
