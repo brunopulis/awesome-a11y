@@ -17,6 +17,7 @@
 |[Chrome extension: IBM Equal Access Accessibility Checker](https://chrome.google.com/webstore/detail/ibm-equal-access-accessib/lkcagbfjnkomcinoddgooolagloogehp)| A Chrome extension web developer tool that checks web applications for accessibility issues.
 |[Enabler](https://github.com/musienkoyuriy/enabler)|Node.js CLI tool that warns you about potential accessibility issues. Supports: Pure HTML, Angular, Vue
 |[Firefox add-on: IBM Equal Access Accessibility Checker](https://addons.mozilla.org/en-US/firefox/addon/accessibility-checker/)| A firefox addon web developer tool that checks web applications for accessibility issues.
+|[GetWCAG](https://getwcag.com/)|  Automated test that checks web applications for accessibility issues. From single page to full website in minutes |
 |[Guia WCAG](https://guia-wcag.com/)|  A guide to know better the guidelines of WCAG in PT-BR |
 |[Guidepup](https://github.com/guidepup/guidepup)|Screen reader driver for test automation.|
 |[Headings Map](https://addons.mozilla.org/en-US/firefox/addon/headingsmap/)|The extension generates a document-map or index of any web document structured with headings and/or with sections in HTML 5. It shows the headings structure, the errors in the structure (ie. incorrect levels), and it works as HTML5 Outliner too.
