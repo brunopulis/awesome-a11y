@@ -14,6 +14,7 @@
 |[Awesome japanese a11y companies](https://github.com/yamanoku/awesome-japanese-a11y-companies) | _None_ | An awesome-list of Japanese technology companies that are working on or promoting accessibility. |
 | [Axess Lab](https://axesslab.com/) | [@AxessLab](https://twitter.com/AxessLab) | Auditing, consulting, and training |
 | [Deque Systems](http://www.deque.com/) | [@dequesystems](https://twitter.com/dequesystems) | Auditing, consulting, and training |
+| [GetWCAG](https://www.getwcag.com) | [@getWCAG](https://x.com/GetWcag) | Auditing, consulting, development and blog,
 | [Google Accessibility](https://www.google.com/accessibility/) | [@googleaccess](https://twitter.com/googleaccess) |
 | [Hand Talk](https://www.handtalk.me/) | _None_ | Transcription |
 | [IAAP](https://www.accessibilityassociation.org/) | [@IAAPOrg](https://twitter.com/IAAPOrg) | Accessibility professionals from around the world come together to define, promote and improve the accessibility profession through networking, education and certification. |
