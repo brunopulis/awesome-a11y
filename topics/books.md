@@ -26,6 +26,7 @@
 | [Mismatch: How Inclusion Shapes Design](https://mitpress.mit.edu/books/mismatch)|Kate Holmes|
 | [Practical Web Inclusion & Accessibility](https://learna11y.com/)|Ashley Firth|
 | [Pro HTML5 Accessibility](https://www.amazon.com/Pro-HTML5-Accessibility-Professional-Apress/dp/1430241942) | Joshue O Connor |
+| [The Small Business Accessibility Playbook for WordPress](https://equalizedigital.com/the-small-business-accessibility-playbook-for-wordpress/) | Chris Hinds, Amber Hinds, Nick Adams, Dean Burton |
 | [Tragic Design](http://www.tragicdesign.com/) | Jonathan Shariat, Cynthia Savad Saucier |
 | [What Can a Body Do? How We Meet the Built World](https://www.penguinrandomhouse.com/books/561049/what-can-a-body-do-by-sara-hendren/)|Sara Hendren|
 | [Web and App Accessibility: Your Roadmap to Digital Inclusion](https://info.usablenet.com/web-and-app-accessibility)|Jason C. Taylor|
