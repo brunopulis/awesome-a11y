@@ -9,13 +9,16 @@
 |[AcessibilityJS](https://github.com/github/accessibilityjs)|Client side accessibility error scanner
 |[AccessLint](https://www.accesslint.com/)|A GitHub App that finds accessibility issues in your pull requests
 |[Accessibility Developer Tools](https://github.com/GoogleChrome/accessibility-developer-tools)|This is a library of accessibility-related testing and utility code.
+|[Accessibility New Window Warnings](https://wordpress.org/plugins/accessibility-new-window-warnings/)|A WordPress plugin that automatically adds visual and screen reader warnings for links that open in new tabs or windows. 
 |[Appt](https://appt.org/en) | A guide for making apps accessible
+|[ArchiveWP](https://equalizedigital.com/archivewp/) | A WordPress Plugin for creating an archive of legacy content as required for exceptions by accessibility laws such as the ADA, EAA.
 |[ARIA DevTools](https://chrome.google.com/webstore/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck)|Chrome extension that displays a developer-friendly visual representation of the browser accessibility tree.
 |[aslint.org](https://www.aslint.org/)|Accessibility testing tool
 |[aXe Core](https://www.npmjs.com/package/axe-core)|Chrome and Firefox extension to audit pages
 |[Checka11y.css](https://checka11y.jackdomleo.dev) | A CSS stylesheet to quickly highlight a11y concerns.
 |[Chrome extension: IBM Equal Access Accessibility Checker](https://chrome.google.com/webstore/detail/ibm-equal-access-accessib/lkcagbfjnkomcinoddgooolagloogehp)| A Chrome extension web developer tool that checks web applications for accessibility issues.
 |[Enabler](https://github.com/musienkoyuriy/enabler)|Node.js CLI tool that warns you about potential accessibility issues. Supports: Pure HTML, Angular, Vue
+|[Equalize Digital Accessibility Checker](https://equalizedigital.com/accessibility-checker) | A WordPress Plugin that helps you find and fix accessibility problems. |
 |[Firefox add-on: IBM Equal Access Accessibility Checker](https://addons.mozilla.org/en-US/firefox/addon/accessibility-checker/)| A firefox addon web developer tool that checks web applications for accessibility issues.
 |[GetWCAG](https://getwcag.com/)|  Automated test that checks web applications for accessibility issues. From single page to full website in minutes |
 |[Guia WCAG](https://guia-wcag.com/)|  A guide to know better the guidelines of WCAG in PT-BR |
