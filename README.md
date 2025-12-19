@@ -21,7 +21,7 @@ _Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 **Table of Contents**
 
-- [Accessibility Weekly](topics/newsletter.md)
+- [Accessibility Newsletters](topics/newsletter.md)
 - [Articles and Videos](topics/articles-and-videos.md)
 - [Blogs](topics/blogs.md)
 - [Books](topics/books.md)
