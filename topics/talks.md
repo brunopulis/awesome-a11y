@@ -19,4 +19,8 @@
 | [The Modern Web and Accessibility](https://www.youtube.com/watch?v=KIruVNEi6mI) | [Victor Tsaran](https://twitter.com/vick08) | EN |
 | [Trabalhando com WCAG e WAI-ARIA de forma correta](http://slides.com/talitapagani/wcag-aria-webbr2015#/16) | [Talita Pagani](https://github.com/talitapagani) | PT-BR |
 | [Yes, your site too can (and should) be accessible](https://www.youtube.com/watch?v=H4FzW9oFObs) | [Laura Carvajal](https://twitter.com/lc512k) | EN |
+| [WordPress Accessibility Meetup Recordings (100+)](https://equalizedigital.com/wordpress-accessibility-meetup/#recordings) | Multiple Speakers | EN |
+| [WordPress.TV Accessibility Talks from Conferences Worldwide](https://wordpress.tv/?post_tag=accessibility) | Multiple Speakers | EN, ES, IT, DE, FR, JP, BG, PL |
+
+
 
