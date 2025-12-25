@@ -1,5 +1,11 @@
 ## Meetups
 
+### Virtual
+
+| Name                           | Platform        | Link                                                                                          |
+| ------------------------------ | --------------- | --------------------------------------------------------------------------------------------- |
+| WordPress Accessibility Meetup | Zoom Webinars   | [WordPress Accessibility Meetup](https://equalizedigital.com/wordpress-accessibility-meetup/) |
+
 ### Australia
 
 | Name       | City               | Link                                        |

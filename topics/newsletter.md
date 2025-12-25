@@ -4,6 +4,7 @@
 - [Axess Lab Newsletter](https://axesslab.com/newsletter/)
 - [Bruno Pulis Newsletter](https://subscribepage.io/cartas) 
 - [Deque News](https://www.deque.com/get-accessibility-help/deque-news/)
+- [Focus State Newsletter from Equalize Digital](https://equalizedigital.com/focus-state/)
 - [Microassist](https://www.microassist.com/about/newsletter-subscriptions/)
 - [University of Minnesota Duluth Webdev Newsletter](https://www.d.umn.edu/itss/training/online/webdesign/webdev_listserv.html)
 - [t12t Accessibility Newsletter](http://t12t.se/accessibility-newsletter/)

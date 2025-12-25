@@ -11,6 +11,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 | Adrian Roselli | [@aardrian](https://twitter.com/aardrian) |
 | Alice Boxhall | [@sundress](https://twitter.com/sundress) |
 | Alistair Duggin | [@dugboticus](https://twitter.com/dugboticus) |
+| Amber Hinds | [@HeyAmberHinds](https://x.com/heyamberhinds) |
 | Anand Chowdhary | [@anandchowdhary](https://twitter.com/anandchowdhary) |
 | Andrea Skeries | [@Artistic_Abode](https://twitter.com/Artistic_Abode) |
 | Andrew Arch | [@amja](https://twitter.com/amja) |
@@ -23,6 +24,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 | Cameron Cundiff | [@ckundo](https://twitter.com/ckundo) |
 | Carie Fisher | [@cariefisher](https://twitter.com/cariefisher) |
 | Charlie Turrell | [@AccessibilityC3](https://twitter.com/AccessibilityC3) |
+| Chris Hinds | [@mr_chrishinds](https://x.com/mr_chrishinds) |
 | Claudia Nascimento | [@claumartin](https://twitter.com/claumartin)
 | Claudio Luís Vera | [@modulist](https://twitter.com/modulist)
 | Cordelia McGee-Tubb | [@cordeliadillon](https://twitter.com/cordeliadillon) |
@@ -112,6 +114,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 | Stefan Judis | [@stefanjudis](https://twitter.com/stefanjudis) |
 | Steph Slattery | [@sublimemarch](https://twitter.com/sublimemarch) |
 | Steve Faulkner | [@stevefaulkner](https://twitter.com/stevefaulkner) |
+| Steve Jones | [@SteveJonesDev](https://x.com/stevejonesdev) |
 | Suz Hinton | [@noopkat](https://twitter.com/noopkat) |
 | Svetlana Kouznetsova | [@svknyc](https://twitter.com/svknyc) |
 | Ted Drake | [@ted_drake](https://twitter.com/ted_drake) |

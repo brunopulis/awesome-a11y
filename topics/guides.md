@@ -17,9 +17,11 @@
 | [Horcel -  Guia de Recomendações de Design Inclusivo para pessoas com TDAH, dislexia, discalculia e disortografia](https://horcel.wiki.br/)|PT-BR|
 | [How To Meet WCAG Quick Reference](https://www.w3.org/WAI/WCAG21/quickref/) | EN |
 | [Introduction to Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891) | EN |
+| [Manual Accessibility Testing: How You Can Check Website Accessibility](https://equalizedigital.com/accessibility-checker/documentation/) | EN |
 | [Orange Mobile Accessibility Guidelines for Android and iOS](https://a11y-guidelines.orange.com/en/mobile/) | EN |
 | [Orange Mobile Accessibility Guidelines for Android and iOS](https://a11y-guidelines.orange.com/fr/mobile/) | FR |
 | [Plain language Web Accessibility Guidelines Summary](https://www.web-accessibility.io/playbook) | EN |
+| [Shift Left with Accessibility Checklist](https://equalizedigital.com/shift-left-with-accessibility-checklist/) | EN |
 | [Tuts+ Web Accessibility learning guide for Wordpress](http://code.tutsplus.com/series/accessibility--cms-799) | EN |
 | [Understanding WCAG 2.0](https://www.w3.org/TR/UNDERSTANDING-WCAG20/) | EN |
 | [Web Accesible](http://webaccesible.xyz/) | ED |

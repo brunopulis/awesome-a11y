@@ -107,9 +107,12 @@
 
 | Validator | Description
 | --- | --- |
+|[Accessibility New Window Warnings](https://wordpress.org/plugins/accessibility-new-window-warnings/)|A WordPress plugin that automatically adds visual and screen reader warnings for links that open in new tabs or windows. 
+|[ArchiveWP](https://equalizedigital.com/archivewp/) | A WordPress Plugin for creating an archive of legacy content as required for exceptions by accessibility laws such as the ADA, EAA.
 |[Ember A11y Testing](https://github.com/ember-a11y/ember-a11y-testing)| A suite of accessibility tests that can be run within the Ember testing framework
 |[eslint-plugin-jsx-a11y](https://www.npmjs.com/package/eslint-plugin-jsx-a11y)| A static analysis linter of jsx and their accessibility with screen readers
 |[eslint-plugin-vue-a11y](https://github.com/maranran/eslint-plugin-vue-a11y)| Static AST checker for accessibility rules on elements in .vue
+|[Equalize Digital Accessibility Checker](https://equalizedigital.com/accessibility-checker) | A WordPress Plugin that helps you find and fix accessibility problems. |
 |[React A11y](https://github.com/reactjs/react-a11y)|Identifies accessibility issues in your React.js elements
 |[pa11y](http://www.pa11y.org/)|
 |[ReaKit](https://reakit.io/)| Reakit is a low level component library for building accessible high level UI libraries, design systems and applications with React.

@@ -18,6 +18,7 @@
 | [Designing an accessible color palette with magic numbers](https://darekkay.com/blog/accessible-color-palette/) |  Darek Kay
 | [Designing for accessibility is not that hard](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94) | Pablo Stanley
 | [Gap Analysis/ADHD](https://www.w3.org/WAI/PF/cognitive-a11y-tf/wiki/Gap_Analysis/ADHD) | from the W3C
+| [How to Write an Accessibility Statement, with Examples](https://equalizedigital.com/how-to-write-an-accessibility-statement-in-2025-with-examples/) | Chris Hinds
 | [Implementing an accessible focus indicator](https://darekkay.com/blog/accessible-focus-indicator/) |  Darek Kay
 | [Introduction to Web Accessibility](http://webaim.org/intro/) |  WebAIM
 | [Lesson from building mobile frindly accessible data tables](https://medium.com/shopify-ux/lessons-from-building-mobile-friendly-accessible-data-tables-1e05c6924eaf#.yxri88ccf) |  Tetsuro Takara
@@ -27,13 +28,16 @@
 | [Microsoft Active Accessibility and UI Automation Compared](https://learn.microsoft.com/en-us/windows/win32/winauto/microsoft-active-accessibility-and-ui-automation-compared) | Microsoft
 | [NGX-Skeleton-Loader — States, Animations, Performance, and Accessibility for your Angular App](https://medium.com/@willmendesneto/ngx-skeleton-loader-states-animations-performance-and-accessibility-for-your-angular-app-ad0fd86da7a5) |  Will Mendes
 | [Serviços para adicionar legendas em vídeos](http://reinaldoferraz.com.br/servicos-para-adicionar-legendas-em-videos/) |  Reinaldo Ferraz
+| [Should I Add an Accessibility Toolbar to My Website?](https://equalizedigital.com/should-i-add-an-accessibility-toolbar-to-my-website/) | Paola Gonzalez
 | [Testes automatizados de acessibilidade com Axe e Puppeteer](https://medium.com/@oieduardorabelo/testes-automatizados-de-acessibilidade-6a164e77e11e) |  Eduardo Rabelo
 | [The Accessibility Cheatsheet](http://bitsofco.de/the-accessibility-cheatsheet/) | Ire Aderinokun
 | [The state of accessible web UI frameworks](https://darekkay.com/blog/accessible-ui-frameworks/) | Darek Kay
+| [The Ultimate Guide to the European Accessibility Act for WordPress](https://equalizedigital.com/european-accessibility-act/) | Amber Hinds
 | [Variable Fonts and Dyslexia](http://adrianroselli.com/2018/08/variable-fonts-and-dyslexia.html) | Adrian Roselli
 | [Web accessibility audits powered  the Chrome logo Chrome Accessibility Developer Tools](https://addyosmani.com/a11y/)
 | [What is WAI-ARIA, what does it do for me, and what not?](https://www.marcozehe.de/2014/03/27/what-is-wai-aria-what-does-it-do-for-me-and-what-not/) | Marco Zehe
 | [What is Web Accessibility](http://alistapart.com/article/wiwa) | Trenton Mos
+| [WordPress Page Builder Accessibility Comparison](https://equalizedigital.com/wordpress-page-builder-accessibility/) | Amber Hinds
 | [Writing JavaScript with accessibility in mind](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9) | Manuel Matuzovic
 
 #### Sources
@@ -41,6 +45,7 @@
 | Name | Language |
 |---   |---       |
 | [Cognitive and Learning Disabilities Accessibility Task Force](https://www.w3.org/WAI/PF/cognitive-a11y-tf/wiki/Main_Page) at the W3C | EN |
+| [Equalize Digital Learning Center](https://equalizedigital.com/resources/) | EN |
 | [Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/) from the W3C | EN |
 | [Simply Accessible - Articles](http://simplyaccessible.com/articles/) | EN |
 | [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/) from the W3C | EN |
@@ -53,6 +58,7 @@
 | [Demystifying WAI-ARIA](https://davidmacd.com/blog/wai-aria-accessbility-for-average-web-developers.html) | EN |
 | [Deque Systems YouTube Channel](https://www.youtube.com/channel/UCvNQ5aJllZ5Oi49jtMKeb0Q) | EN |
 | [Design like we give a damn!](https://www.vimeo.com/110965713) by Léonie Watson | EN |
+| [Equalize Digital YouTube Channel](https://www.youtube.com/@equalizedigital?sub_confirmation=1) | EN |
 | [GUI Challenges](https://github.com/argyleink/gui-challenges) by Adam Argyle | EN
 | [Improving Single Page App Accessibility with a11y_kit](https://www.vimeo.com/117614181) by Patrick Fox | EN |
 | [QA in London - Shifting Accessibility Testing To The Left, With Marie Drake](https://www.youtube.com/watch?v=0URKi9NmL-I) | EN |
