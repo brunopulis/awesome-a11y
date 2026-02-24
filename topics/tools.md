@@ -25,6 +25,7 @@
 |[HTML5 Acessibility](http://www.html5accessibility.com/)|Get the current accessibility support status of HTML5 features across major browsers
 |[npm package: accessibility-checker](https://www.npmjs.com/package/accessibility-checker)| accessibility-checker is a NodeJS Module that allows you to perform integrated accessibility testing within a continuous integration pipeline such as Travis CI.
 |[npm package: cypress-accessibility-checker](https://www.npmjs.com/package/cypress-accessibility-checker)| Cypress plugin for Accessibility Testing. This plugin is a Cypress flavor of the NodeJS version of accessibility-checker
+|[RatedWithAI](https://ratedwithai.com/)| AI-powered website accessibility scanner that checks for ADA and WCAG 2.2 compliance, powered by axe-core. Free instant audit with actionable fix recommendations.
 |[This is WCAG](https://thisiswcag.com/)| A guide to know better the guidelines of WCAG |
 |[Site Unseen](https://chrome.google.com/webstore/detail/site-unseen/aflfgnngnnhdoffmmpmakkdflfedldlh?hl=en)|A screen reader emulator that enables you to experience the web from the perspective of a person who is blind |
 |[Stylelint a11y](https://github.com/YozhikM/stylelint-a11y)|Stylelint a11y|
