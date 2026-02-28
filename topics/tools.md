@@ -107,6 +107,7 @@
 |[levelaccess](https://www.levelaccess.com/solutions/accessibility-audit-and-testing/)|Accessibility Auditing|
 |[tota11y - Accessibility Visualization Toolkit](http://khan.github.io/tota11y/)| Simple validator using bookmarklet or Javascript plugin
 |[WAVE](http://wave.webaim.org/)|Validator online| A tool that brings attention and understanding to how color contrast can affect different people with visual impairments.
+|[Web Accessibility Checker](https://web-accessibility-checker.com)|Free WCAG 2.1 accessibility scanner with instant results and actionable fixes, covering contrast, ARIA labels, keyboard navigation, and heading structure.
 
 ### Plugins for frameworks and CMS
 
