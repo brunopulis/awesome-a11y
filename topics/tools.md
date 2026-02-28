@@ -31,6 +31,7 @@
 |[Site Unseen](https://chrome.google.com/webstore/detail/site-unseen/aflfgnngnnhdoffmmpmakkdflfedldlh?hl=en)|A screen reader emulator that enables you to experience the web from the perspective of a person who is blind |
 |[Stylelint a11y](https://github.com/YozhikM/stylelint-a11y)|Stylelint a11y|
 |[Virtual Screen Reader](https://github.com/guidepup/virtual-screen-reader)|Virtual screen reader driver for unit test automation.|
+|[Web Accessibility Checker](https://web-accessibility-checker.com)|Free WCAG 2.1 accessibility scanner that checks any website with instant results and actionable fixes. Supports 10 EU languages.|
 |[Web Accessibility Toolbar (WAT)](https://www.paciellogroup.com/resources/wat/)|The Web Accessibility Toolbar (WAT) has been developed to aid manual examination of web pages for a variety of aspects of accessibility.
 |[AltTextLab](https://www.alttextlab.com/)|AI-powered alt text generator for images.
 
