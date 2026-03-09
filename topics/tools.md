@@ -92,6 +92,7 @@
 |[Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/)| To test the contrast of your text against its background
 |[Color Oracle](http://colororacle.org/)| App (Mac/Win/Linux) for check colours
 |[Tanaguru Contrast Finder](http://contrast-finder.tanaguru.com/?lang=en)|Contrast finder that suggests a valid color range
+|[Smart Color Contrast Checker](https://www.thecolorcontrastchecker.com)| Free, no-login WCAG contrast checker with ML-based accessible color suggestions. Also available as a [Figma plugin](https://www.figma.com/community/plugin/1548100074928472068)|
 |[Who Can use](https://whocanuse.com/)||
 
 ### Validators
