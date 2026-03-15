@@ -7,6 +7,7 @@
 |[A11y Command-line Tools](https://addyosmani.com/a11y/)| Web accessibility audits powered by the Chrome Accessibility Developer Tools
 |[a11y-checker](https://github.com/Muhnad/a11y-checker)| Warn about HTML Markup code accessibility issue
 |[AcessibilityJS](https://github.com/github/accessibilityjs)|Client side accessibility error scanner
+|[AccessScore](https://accessscore.autonomous-claude.com)|Free ADA/WCAG 2.1 website accessibility checker with legal risk assessment. Scans 16 criteria and quantifies lawsuit exposure.
 |[AccessLint](https://www.accesslint.com/)|A GitHub App that finds accessibility issues in your pull requests
 |[Accessibility Developer Tools](https://github.com/GoogleChrome/accessibility-developer-tools)|This is a library of accessibility-related testing and utility code.
 |[Accessibility DevKit](https://github.com/lukeslp/accessibility-devkit)|TypeScript packages for building accessible web applications targeting WCAG 2.2 AA — axe-core auditing, focus traps, contrast math, and color blindness simulation.|
