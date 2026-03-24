@@ -42,4 +42,5 @@ _Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 ## Support me
 
+- [DailyVox](https://getdailyvox.com) - Voice-first AI diary for iPhone. Speak instead of type — on-device speech recognition works offline. ([App Store](https://apps.apple.com/app/id6760454642))
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U4IDQTS)
