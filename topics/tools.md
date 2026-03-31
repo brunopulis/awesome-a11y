@@ -33,6 +33,7 @@
 |[RatedWithAI](https://ratedwithai.com/)| AI-powered website accessibility scanner that checks for ADA and WCAG 2.2 compliance, powered by axe-core. Free instant audit with actionable fix recommendations.
 |[This is WCAG](https://thisiswcag.com/)| A guide to know better the guidelines of WCAG |
 |[Site Unseen](https://chrome.google.com/webstore/detail/site-unseen/aflfgnngnnhdoffmmpmakkdflfedldlh?hl=en)|A screen reader emulator that enables you to experience the web from the perspective of a person who is blind |
+|[site-roaster](https://www.npmjs.com/package/site-roaster)|Free, zero-dependency CLI tool that audits websites for accessibility (ARIA, alt text, color contrast, keyboard navigation), plus SEO, performance, security, and design. Run via `npx site-roaster <url>`.|
 |[Stylelint a11y](https://github.com/YozhikM/stylelint-a11y)|Stylelint a11y|
 |[Virtual Screen Reader](https://github.com/guidepup/virtual-screen-reader)|Virtual screen reader driver for unit test automation.|
 |[Web Accessibility Toolbar (WAT)](https://www.paciellogroup.com/resources/wat/)|The Web Accessibility Toolbar (WAT) has been developed to aid manual examination of web pages for a variety of aspects of accessibility.
