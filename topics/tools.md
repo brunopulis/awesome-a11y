@@ -6,6 +6,7 @@
 |[A11yWatch](https://github.com/a11ywatch/a11ywatch)| The powerful web accessibility tool.
 |[A11y Command-line Tools](https://addyosmani.com/a11y/)| Web accessibility audits powered by the Chrome Accessibility Developer Tools
 |[a11y-checker](https://github.com/Muhnad/a11y-checker)| Warn about HTML Markup code accessibility issue
+|[A11y Starter Kit](https://github.com/thefrontkit/a11y-starter-kit-code)| Free, MIT-licensed WCAG 2.1 AA starter kit for Next.js. Includes accessible components, custom React hooks (useFocusTrap, useReducedMotion, useAnnounce), skip links, live regions, and dark mode with proper contrast. Built with Tailwind CSS and shadcn/ui.
 |[AcessibilityJS](https://github.com/github/accessibilityjs)|Client side accessibility error scanner
 |[AccessLint](https://www.accesslint.com/)|A GitHub App that finds accessibility issues in your pull requests
 |[Accessibility Developer Tools](https://github.com/GoogleChrome/accessibility-developer-tools)|This is a library of accessibility-related testing and utility code.
