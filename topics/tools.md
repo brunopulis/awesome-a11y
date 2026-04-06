@@ -89,8 +89,7 @@
 | --- | --- |
 |[a11y-contrast](https://github.com/darekkay/a11y-contrast)| A CLI utility to calculate/verify accessible magic numbers for a color palette
 |[Accessible Colors](https://accessible-colors.com/)|
-|[Check My Colours](http://www.checkmycolours.com/)|Validator of Color Constrast
-|[Chromelens - Extension Google Chrome](http://chromelens.xyz/)|
+|[Check My Colours](http://www.checkmycolours.com/)|Validator of Color Contrast
 |[Color Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5) |
 |[Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/)| To test the contrast of your text against its background
 |[Color Oracle](http://colororacle.org/)| App (Mac/Win/Linux) for check colours
