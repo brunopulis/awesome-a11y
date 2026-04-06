@@ -39,6 +39,7 @@ _Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 - [Talks](topics/talks.md)
 - [Tools](topics/tools.md)
 - [W3C Specification](topics/specification.md)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for accessible development workflow orchestration, automated code review, and multi-agent coordination. MIT licensed.
 
 ## Support me
 
