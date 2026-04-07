@@ -9,6 +9,7 @@
 |[AcessibilityJS](https://github.com/github/accessibilityjs)|Client side accessibility error scanner
 |[AccessLint](https://www.accesslint.com/)|A GitHub App that finds accessibility issues in your pull requests
 |[Accessibility Developer Tools](https://github.com/GoogleChrome/accessibility-developer-tools)|This is a library of accessibility-related testing and utility code.
+- [Alt Audit](https://altaudit.com) — AI-powered alt text generator and WCAG 2.1 compliance checker for WordPress. Bulk generation, rule-based templates (free, offline), 5-status quality scoring. WordPress plugin + SaaS.
 |[Accessibility DevKit](https://github.com/lukeslp/accessibility-devkit)|TypeScript packages for building accessible web applications targeting WCAG 2.2 AA — axe-core auditing, focus traps, contrast math, and color blindness simulation.|
 |[Accessibility DevKit LLM](https://github.com/lukeslp/accessibility-devkit-llm)|Alt text generation, WCAG auditing CLI, and MCP server using language models for accessibility workflows. Works with OpenAI, Anthropic, HuggingFace, and Ollama.|
 |[Accessibility Multiskill](https://github.com/lukeslp/accessibility-multiskill)|WCAG 2.2 AA skill for coding agents (Claude Code, Codex, Cursor) covering motor, cognitive, visual, and communication disabilities. Includes 10 audit scripts and production CSS utilities.|
