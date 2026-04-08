@@ -4,7 +4,6 @@
 | --- | --- |
 |[A11Y.css](https://github.com/ffoodd/a11y.css)|This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code
 |[A11yWatch](https://github.com/a11ywatch/a11ywatch)| The powerful web accessibility tool.
-|[A11y Command-line Tools](https://addyosmani.com/a11y/)| Web accessibility audits powered by the Chrome Accessibility Developer Tools
 |[a11y-checker](https://github.com/Muhnad/a11y-checker)| Warn about HTML Markup code accessibility issue
 |[AcessibilityJS](https://github.com/github/accessibilityjs)|Client side accessibility error scanner
 |[AccessLint](https://www.accesslint.com/)|A GitHub App that finds accessibility issues in your pull requests
@@ -90,12 +89,12 @@
 | --- | --- |
 |[a11y-contrast](https://github.com/darekkay/a11y-contrast)| A CLI utility to calculate/verify accessible magic numbers for a color palette
 |[Accessible Colors](https://accessible-colors.com/)|
-|[Check My Colours](http://www.checkmycolours.com/)|Validator of Color Constrast
-|[Chromelens - Extension Google Chrome](http://chromelens.xyz/)|
+|[Check My Colours](http://www.checkmycolours.com/)|Validator of Color Contrast
 |[Color Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5) |
 |[Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/)| To test the contrast of your text against its background
 |[Color Oracle](http://colororacle.org/)| App (Mac/Win/Linux) for check colours
 |[Tanaguru Contrast Finder](http://contrast-finder.tanaguru.com/?lang=en)|Contrast finder that suggests a valid color range
+|[WCAG Color Contrast Checker](https://www.davidmello.com/tools/color-contrast-checker)|Checks foreground and background color pairs against WCAG 2.1 AA and AAA thresholds, with colorblindness simulation for four deficiency types, accessible color variant suggestions, and a shareable URL
 |[Who Can use](https://whocanuse.com/)||
 
 ### Validators
