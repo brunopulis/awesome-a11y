@@ -25,6 +25,7 @@
 |[GetWCAG](https://getwcag.com/)|  Automated test that checks web applications for accessibility issues. From single page to full website in minutes |
 |[Guia WCAG](https://guia-wcag.com/)|  A guide to know better the guidelines of WCAG in PT-BR |
 |[Guidepup](https://github.com/guidepup/guidepup)|Screen reader driver for test automation.|
+|[@holmdigital/engine](https://wiki.holmdigital.se)|Regulatory accessibility scanner built on axe-core that maps WCAG failures to EU legal frameworks (EN 301 549, WAD, EAA) across 12 languages and 15 countries. CLI and programmatic API.
 |[Headings Map](https://addons.mozilla.org/en-US/firefox/addon/headingsmap/)|The extension generates a document-map or index of any web document structured with headings and/or with sections in HTML 5. It shows the headings structure, the errors in the structure (ie. incorrect levels), and it works as HTML5 Outliner too.
 |[HTML5 Acessibility](http://www.html5accessibility.com/)|Get the current accessibility support status of HTML5 features across major browsers
 |[npm package: accessibility-checker](https://www.npmjs.com/package/accessibility-checker)| accessibility-checker is a NodeJS Module that allows you to perform integrated accessibility testing within a continuous integration pipeline such as Travis CI.
@@ -122,6 +123,7 @@
 |[eslint-plugin-jsx-a11y](https://www.npmjs.com/package/eslint-plugin-jsx-a11y)| A static analysis linter of jsx and their accessibility with screen readers
 |[eslint-plugin-vue-a11y](https://github.com/maranran/eslint-plugin-vue-a11y)| Static AST checker for accessibility rules on elements in .vue
 |[Equalize Digital Accessibility Checker](https://equalizedigital.com/accessibility-checker) | A WordPress Plugin that helps you find and fix accessibility problems. |
+|[@holmdigital/components](https://www.npmjs.com/package/@holmdigital/components)|Accessible React component library with 29+ components and built-in 12-locale accessibility statement generation for EU compliance (WAD/EAA).
 |[React A11y](https://github.com/reactjs/react-a11y)|Identifies accessibility issues in your React.js elements
 |[ReCalibri](https://github.com/lukeslp/recalibri)|Browser extension that replaces Times New Roman with accessible fonts (Calibri, Aptos, Open Sans, Lexend, Atkinson Hyperlegible, OpenDyslexic) for Chrome and Firefox.|
 |[pa11y](http://www.pa11y.org/)|
