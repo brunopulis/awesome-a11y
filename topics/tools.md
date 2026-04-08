@@ -12,6 +12,7 @@
 |[Accessibility DevKit LLM](https://github.com/lukeslp/accessibility-devkit-llm)|Alt text generation, WCAG auditing CLI, and MCP server using language models for accessibility workflows. Works with OpenAI, Anthropic, HuggingFace, and Ollama.|
 |[Accessibility Multiskill](https://github.com/lukeslp/accessibility-multiskill)|WCAG 2.2 AA skill for coding agents (Claude Code, Codex, Cursor) covering motor, cognitive, visual, and communication disabilities. Includes 10 audit scripts and production CSS utilities.|
 |[Alt Text Local AI](https://github.com/lukeslp/alt-text-local-ai)|Desktop app that generates alt text for images using local Ollama vision models — no API key needed, nothing leaves your machine.|
+|[AnveVoice](https://anvevoice.app)|AI voice agent widget providing voice-based website interaction for accessibility. Enables visitors to navigate, fill forms, and get information through natural voice conversation in 50+ languages.|
 |[Appt](https://appt.org/en) | A guide for making apps accessible
 |[BA II Plus Accessible Calculator](https://github.com/shankar1593/accessible_tools)|Screen-reader-first web-based replica of the TI BA II Plus financial calculator for blind and low-vision CFA/FRM candidates. WCAG 2.1 AA and WAI-ARIA 1.1 compliant.|
 |[ARIA DevTools](https://chrome.google.com/webstore/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck)|Chrome extension that displays a developer-friendly visual representation of the browser accessibility tree.
