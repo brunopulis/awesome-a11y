@@ -6,115 +6,115 @@ This is a list, in no particular order, of people to follow that contribute grea
 
 | Name | Twitter |
 | --- | --- |
-| Accessibility is important | [@a11yisimportant](https://twitter.com/a11yisimportant) |
-| Accessabilly | [@accessabilly](https://twitter.com/accessabilly) |
-| Adrian Roselli | [@aardrian](https://twitter.com/aardrian) |
-| Alice Boxhall | [@sundress](https://twitter.com/sundress) |
-| Alistair Duggin | [@dugboticus](https://twitter.com/dugboticus) |
+| Accessibility is important | [@a11yisimportant](https://x.com/a11yisimportant) |
+| Accessabilly | [@accessabilly](https://x.com/accessabilly) |
+| Adrian Roselli | [@aardrian](https://x.com/aardrian) |
+| Alice Boxhall | [@sundress](https://x.com/sundress) |
+| Alistair Duggin | [@dugboticus](https://x.com/dugboticus) |
 | Amber Hinds | [@HeyAmberHinds](https://x.com/heyamberhinds) |
-| Anand Chowdhary | [@anandchowdhary](https://twitter.com/anandchowdhary) |
-| Andrea Skeries | [@Artistic_Abode](https://twitter.com/Artistic_Abode) |
-| Andrew Arch | [@amja](https://twitter.com/amja) |
-| Andy Ronksley | [@RooRonks](https://twitter.com/RooRonks) |
-| Arthur Rigaud | [@arigaud_ca](https://twitter.com/arigaud_ca) |
-| Ashley Bischoff | [@handcoding](https://twitter.com/handcoding) |
-| Becky Gibson | [@becka11y](https://twitter.com/becka11y) |
-| Billy Gregory | [@thebillygregory](https://twitter.com/thebillygregory) |
-| Bruno Pulis | [@obrunopulis](https://twitter.com/obrunopulis) |
-| Cameron Cundiff | [@ckundo](https://twitter.com/ckundo) |
-| Carie Fisher | [@cariefisher](https://twitter.com/cariefisher) |
-| Charlie Turrell | [@AccessibilityC3](https://twitter.com/AccessibilityC3) |
+| Anand Chowdhary | [@anandchowdhary](https://x.com/anandchowdhary) |
+| Andrea Skeries | [@Artistic_Abode](https://x.com/Artistic_Abode) |
+| Andrew Arch | [@amja](https://x.com/amja) |
+| Andy Ronksley | [@RooRonks](https://x.com/RooRonks) |
+| Arthur Rigaud | [@arigaud_ca](https://x.com/arigaud_ca) |
+| Ashley Bischoff | [@handcoding](https://x.com/handcoding) |
+| Becky Gibson | [@becka11y](https://x.com/becka11y) |
+| Billy Gregory | [@thebillygregory](https://x.com/thebillygregory) |
+| Bruno Pulis | [@obrunopulis](https://x.com/obrunopulis) |
+| Cameron Cundiff | [@ckundo](https://x.com/ckundo) |
+| Carie Fisher | [@cariefisher](https://x.com/cariefisher) |
+| Charlie Turrell | [@AccessibilityC3](https://x.com/AccessibilityC3) |
 | Chris Hinds | [@mr_chrishinds](https://x.com/mr_chrishinds) |
-| Claudia Nascimento | [@claumartin](https://twitter.com/claumartin)
-| Claudio Luís Vera | [@modulist](https://twitter.com/modulist)
-| Cordelia McGee-Tubb | [@cordeliadillon](https://twitter.com/cordeliadillon) |
-| Cynthia Shelly | [@cyns](https://twitter.com/cyns) |
-| Daniel Göransson | [@DanielGoransson](https://twitter.com/DanielGoransson) |
-| Darek Kay | [@darek_kay](https://twitter.com/darek_kay) |
-| Dave Rupert | [@davatron5000](https://twitter.com/davatron5000) |
-| David A. Kennedy | [@davidakennedy](https://twitter.com/davidakennedy) |
-| Deborah Edwards-Oñoro | [@redcrew](https://twitter.com/redcrew) |
-| Debra Ruh | [@debraruh](https://twitter.com/debraruh) |
-| Denis Boudreau | [@dboudreau](https://twitter.com/dboudreau) |
-| Dennis Gaebel | [@gryghostvisuals](https://twitter.com/gryghostvisuals) |
-| Dennis Lembrée | [@dennisl](https://twitter.com/dennisl) |
-| Derek Featherstone | [@feather](https://twitter.com/feather) |
-| Devon Persing | [@devonpersing](https://twitter.com/devonpersing) |
-| Doug Schepers | [@shepazu](https://twitter.com/shepazu) |
-| Dylan Barrell | [@dylanbarrell](https://twitter.com/dylanbarrell) |
-| Eliza Greenwood | [@E_lizaG](https://twitter.com/E_lizaG) |
-| Eric Bailey | [@ericwbailey](https://twitter.com/ericwbailey) |
-| Eric Eggert | [@yatil](https://twitter.com/yatil) |
-| Eric Wright | [@ewaccess](https://twitter.com/ewaccess) |
-| Glenda Sims | [@goodwitch](https://twitter.com/goodwitch) |
-| Graham Armfield | [@coolfields](https://twitter.com/coolfields) |
-| Greg Tarnoff | [@gregtarnoff](https://twitter.com/gregtarnoff) |
-| Harcourt Hamsa | [@freescrpt](https://twitter.com/freescrpt) |
-| Hector Minto | [@hminto](https://twitter.com/hminto) |
-| Helena McCabe | [@misshelenasue](https://twitter.com/misshelenasue) |
-| Henny Swan | [@iheni](https://twitter.com/iheni) |
-| Heydon Pickering | [@heydonworks](http://twitter.com/heydonworks) |
-| Hidde de Vries | [@hdv](http://twitter.com/hdv) |
-| Ida Franceen | [@kolombiken](http://twitter.com/kolombiken) |
-| Ire Aderinokun | [@ireaderinokun](http://twitter.com/ireaderinokun) |
-| Jamie Knight | [@JamieKnight](https://twitter.com/JamieKnight) |
-| Jared Smith | [@jared_w_smith](https://twitter.com/jared_w_smith) |
-| Jeffrey Zeldman | [@zeldman](https://twitter.com/zeldman) |
-| Jen Simmons | [@jensimmons](https://twitter.com/jensimmons) |
-| Jennison Asuncion | [@Jennison](https://twitter.com/Jennison) |
-| JoAnna Hunt | [@johunt0311](https://twitter.com/johunt0311) |
-| Joe Dolson | [@joedolson](https://twitter.com/joedolson) |
-| Joe Watkins | [@_josephwatkins](https://twitter.com/_josephwatkins) |
-| John Foliot | [@johnfoliot](https://twitter.com/johnfoliot) |
-| John McNabb | [@JohnKMcNabb](https://twitter.com/JohnKMcNabb) |
-| Jonathan Hassell | [@jonhassell](https://twitter.com/jonhassell) |
-| Jonny James | [@heresjonnyjames](https://twitter.com/heresjonnyjames) |
-| Joseph Karr O'Connor | [@AccessibleJoe](https://twitter.com/AccessibleJoe) |
-| Jules Ernst | [@JulezRulez](https://twitter.com/JulezRulez) |
-| Julianna Rowsell | [@JuliannaRowsell](https://twitter.com/JuliannaRowsell) |
-| Karl Groves | [@karlgroves](https://twitter.com/karlgroves) |
-| Lainey Feingold | [@LFLegal](https://twitter.com/LFLegal) |
-| Laura Carlson | [@laura_carlson](https://twitter.com/laura_carlson) |
-| Laura Kalbag | [@laurakalbag](https://twitter.com/laurakalbag) |
-| Léonie Watson | [@LeonieWatson](http://twitter.com/LeonieWatson) |
-| Luis Garcia | [@garcialo](https://twitter.com/garcialo) |
-| Lucy Greco | [@accessaces](https://twitter.com/accessaces) |
-| Luke McGrath | [@lukejmcgrath](https://twitter.com/lukejmcgrath) |
-| Manjula Dube | [@manjula_dube](https://twitter.com/mmatuzomanjula_dube) |
-| Manuel Matuzović | [@mmatuzo](https://twitter.com/mmatuzo) |
-| Marcelo Sales | [@msales](https://twitter.com/msales) |
-| Marco Zehe | [@MarcoZehe](https://twitter.com/MarcoZehe) |
-| Marcy Sutton | [@marcysutton](http://twitter.com/marcysutton) |
+| Claudia Nascimento | [@claumartin](https://x.com/claumartin)
+| Claudio Luís Vera | [@modulist](https://x.com/modulist)
+| Cordelia McGee-Tubb | [@cordeliadillon](https://x.com/cordeliadillon) |
+| Cynthia Shelly | [@cyns](https://x.com/cyns) |
+| Daniel Göransson | [@DanielGoransson](https://x.com/DanielGoransson) |
+| Darek Kay | [@darek_kay](https://x.com/darek_kay) |
+| Dave Rupert | [@davatron5000](https://x.com/davatron5000) |
+| David A. Kennedy | [@davidakennedy](https://x.com/davidakennedy) |
+| Deborah Edwards-Oñoro | [@redcrew](https://x.com/redcrew) |
+| Debra Ruh | [@debraruh](https://x.com/debraruh) |
+| Denis Boudreau | [@dboudreau](https://x.com/dboudreau) |
+| Dennis Gaebel | [@gryghostvisuals](https://x.com/gryghostvisuals) |
+| Dennis Lembrée | [@dennisl](https://x.com/dennisl) |
+| Derek Featherstone | [@feather](https://x.com/feather) |
+| Devon Persing | [@devonpersing](https://x.com/devonpersing) |
+| Doug Schepers | [@shepazu](https://x.com/shepazu) |
+| Dylan Barrell | [@dylanbarrell](https://x.com/dylanbarrell) |
+| Eliza Greenwood | [@E_lizaG](https://x.com/E_lizaG) |
+| Eric Bailey | [@ericwbailey](https://x.com/ericwbailey) |
+| Eric Eggert | [@yatil](https://x.com/yatil) |
+| Eric Wright | [@ewaccess](https://x.com/ewaccess) |
+| Glenda Sims | [@goodwitch](https://x.com/goodwitch) |
+| Graham Armfield | [@coolfields](https://x.com/coolfields) |
+| Greg Tarnoff | [@gregtarnoff](https://x.com/gregtarnoff) |
+| Harcourt Hamsa | [@freescrpt](https://x.com/freescrpt) |
+| Hector Minto | [@hminto](https://x.com/hminto) |
+| Helena McCabe | [@misshelenasue](https://x.com/misshelenasue) |
+| Henny Swan | [@iheni](https://x.com/iheni) |
+| Heydon Pickering | [@heydonworks](https://x.com/heydonworks) |
+| Hidde de Vries | [@hdv](https://x.com/hdv) |
+| Ida Franceen | [@kolombiken](https://x.com/kolombiken) |
+| Ire Aderinokun | [@ireaderinokun](https://x.com/ireaderinokun) |
+| Jamie Knight | [@JamieKnight](https://x.com/JamieKnight) |
+| Jared Smith | [@jared_w_smith](https://x.com/jared_w_smith) |
+| Jeffrey Zeldman | [@zeldman](https://x.com/zeldman) |
+| Jen Simmons | [@jensimmons](https://x.com/jensimmons) |
+| Jennison Asuncion | [@Jennison](https://x.com/Jennison) |
+| JoAnna Hunt | [@johunt0311](https://x.com/johunt0311) |
+| Joe Dolson | [@joedolson](https://x.com/joedolson) |
+| Joe Watkins | [@_josephwatkins](https://x.com/_josephwatkins) |
+| John Foliot | [@johnfoliot](https://x.com/johnfoliot) |
+| John McNabb | [@JohnKMcNabb](https://x.com/JohnKMcNabb) |
+| Jonathan Hassell | [@jonhassell](https://x.com/jonhassell) |
+| Jonny James | [@heresjonnyjames](https://x.com/heresjonnyjames) |
+| Joseph Karr O'Connor | [@AccessibleJoe](https://x.com/AccessibleJoe) |
+| Jules Ernst | [@JulezRulez](https://x.com/JulezRulez) |
+| Julianna Rowsell | [@JuliannaRowsell](https://x.com/JuliannaRowsell) |
+| Karl Groves | [@karlgroves](https://x.com/karlgroves) |
+| Lainey Feingold | [@LFLegal](https://x.com/LFLegal) |
+| Laura Carlson | [@laura_carlson](https://x.com/laura_carlson) |
+| Laura Kalbag | [@laurakalbag](https://x.com/laurakalbag) |
+| Léonie Watson | [@LeonieWatson](https://x.com/LeonieWatson) |
+| Luis Garcia | [@garcialo](https://x.com/garcialo) |
+| Lucy Greco | [@accessaces](https://x.com/accessaces) |
+| Luke McGrath | [@lukejmcgrath](https://x.com/lukejmcgrath) |
+| Manjula Dube | [@manjula_dube](https://x.com/mmatuzomanjula_dube) |
+| Manuel Matuzović | [@mmatuzo](https://x.com/mmatuzo) |
+| Marcelo Sales | [@msales](https://x.com/msales) |
+| Marco Zehe | [@MarcoZehe](https://x.com/MarcoZehe) |
+| Marcy Sutton | [@marcysutton](https://x.com/marcysutton) |
 | Melanie Sumner | [@a11yMel](https://bsky.app/profile/a11ymel.bsky.social) |
-| Michael Spellacy | [@spellacy](https://twitter.com/spellacy) |
-| Michiel Bijl | [@MichielBijl](https://twitter.com/MichielBijl) |
-| Mike Gifford | [@mgifford](https://twitter.com/mgifford) |
-| Mike Paciello | [@mpaciello](https://twitter.com/mpaciello) |
-| Molly Watt | [@MollyWattTalks](https://twitter.com/MollyWattTalks) |
-| Monika Piotrowicz | [@monsika](https://twitter.com/monsika) |
-| Neil Milliken | [@NeilMilliken](https://twitter.com/NeilMilliken) |
-| Nicolas Steenhout | [@vavroom](https://twitter.com/vavroom) |
-| Patrick Fox | [@patrickfox](https://twitter.com/patrickfox) |
-| Patrick H. Lauke | [@patrick_h_lauke](https://twitter.com/patrick_h_lauke) |
-| Paul Adam | [@pauljadam](https://twitter.com/pauljadam) |
-| Reinaldo Ferraz | [@reinaldoferraz](https://twitter.com/reinaldoferraz) |
-| Rachel Carden | [@bamadesigner](https://twitter.com/bamadesigner) |
-| Rachel R. Vasquez | [@RachelRVasquez](https://twitter.com/RachelRVasquez) |
-| Rian Rietveld | [@RianRietveld](https://twitter.com/RianRietveld) |
-| Rob Dodson | [@rob_dodson](https://twitter.com/rob_dodson) |
-| Russ Weakley | [@russmaxdesign](https://twitter.com/russmaxdesign) |
-| Sarah Horton | [@gradualclearing](https://twitter.com/gradualclearing) |
-| Sarah Pulis | [@sarahtp](https://twitter.com/sarahtp) |
-| Scott O'Hara | [@scottohara](https://twitter.com/scottohara) |
-| Scott Vinkle | [@svinkle](https://twitter.com/svinkle) |
-| Shawn Lauriat | [@slauriat](https://twitter.com/slauriat) |
-| Shawn Lawton Henry | [@shawn_slh](https://twitter.com/shawn_slh) |
-| Sina Bahram | [@SinaBahram](https://twitter.com/SinaBahram) |
-| Sommer Panage | [@Sommer](https://twitter.com/Sommer) |
-| Stefan Judis | [@stefanjudis](https://twitter.com/stefanjudis) |
-| Steph Slattery | [@sublimemarch](https://twitter.com/sublimemarch) |
-| Steve Faulkner | [@stevefaulkner](https://twitter.com/stevefaulkner) |
+| Michael Spellacy | [@spellacy](https://x.com/spellacy) |
+| Michiel Bijl | [@MichielBijl](https://x.com/MichielBijl) |
+| Mike Gifford | [@mgifford](https://x.com/mgifford) |
+| Mike Paciello | [@mpaciello](https://x.com/mpaciello) |
+| Molly Watt | [@MollyWattTalks](https://x.com/MollyWattTalks) |
+| Monika Piotrowicz | [@monsika](https://x.com/monsika) |
+| Neil Milliken | [@NeilMilliken](https://x.com/NeilMilliken) |
+| Nicolas Steenhout | [@vavroom](https://x.com/vavroom) |
+| Patrick Fox | [@patrickfox](https://x.com/patrickfox) |
+| Patrick H. Lauke | [@patrick_h_lauke](https://x.com/patrick_h_lauke) |
+| Paul Adam | [@pauljadam](https://x.com/pauljadam) |
+| Reinaldo Ferraz | [@reinaldoferraz](https://x.com/reinaldoferraz) |
+| Rachel Carden | [@bamadesigner](https://x.com/bamadesigner) |
+| Rachel R. Vasquez | [@RachelRVasquez](https://x.com/RachelRVasquez) |
+| Rian Rietveld | [@RianRietveld](https://x.com/RianRietveld) |
+| Rob Dodson | [@rob_dodson](https://x.com/rob_dodson) |
+| Russ Weakley | [@russmaxdesign](https://x.com/russmaxdesign) |
+| Sarah Horton | [@gradualclearing](https://x.com/gradualclearing) |
+| Sarah Pulis | [@sarahtp](https://x.com/sarahtp) |
+| Scott O'Hara | [@scottohara](https://x.com/scottohara) |
+| Scott Vinkle | [@svinkle](https://x.com/svinkle) |
+| Shawn Lauriat | [@slauriat](https://x.com/slauriat) |
+| Shawn Lawton Henry | [@shawn_slh](https://x.com/shawn_slh) |
+| Sina Bahram | [@SinaBahram](https://x.com/SinaBahram) |
+| Sommer Panage | [@Sommer](https://x.com/Sommer) |
+| Stefan Judis | [@stefanjudis](https://x.com/stefanjudis) |
+| Steph Slattery | [@sublimemarch](https://x.com/sublimemarch) |
+| Steve Faulkner | [@stevefaulkner](https://x.com/stevefaulkner) |
 | Steve Jones | [@SteveJonesDev](https://x.com/stevejonesdev) |
-| Suz Hinton | [@noopkat](https://twitter.com/noopkat) |
-| Svetlana Kouznetsova | [@svknyc](https://twitter.com/svknyc) |
-| Ted Drake | [@ted_drake](https://twitter.com/ted_drake) |
+| Suz Hinton | [@noopkat](https://x.com/noopkat) |
+| Svetlana Kouznetsova | [@svknyc](https://x.com/svknyc) |
+| Ted Drake | [@ted_drake](https://x.com/ted_drake) |
