@@ -16,6 +16,7 @@
 | [Designing for visual accessibility](https://www.youtube.com/watch?v=BYh6658PCXc) | Jordan Dunn | EN |
 | [Frontend com Acessibilidade](https://www.youtube.com/watch?v=UzTVq7we84w) | [Horácio Soares](https://x.com/horaciosoares) and [Clécio Bachini](https://x.com/cbachini) | PT-BR |
 | [HTML Acessível](http://www.slideshare.net/reinaldoferraz/html-acessvel) | [Reinaldo Ferraz](https://x.com/reinaldoferraz) | PT-BR |
+| [Implementing a Minimum Accessibility Test Plan](https://youtu.be/lsv_lwxu2tI) | [David Mello](https://www.davidmello.com) | EN |
 | [The Modern Web and Accessibility](https://www.youtube.com/watch?v=KIruVNEi6mI) | [Victor Tsaran](https://x.com/vick08) | EN |
 | [Trabalhando com WCAG e WAI-ARIA de forma correta](http://slides.com/talitapagani/wcag-aria-webbr2015#/16) | [Talita Pagani](https://github.com/talitapagani) | PT-BR |
 | [Yes, your site too can (and should) be accessible](https://www.youtube.com/watch?v=H4FzW9oFObs) | [Laura Carvajal](https://x.com/lc512k) | EN |
