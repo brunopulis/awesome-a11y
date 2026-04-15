@@ -1,0 +1,6 @@
+{
+  "aliveStatusCodes": [200, 403],
+  "ignorePatterns": [
+    { "pattern": "^https?://(www\\.)?dribbble\\.com" }
+  ]
+}
