@@ -38,6 +38,7 @@
 |[Virtual Screen Reader](https://github.com/guidepup/virtual-screen-reader)|Virtual screen reader driver for unit test automation.|
 |[Web Accessibility Toolbar (WAT)](https://www.paciellogroup.com/resources/wat/)|The Web Accessibility Toolbar (WAT) has been developed to aid manual examination of web pages for a variety of aspects of accessibility.
 |[AltTextLab](https://www.alttextlab.com/)|AI-powered alt text generator for images.
+|[axle](https://axle-iota.vercel.app)|Continuous accessibility compliance CI. Scans every PR for WCAG 2.1/2.2 AA with axe-core + AI code-fix suggestions via Claude. Free tier; includes a Hebrew accessibility statement generator aligned with תקנה 35.|
 
 ### Assistive Technologies
 
