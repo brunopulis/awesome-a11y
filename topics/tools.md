@@ -18,6 +18,7 @@
 |[ARIA DevTools](https://chrome.google.com/webstore/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck)|Chrome extension that displays a developer-friendly visual representation of the browser accessibility tree.
 |[aslint.org](https://www.aslint.org/)|Accessibility testing tool
 |[aXe Core](https://www.npmjs.com/package/axe-core)|Chrome and Firefox extension to audit pages
+|[axle — Accessibility Compliance CI](https://github.com/asafamos/axle-action)|WCAG 2.1 / 2.2 AA scanning on every pull request via GitHub Action. Produces a sticky PR comment with violations grouped by severity and, optionally, Claude-generated source-code fix diffs. Built for EAA 2025, ADA, and Israeli תקנה 35 enforcement. Also ships as an npm CLI and as Netlify / Cloudflare Pages / Vercel plugins. No runtime overlay widget.|
 |[Checka11y.css](https://checka11y.jackdomleo.dev) | A CSS stylesheet to quickly highlight a11y concerns.
 |[Chrome extension: IBM Equal Access Accessibility Checker](https://chrome.google.com/webstore/detail/ibm-equal-access-accessib/lkcagbfjnkomcinoddgooolagloogehp)| A Chrome extension web developer tool that checks web applications for accessibility issues.
 |[Depression-Sensitive Web Content Support (DS-WCS)](https://github.com/simonplmak-cloud/depression-sensitive-web-content)|An OpenCode skill that audits and rewrites UI content (error messages, CTAs, forms, empty states) for cognitive accessibility. Maps findings to WCAG 2.2, W3C COGA, ISO 9241-110, and ISO/IEC 30071-1. MIT license, free to install.
