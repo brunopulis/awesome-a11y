@@ -43,3 +43,5 @@ _Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 ## Support me
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U4IDQTS)
+
+- [KeyboardTester.click — Hearing & Sharpness Tests](https://keyboardtester.click/hearing-age-test.php) - Free browser-based screening tools: hearing-age test (8-22 kHz with mosquito tone), monitor sharpness test (Lagom 1px grid + RGB sub-pixel ruler) — useful for users with hearing or visual sensitivity. Open source.
