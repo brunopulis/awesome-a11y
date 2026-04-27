@@ -127,6 +127,7 @@
 |[ReCalibri](https://github.com/lukeslp/recalibri)|Browser extension that replaces Times New Roman with accessible fonts (Calibri, Aptos, Open Sans, Lexend, Atkinson Hyperlegible, OpenDyslexic) for Chrome and Firefox.|
 |[pa11y](http://www.pa11y.org/)|
 |[ReaKit](https://reakit.io/)| Reakit is a low level component library for building accessible high level UI libraries, design systems and applications with React.
+|[User Tour Kit](https://github.com/domidex01/tour-kit)| Onboarding library for React built accessibility-first: WCAG 2.1 AA, focus trapping, ARIA live regions, keyboard navigation, and prefers-reduced-motion support.
 |[vue-a11y-utils](https://github.com/Jinjiang/vue-a11y-utils)| Utilities for accessibility (a11y) in Vue.js
 |[vue-axe](https://github.com/vue-a11y/vue-axe)| Accessibility auditing for Vue.js applications
 |[WP Accessibility](https://www.joedolson.com/wp-accessibility/)|Helps with a variety of common accessibility problems in WP themes
