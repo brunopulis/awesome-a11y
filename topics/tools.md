@@ -28,6 +28,7 @@
 |[Guidepup](https://github.com/guidepup/guidepup)|Screen reader driver for test automation.|
 |[Headings Map](https://addons.mozilla.org/en-US/firefox/addon/headingsmap/)|The extension generates a document-map or index of any web document structured with headings and/or with sections in HTML 5. It shows the headings structure, the errors in the structure (ie. incorrect levels), and it works as HTML5 Outliner too.
 |[HTML5 Acessibility](http://www.html5accessibility.com/)|Get the current accessibility support status of HTML5 features across major browsers
+|[lucid-lint](https://github.com/bastien-gallay/lucid-lint)|Bilingual (EN/FR) cognitive accessibility linter for prose. Deterministic CLI: flags long sentences, complex words, and other readability blockers. Maps findings to WCAG, RGAA, and FALC.
 |[npm package: accessibility-checker](https://www.npmjs.com/package/accessibility-checker)| accessibility-checker is a NodeJS Module that allows you to perform integrated accessibility testing within a continuous integration pipeline such as Travis CI.
 |[npm package: cypress-accessibility-checker](https://www.npmjs.com/package/cypress-accessibility-checker)| Cypress plugin for Accessibility Testing. This plugin is a Cypress flavor of the NodeJS version of accessibility-checker
 |[RatedWithAI](https://ratedwithai.com/)| AI-powered website accessibility scanner that checks for ADA and WCAG 2.2 compliance, powered by axe-core. Free instant audit with actionable fix recommendations.
