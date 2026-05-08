@@ -12,7 +12,6 @@
 |[A11yProject](https://github.com/a11yproject/a11yproject.com)| EN
 |[AIIY.js](http://allyjs.io/)| EN
 |[Accessibility section - jQuery Plugins using ARIA](http://a11y.nicolas-hoffmann.net/) - Plugins and demos| EN
-|[Accessibility for Teams](https://accessibility.digital.gov/) - A quick-start guide for embedding accessibility and inclusive design practices into your team’s workflow| EN
 |[Accessibility Awareness Lab Resources](https://www.deque.com/empathy-lab-online/)|EN
 |[Alix](https://github.com/ireade/alix) - a browser extension for a11y.css| EN
 |[Atalan - Digital Accessibility: How can we help](https://atalan.fr/agissons/en/index.html) - a website to to raise awareness of accessibility| EN
@@ -20,7 +19,6 @@
 |[Color Safe](http://colorsafe.co/)| EN
 |[Color Tool - Material Design](https://material.io/color/#!/?view.left=0&view.right=0)| EN
 |[Copy and Paste Accessible Code](https://mikemai.net/cpac) - Copy and Paste Accessible Code | EN
-|[Dos and don'ts for accessibility posters](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/) - Dos and don'ts poster presentation with a link to posters in various languages| EN
 |[Dos and don'ts for aphasia posters](https://cpb-eu-w2.wpmucdn.com/blogs.city.ac.uk/dist/5/1740/files/2018/05/aphasia-tpqt60.pdf) - Dos and don'ts for Aphasia|EN
 |[Ebay's accessibility patterns for the web](https://ebay.gitbooks.io/mindpatterns/content/) - Huge variety of features with working code examples and best practices explained.| EN
 |[Ember A11y](https://github.com/ember-a11y/ember-a11y) - an Ember addon for managing content focus.| EN

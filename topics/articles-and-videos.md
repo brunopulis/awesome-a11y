@@ -27,6 +27,7 @@
 | [Making Open-Source Accessible for All](https://medium.com/@kaelig/making-open-source-accessible-for-all-8131429913b1) |  Kaelig Deloumeau-Prigent
 | [Microsoft Active Accessibility and UI Automation Compared](https://learn.microsoft.com/en-us/windows/win32/winauto/microsoft-active-accessibility-and-ui-automation-compared) | Microsoft
 | [NGX-Skeleton-Loader — States, Animations, Performance, and Accessibility for your Angular App](https://medium.com/@willmendesneto/ngx-skeleton-loader-states-animations-performance-and-accessibility-for-your-angular-app-ad0fd86da7a5) |  Will Mendes
+| [Playwright Accessibility Testing: What axe and Lighthouse Miss](https://www.davidmello.com/software-testing/test-automation/playwright-accessibility-testing-axe-lighthouse-limitations) | David Mello
 | [Serviços para adicionar legendas em vídeos](http://reinaldoferraz.com.br/servicos-para-adicionar-legendas-em-videos/) |  Reinaldo Ferraz
 | [Should I Add an Accessibility Toolbar to My Website?](https://equalizedigital.com/should-i-add-an-accessibility-toolbar-to-my-website/) | Paola Gonzalez
 | [Testes automatizados de acessibilidade com Axe e Puppeteer](https://medium.com/@oieduardorabelo/testes-automatizados-de-acessibilidade-6a164e77e11e) |  Eduardo Rabelo
@@ -34,8 +35,6 @@
 | [The state of accessible web UI frameworks](https://darekkay.com/blog/accessible-ui-frameworks/) | Darek Kay
 | [The Ultimate Guide to the European Accessibility Act for WordPress](https://equalizedigital.com/european-accessibility-act/) | Amber Hinds
 | [Variable Fonts and Dyslexia](http://adrianroselli.com/2018/08/variable-fonts-and-dyslexia.html) | Adrian Roselli
-| [Web accessibility audits powered  the Chrome logo Chrome Accessibility Developer Tools](https://addyosmani.com/a11y/)
-| [What is WAI-ARIA, what does it do for me, and what not?](https://www.marcozehe.de/2014/03/27/what-is-wai-aria-what-does-it-do-for-me-and-what-not/) | Marco Zehe
 | [What is Web Accessibility](http://alistapart.com/article/wiwa) | Trenton Mos
 | [WordPress Page Builder Accessibility Comparison](https://equalizedigital.com/wordpress-page-builder-accessibility/) | Amber Hinds
 | [Writing JavaScript with accessibility in mind](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9) | Manuel Matuzovic
