@@ -43,3 +43,7 @@ _Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 ## Support me
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U4IDQTS)
+
+## Tools
+- [Certvo](https://certvo.com) - AI-powered WCAG scanner that generates production-ready code fixes; includes VPAT generation and an MCP server for AI agents. Free tier available.
+
