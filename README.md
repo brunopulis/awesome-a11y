@@ -40,6 +40,7 @@ _Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 - [Tools](topics/tools.md)
 - [W3C Specification](topics/specification.md)
 
+- [axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing.
 ## Support me
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U4IDQTS)
