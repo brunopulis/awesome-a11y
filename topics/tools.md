@@ -94,6 +94,7 @@
 |[Check My Colours](http://www.checkmycolours.com/)|Validator of Color Contrast
 |[Color Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5) |
 |[Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/)| To test the contrast of your text against its background
+|[FreeColorPalettes.co](https://freecolorpalettes.co/contrast-checker)| WCAG 2.1 AA/AAA contrast ratio checker with color blindness simulation (protanopia, deuteranopia, tritanopia, achromatopsia). Free, no account required.
 |[Color Oracle](http://colororacle.org/)| App (Mac/Win/Linux) for check colours
 |[Tanaguru Contrast Finder](http://contrast-finder.tanaguru.com/?lang=en)|Contrast finder that suggests a valid color range
 |[WCAG Color Contrast Checker](https://www.davidmello.com/tools/color-contrast-checker)|Checks foreground and background color pairs against WCAG 2.1 AA and AAA thresholds, with colorblindness simulation for four deficiency types, accessible color variant suggestions, and a shareable URL
