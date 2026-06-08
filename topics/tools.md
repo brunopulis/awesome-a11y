@@ -4,30 +4,42 @@
 | --- | --- |
 |[A11Y.css](https://github.com/ffoodd/a11y.css)|This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code
 |[A11yWatch](https://github.com/a11ywatch/a11ywatch)| The powerful web accessibility tool.
-|[A11y Command-line Tools](https://addyosmani.com/a11y/)| Web accessibility audits powered by the Chrome Accessibility Developer Tools
 |[a11y-checker](https://github.com/Muhnad/a11y-checker)| Warn about HTML Markup code accessibility issue
 |[AcessibilityJS](https://github.com/github/accessibilityjs)|Client side accessibility error scanner
 |[AccessLint](https://www.accesslint.com/)|A GitHub App that finds accessibility issues in your pull requests
+|[Accessibility Checker — ADA & WCAG Scanner](https://chromewebstore.google.com/detail/kpodpjenpjodkoihfjibmdaoppeicklk)|Chrome extension for one-click WCAG 2.2 AA scanning. Shows compliance score, plain-English issue descriptions, element highlighting, dark pattern detection, and .gov ADA deadline alerts. Powered by axe-core. Free, privacy-first (all scanning is local).
 |[Accessibility Developer Tools](https://github.com/GoogleChrome/accessibility-developer-tools)|This is a library of accessibility-related testing and utility code.
+|[Accessibility DevKit](https://github.com/lukeslp/accessibility-devkit)|TypeScript packages for building accessible web applications targeting WCAG 2.2 AA — axe-core auditing, focus traps, contrast math, and color blindness simulation.|
+|[Accessibility DevKit LLM](https://github.com/lukeslp/accessibility-devkit-llm)|Alt text generation, WCAG auditing CLI, and MCP server using language models for accessibility workflows. Works with OpenAI, Anthropic, HuggingFace, and Ollama.|
+|[Accessibility Multiskill](https://github.com/lukeslp/accessibility-multiskill)|WCAG 2.2 AA skill for coding agents (Claude Code, Codex, Cursor) covering motor, cognitive, visual, and communication disabilities. Includes 10 audit scripts and production CSS utilities.|
+|[Alt Text Local AI](https://github.com/lukeslp/alt-text-local-ai)|Desktop app that generates alt text for images using local Ollama vision models — no API key needed, nothing leaves your machine.|
 |[Appt](https://appt.org/en) | A guide for making apps accessible
+|[BA II Plus Accessible Calculator](https://github.com/shankar1593/accessible_tools)|Screen-reader-first web-based replica of the TI BA II Plus financial calculator for blind and low-vision CFA/FRM candidates. WCAG 2.1 AA and WAI-ARIA 1.1 compliant.|
 |[ARIA DevTools](https://chrome.google.com/webstore/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck)|Chrome extension that displays a developer-friendly visual representation of the browser accessibility tree.
 |[aslint.org](https://www.aslint.org/)|Accessibility testing tool
 |[aXe Core](https://www.npmjs.com/package/axe-core)|Chrome and Firefox extension to audit pages
 |[Checka11y.css](https://checka11y.jackdomleo.dev) | A CSS stylesheet to quickly highlight a11y concerns.
 |[Chrome extension: IBM Equal Access Accessibility Checker](https://chrome.google.com/webstore/detail/ibm-equal-access-accessib/lkcagbfjnkomcinoddgooolagloogehp)| A Chrome extension web developer tool that checks web applications for accessibility issues.
+|[Depression-Sensitive Web Content Support (DS-WCS)](https://github.com/simonplmak-cloud/depression-sensitive-web-content)|An OpenCode skill that audits and rewrites UI content (error messages, CTAs, forms, empty states) for cognitive accessibility. Maps findings to WCAG 2.2, W3C COGA, ISO 9241-110, and ISO/IEC 30071-1. MIT license, free to install.
 |[Enabler](https://github.com/musienkoyuriy/enabler)|Node.js CLI tool that warns you about potential accessibility issues. Supports: Pure HTML, Angular, Vue
 |[Firefox add-on: IBM Equal Access Accessibility Checker](https://addons.mozilla.org/en-US/firefox/addon/accessibility-checker/)| A firefox addon web developer tool that checks web applications for accessibility issues.
+|[GetWCAG](https://getwcag.com/)|  Automated test that checks web applications for accessibility issues. From single page to full website in minutes |
 |[Guia WCAG](https://guia-wcag.com/)|  A guide to know better the guidelines of WCAG in PT-BR |
 |[Guidepup](https://github.com/guidepup/guidepup)|Screen reader driver for test automation.|
 |[Headings Map](https://addons.mozilla.org/en-US/firefox/addon/headingsmap/)|The extension generates a document-map or index of any web document structured with headings and/or with sections in HTML 5. It shows the headings structure, the errors in the structure (ie. incorrect levels), and it works as HTML5 Outliner too.
 |[HTML5 Acessibility](http://www.html5accessibility.com/)|Get the current accessibility support status of HTML5 features across major browsers
 |[npm package: accessibility-checker](https://www.npmjs.com/package/accessibility-checker)| accessibility-checker is a NodeJS Module that allows you to perform integrated accessibility testing within a continuous integration pipeline such as Travis CI.
 |[npm package: cypress-accessibility-checker](https://www.npmjs.com/package/cypress-accessibility-checker)| Cypress plugin for Accessibility Testing. This plugin is a Cypress flavor of the NodeJS version of accessibility-checker
+|[RatedWithAI](https://ratedwithai.com/)| AI-powered website accessibility scanner that checks for ADA and WCAG 2.2 compliance, powered by axe-core. Free instant audit with actionable fix recommendations.
 |[This is WCAG](https://thisiswcag.com/)| A guide to know better the guidelines of WCAG |
 |[Site Unseen](https://chrome.google.com/webstore/detail/site-unseen/aflfgnngnnhdoffmmpmakkdflfedldlh?hl=en)|A screen reader emulator that enables you to experience the web from the perspective of a person who is blind |
 |[Stylelint a11y](https://github.com/YozhikM/stylelint-a11y)|Stylelint a11y|
+|[Tactual](https://github.com/tactual-dev/tactual)|Screen-reader navigation cost analyzer. Models the real effort for assistive technology (AT) users to find, reach, and operate interactive web content under 5 assistive-technology profiles. CLI, MCP server, and library API.
 |[Virtual Screen Reader](https://github.com/guidepup/virtual-screen-reader)|Virtual screen reader driver for unit test automation.|
 |[Web Accessibility Toolbar (WAT)](https://www.paciellogroup.com/resources/wat/)|The Web Accessibility Toolbar (WAT) has been developed to aid manual examination of web pages for a variety of aspects of accessibility.
+|[AltTextLab](https://www.alttextlab.com/)|AI-powered alt text generator for images.
+
+|[TWZRD Agent Intel](https://intel.twzrd.xyz)|Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`|
 
 ### Assistive Technologies
 
@@ -57,6 +69,7 @@
 |---|---|---|---|
 | [Numen](https://numenvoice.org) | Linux | Free | Open Source |
 | [Talon](https://talonvoice.com) | Windows, Mac, Linux (X11 only) | Free/Paid | Closed Source |
+| [TypeWhisper](https://www.typewhisper.com) | macOS, Windows | Free | Open Source |
 | [Voice Attack](https://voiceattack.com) | Windows | Free/Paid | Closed Source |
 
 ### Bookmarklets
@@ -80,12 +93,12 @@
 | --- | --- |
 |[a11y-contrast](https://github.com/darekkay/a11y-contrast)| A CLI utility to calculate/verify accessible magic numbers for a color palette
 |[Accessible Colors](https://accessible-colors.com/)|
-|[Check My Colours](http://www.checkmycolours.com/)|Validator of Color Constrast
-|[Chromelens - Extension Google Chrome](http://chromelens.xyz/)|
+|[Check My Colours](http://www.checkmycolours.com/)|Validator of Color Contrast
 |[Color Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5) |
 |[Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/)| To test the contrast of your text against its background
 |[Color Oracle](http://colororacle.org/)| App (Mac/Win/Linux) for check colours
 |[Tanaguru Contrast Finder](http://contrast-finder.tanaguru.com/?lang=en)|Contrast finder that suggests a valid color range
+|[WCAG Color Contrast Checker](https://www.davidmello.com/tools/color-contrast-checker)|Checks foreground and background color pairs against WCAG 2.1 AA and AAA thresholds, with colorblindness simulation for four deficiency types, accessible color variant suggestions, and a shareable URL
 |[Who Can use](https://whocanuse.com/)||
 
 ### Validators
@@ -93,8 +106,10 @@
 | Validator | Description
 | --- | --- |
 |[Access Monitor](http://accessmonitor.acessibilidade.gov.pt/)|Validator|
+|[AMA Web](https://amaweb.unifesp.br/) | Validator PT-BR |
 |[ExcellentWebCheck](https://excellentwebcheck.com/website-accessibility-checker)|Mobile, Tablet and Desktop Accessibility Checker & Monitor|
 |[Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)|Google Chrome tool for web page audits
+|[PageGuard](https://pageguard.qiudeqiu.workers.dev)|Free website scanner with WCAG 2.1 AA accessibility audit. Checks ARIA labels, color contrast, keyboard navigation, heading structure, image alt text, and more. No signup required, results in ~30 seconds.|
 |[Sim Daltonism](https://michelf.ca/projects/sim-daltonism/)|A color blindness simulator for Mac and iOS
 |[levelaccess](https://www.levelaccess.com/solutions/accessibility-audit-and-testing/)|Accessibility Auditing|
 |[tota11y - Accessibility Visualization Toolkit](http://khan.github.io/tota11y/)| Simple validator using bookmarklet or Javascript plugin
@@ -104,10 +119,14 @@
 
 | Validator | Description
 | --- | --- |
+|[Accessibility New Window Warnings](https://wordpress.org/plugins/accessibility-new-window-warnings/)|A WordPress plugin that automatically adds visual and screen reader warnings for links that open in new tabs or windows. 
+|[ArchiveWP](https://equalizedigital.com/archivewp/) | A WordPress Plugin for creating an archive of legacy content as required for exceptions by accessibility laws such as the ADA, EAA.
 |[Ember A11y Testing](https://github.com/ember-a11y/ember-a11y-testing)| A suite of accessibility tests that can be run within the Ember testing framework
 |[eslint-plugin-jsx-a11y](https://www.npmjs.com/package/eslint-plugin-jsx-a11y)| A static analysis linter of jsx and their accessibility with screen readers
 |[eslint-plugin-vue-a11y](https://github.com/maranran/eslint-plugin-vue-a11y)| Static AST checker for accessibility rules on elements in .vue
+|[Equalize Digital Accessibility Checker](https://equalizedigital.com/accessibility-checker) | A WordPress Plugin that helps you find and fix accessibility problems. |
 |[React A11y](https://github.com/reactjs/react-a11y)|Identifies accessibility issues in your React.js elements
+|[ReCalibri](https://github.com/lukeslp/recalibri)|Browser extension that replaces Times New Roman with accessible fonts (Calibri, Aptos, Open Sans, Lexend, Atkinson Hyperlegible, OpenDyslexic) for Chrome and Firefox.|
 |[pa11y](http://www.pa11y.org/)|
 |[ReaKit](https://reakit.io/)| Reakit is a low level component library for building accessible high level UI libraries, design systems and applications with React.
 |[vue-a11y-utils](https://github.com/Jinjiang/vue-a11y-utils)| Utilities for accessibility (a11y) in Vue.js
