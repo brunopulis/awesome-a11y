@@ -27,6 +27,7 @@
 |[Guia WCAG](https://guia-wcag.com/)|  A guide to know better the guidelines of WCAG in PT-BR |
 |[Guidepup](https://github.com/guidepup/guidepup)|Screen reader driver for test automation.|
 |[Headings Map](https://addons.mozilla.org/en-US/firefox/addon/headingsmap/)|The extension generates a document-map or index of any web document structured with headings and/or with sections in HTML 5. It shows the headings structure, the errors in the structure (ie. incorrect levels), and it works as HTML5 Outliner too.
+|[Holm Digital Accessibility Engine](https://www.npmjs.com/package/@holmdigital/engine)|CLI (`hd-a11y-scan`) and Node API that maps WCAG 2.1/2.2 failures to EN 301 549 and national accessibility law across 17 jurisdictions, with sector-aware enforcement-body routing (WAD/EAA), CI mode, JUnit and PDF reports, and accessibility-statement generation.
 |[HTML5 Acessibility](http://www.html5accessibility.com/)|Get the current accessibility support status of HTML5 features across major browsers
 |[npm package: accessibility-checker](https://www.npmjs.com/package/accessibility-checker)| accessibility-checker is a NodeJS Module that allows you to perform integrated accessibility testing within a continuous integration pipeline such as Travis CI.
 |[npm package: cypress-accessibility-checker](https://www.npmjs.com/package/cypress-accessibility-checker)| Cypress plugin for Accessibility Testing. This plugin is a Cypress flavor of the NodeJS version of accessibility-checker
