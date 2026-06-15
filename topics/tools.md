@@ -29,6 +29,7 @@
 |[Guia WCAG](https://guia-wcag.com/)|  A guide to know better the guidelines of WCAG in PT-BR |
 |[Guidepup](https://github.com/guidepup/guidepup)|Screen reader driver for test automation.|
 |[Headings Map](https://addons.mozilla.org/en-US/firefox/addon/headingsmap/)|The extension generates a document-map or index of any web document structured with headings and/or with sections in HTML 5. It shows the headings structure, the errors in the structure (ie. incorrect levels), and it works as HTML5 Outliner too.
+|[HIG Doctor](https://github.com/raintree-technology/hig-doctor)|Apple HIG audit CLI and MCP server that checks UI code across SwiftUI, UIKit, React, Next.js, Flutter, Compose, HTML, and CSS for guideline and accessibility patterns.
 |[HTML5 Acessibility](http://www.html5accessibility.com/)|Get the current accessibility support status of HTML5 features across major browsers
 |[RatedWithAI](https://ratedwithai.com/)| AI-powered website accessibility scanner that checks for ADA and WCAG 2.2 compliance, powered by axe-core. Free instant audit with actionable fix recommendations.
 |[This is WCAG](https://thisiswcag.com/)| A guide to know better the guidelines of WCAG |
