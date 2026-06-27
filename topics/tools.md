@@ -30,6 +30,7 @@
 |[Guidepup](https://github.com/guidepup/guidepup)|Screen reader driver for test automation.|
 |[Headings Map](https://addons.mozilla.org/en-US/firefox/addon/headingsmap/)|The extension generates a document-map or index of any web document structured with headings and/or with sections in HTML 5. It shows the headings structure, the errors in the structure (ie. incorrect levels), and it works as HTML5 Outliner too.
 |[HTML5 Acessibility](http://www.html5accessibility.com/)|Get the current accessibility support status of HTML5 features across major browsers
+|[Loupe](https://getloupe.dev)|Chrome & Edge extension for one-click WCAG 2.1 & 2.2 audits. Plain-English issue explanations with fixes, in-context element highlighting, full-site crawl, and white-label PDF reports. Powered by axe-core. Free; all scanning is local.
 |[RatedWithAI](https://ratedwithai.com/)| AI-powered website accessibility scanner that checks for ADA and WCAG 2.2 compliance, powered by axe-core. Free instant audit with actionable fix recommendations.
 |[This is WCAG](https://thisiswcag.com/)| A guide to know better the guidelines of WCAG |
 | [Semantic A11Y](https://www.npmjs.com/package/semantica11y) | A JavaScript analysis engine for checking webpages (HTML) for non-semantic HTML elements with ARIA using intelligent suggestions for semantic improvements. |
