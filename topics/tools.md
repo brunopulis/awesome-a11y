@@ -4,6 +4,7 @@
 | --- | --- |
 |[A11Y.css](https://github.com/ffoodd/a11y.css)|This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code
 |[A11yWatch](https://github.com/a11ywatch/a11ywatch)| The powerful web accessibility tool.
+|[a11y-annotator](https://chromewebstore.google.com/detail/a11y-annotator/pffjjfbhnlgpnlooepdlhijbhfamijbo)|Browser extension that scans pages for WCAG 2.1 AA issues and pins color-coded annotations directly on elements. Free tier covers scanning, annotation notes, and Markdown report export. Pro adds batch scanning and JSON/CSV export. Privacy-first (all analysis runs locally).|
 |[a11y-checker](https://github.com/Muhnad/a11y-checker)| Warn about HTML Markup code accessibility issue
 |[AcessibilityJS](https://github.com/github/accessibilityjs)|Client side accessibility error scanner
 |[AccessLint](https://www.accesslint.com/)|A GitHub App that finds accessibility issues in your pull requests
