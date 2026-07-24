@@ -22,13 +22,15 @@
 |[Checka11y.css](https://checka11y.jackdomleo.dev) | A CSS stylesheet to quickly highlight a11y concerns.
 |[Chrome extension: IBM Equal Access Accessibility Checker](https://chrome.google.com/webstore/detail/ibm-equal-access-accessib/lkcagbfjnkomcinoddgooolagloogehp)| A Chrome extension web developer tool that checks web applications for accessibility issues.
 |[Cypress Accessibility Checker](https://www.npmjs.com/package/cypress-accessibility-checker)| Cypress plugin for Accessibility Testing. This plugin is a Cypress flavor of the NodeJS version of accessibility-checker
-|[Depression-Sensitive Web Content Support (DS-WCS)](https://github.com/simonplmak-cloud/depression-sensitive-web-content)|An OpenCode skill that audits and rewrites UI content (error messages, CTAs, forms, empty states) for cognitive accessibility. Maps findings to WCAG 2.2, W3C COGA, ISO 9241-110, and ISO/IEC 30071-1. MIT license, free to install.
+|[Depression-Sensitive Web Content Support](https://github.com/humanity4ai/project_human/tree/main/skills/depression-sensitive-content)|MCP tool for auditing/rewriting UI content (error messages, CTAs, forms, empty states) for cognitive accessibility. Maps findings to WCAG 2.2, W3C COGA, ISO 9241-110, and ISO/IEC 30071-1. Now part of Humanity4AI (9 humanity skills for AI agents). MIT license.
 |[Enabler](https://github.com/musienkoyuriy/enabler)|Node.js CLI tool that warns you about potential accessibility issues. Supports: Pure HTML, Angular, Vue
 |[Firefox add-on: IBM Equal Access Accessibility Checker](https://addons.mozilla.org/en-US/firefox/addon/accessibility-checker/)| A firefox addon web developer tool that checks web applications for accessibility issues.
 |[GetWCAG](https://getwcag.com/)|  Automated test that checks web applications for accessibility issues. From single page to full website in minutes |
 |[Guia WCAG](https://guia-wcag.com/)|  A guide to know better the guidelines of WCAG in PT-BR |
 |[Guidepup](https://github.com/guidepup/guidepup)|Screen reader driver for test automation.|
 |[Headings Map](https://addons.mozilla.org/en-US/firefox/addon/headingsmap/)|The extension generates a document-map or index of any web document structured with headings and/or with sections in HTML 5. It shows the headings structure, the errors in the structure (ie. incorrect levels), and it works as HTML5 Outliner too.
+
+|[Humanity4AI](https://github.com/humanity4ai/project_human)|MCP server with 9 rule-based humanity skills for AI agents: WCAG 2.2 auditing (all 86 criteria), cognitive accessibility audit, neurodiversity/age-inclusive design, cultural context check, crisis support, depression-sensitive content rewriting, de-escalation, empathetic reframe. Deterministic — no LLM calls. MIT license.|
 |[HTML5 Acessibility](http://www.html5accessibility.com/)|Get the current accessibility support status of HTML5 features across major browsers
 |[Lecteur PDF accessible (RGAA Checker)](https://rgaa-checker.com/outils/lecteur-pdf-accessible)|Free in-browser accessible PDF reader with reflowable text, dyslexia-friendly typography profiles, OCR for scanned documents, dual view and annotations. FR.
 |[RatedWithAI](https://ratedwithai.com/)| AI-powered website accessibility scanner that checks for ADA and WCAG 2.2 compliance, powered by axe-core. Free instant audit with actionable fix recommendations.
