@@ -7,6 +7,7 @@
 |[a11y-checker](https://github.com/Muhnad/a11y-checker)| Warn about HTML Markup code accessibility issue
 |[A11y Starter Kit](https://github.com/thefrontkit/a11y-starter-kit-code)| Free, open-source Next.js starter kit with WCAG 2.1 AA compliant components, keyboard navigation, screen reader support, and reduced motion handling.
 |[AcessibilityJS](https://github.com/github/accessibilityjs)|Client side accessibility error scanner
+|[AccessScore](https://accessscore.autonomous-claude.com)|Free ADA/WCAG 2.1 website accessibility checker with legal risk assessment. Scans 16 criteria and quantifies lawsuit exposure.
 |[AccessLint](https://www.accesslint.com/)|A GitHub App that finds accessibility issues in your pull requests
 |[Accessibility Checker](https://www.npmjs.com/package/accessibility-checker)| accessibility-checker is a NodeJS Module that allows you to perform integrated accessibility testing within a continuous integration pipeline such as Travis CI.
 |[Accessibility Checker — ADA & WCAG Scanner](https://chromewebstore.google.com/detail/kpodpjenpjodkoihfjibmdaoppeicklk)|Chrome extension for one-click WCAG 2.2 AA scanning. Shows compliance score, plain-English issue descriptions, element highlighting, dark pattern detection, and .gov ADA deadline alerts. Powered by axe-core. Free, privacy-first (all scanning is local).
