@@ -120,6 +120,7 @@
 |[levelaccess](https://www.levelaccess.com/solutions/accessibility-audit-and-testing/)|Accessibility Auditing|
 |[tota11y - Accessibility Visualization Toolkit](http://khan.github.io/tota11y/)| Simple validator using bookmarklet or Javascript plugin
 |[WAVE](http://wave.webaim.org/)|Validator online| A tool that brings attention and understanding to how color contrast can affect different people with visual impairments.
+|[WCAG Watch](https://wcagwatch.tirelesslabs.com)|Automated technical WCAG/EAA monitoring (axe-core-based). Free instant scan; paid continuous monitoring from €29/mo. Catches an estimated 25–33% of issues automatically — not a substitute for a human audit or a compliance certification.|
 
 ### Plugins for frameworks and CMS
 
