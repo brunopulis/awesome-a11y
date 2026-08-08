@@ -74,6 +74,7 @@
 | [Talon](https://talonvoice.com) | Windows, Mac, Linux (X11 only) | Free/Paid | Closed Source |
 | [TypeWhisper](https://www.typewhisper.com) | macOS, Windows | Free | Open Source |
 | [Voice Attack](https://voiceattack.com) | Windows | Free/Paid | Closed Source |
+| [YazSes](https://github.com/MSKazemi/yazses) | Linux, macOS, Windows | Free | Open Source |
 
 ### Bookmarklets
 
