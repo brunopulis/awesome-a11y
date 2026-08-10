@@ -70,6 +70,7 @@
 
 | Name | Operating System | Cost | FOSS |
 |---|---|---|---|
+| [AI Dictation](https://aidictation.com) | macOS, Windows, iOS, Android | Free/Paid | [MIT-licensed client source](https://github.com/writingmate/aidictation) |
 | [Numen](https://numenvoice.org) | Linux | Free | Open Source |
 | [Talon](https://talonvoice.com) | Windows, Mac, Linux (X11 only) | Free/Paid | Closed Source |
 | [TypeWhisper](https://www.typewhisper.com) | macOS, Windows | Free | Open Source |
