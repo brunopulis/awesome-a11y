@@ -112,6 +112,7 @@
 | --- | --- |
 |[Access Monitor](http://accessmonitor.acessibilidade.gov.pt/)|Validator|
 |[AMA Web](https://amaweb.unifesp.br/) | Validator PT-BR |
+| [DeclareAccess](https://declareaccess.com/)|Free WCAG 2.1 / EN 301 549 audit that generates a ready-to-publish EAA accessibility statement (FR/EN). No signup for the audit.|
 |[ExcellentWebCheck](https://excellentwebcheck.com/website-accessibility-checker)|Mobile, Tablet and Desktop Accessibility Checker & Monitor|
 |[Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)|Google Chrome tool for web page audits
 |[PageGuard](https://pageguard.qiudeqiu.workers.dev)|Free website scanner with WCAG 2.1 AA accessibility audit. Checks ARIA labels, color contrast, keyboard navigation, heading structure, image alt text, and more. No signup required, results in ~30 seconds.|
