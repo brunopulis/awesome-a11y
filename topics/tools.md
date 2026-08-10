@@ -105,6 +105,7 @@
 |[Tanaguru Contrast Finder](http://contrast-finder.tanaguru.com/?lang=en)|Contrast finder that suggests a valid color range
 |[Smart Color Contrast Assistant](https://www.thecolorcontrastchecker.com)| Free, no-login WCAG contrast checker with ML-based accessible color suggestions. Also available as a [Figma plugin](https://www.figma.com/community/plugin/1548100074928472068)|
 |[Who Can use](https://whocanuse.com/)||
+|[ColorTools Contrast Checker](https://colorpicker.cx/contrast)|Free WCAG and APCA contrast checker with pass/fail ratings and suggested accessible color alternatives; part of a browser-based color toolkit.
 
 ### Validators
 
