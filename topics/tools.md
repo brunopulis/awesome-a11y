@@ -112,6 +112,7 @@
 | --- | --- |
 |[Access Monitor](http://accessmonitor.acessibilidade.gov.pt/)|Validator|
 |[AMA Web](https://amaweb.unifesp.br/) | Validator PT-BR |
+|[Barrierewerk](https://barrierewerk.de)|Accessibility scanner for the German BFSG (EN 301 549, WCAG 2.1/2.2). Renders pages in a real browser and measures actual contrast values, including gradients. 11 of 56 success criteria are checked automatically, the remaining ones as a guided manual checklist. Generates a BFSG accessibility statement. Free score report, no signup. German UI. DE.|
 |[ExcellentWebCheck](https://excellentwebcheck.com/website-accessibility-checker)|Mobile, Tablet and Desktop Accessibility Checker & Monitor|
 |[Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)|Google Chrome tool for web page audits
 |[PageGuard](https://pageguard.qiudeqiu.workers.dev)|Free website scanner with WCAG 2.1 AA accessibility audit. Checks ARIA labels, color contrast, keyboard navigation, heading structure, image alt text, and more. No signup required, results in ~30 seconds.|
