@@ -24,6 +24,7 @@ _Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 **Table of Contents**
 
 - [Accessibility Newsletters](topics/newsletter.md)
+- [AI Alt Text Generator](https://github.com/DeusAcc/ai-alt-text-generator) - WordPress plugin that scans the Media Library and generates missing image ALT text automatically via a vision AI model (BYOK: your own OpenAI-compatible key, free tiers included). GPLv2, no subscription.
 - [Articles and Videos](topics/articles-and-videos.md)
 - [Blogs](topics/blogs.md)
 - [Books](topics/books.md)
