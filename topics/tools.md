@@ -105,6 +105,7 @@
 |[Tanaguru Contrast Finder](http://contrast-finder.tanaguru.com/?lang=en)|Contrast finder that suggests a valid color range
 |[Smart Color Contrast Assistant](https://www.thecolorcontrastchecker.com)| Free, no-login WCAG contrast checker with ML-based accessible color suggestions. Also available as a [Figma plugin](https://www.figma.com/community/plugin/1548100074928472068)|
 |[Who Can use](https://whocanuse.com/)||
+- [font-contrast](https://imgcolorpicker.org/font-contrast/) - Checks contrast against measured font metrics, showing where the WCAG large-text exemption does not track actual legibility. Underlying [dataset](https://github.com/ayaanahad/font-contrast) is CC0.
 
 ### Validators
 
