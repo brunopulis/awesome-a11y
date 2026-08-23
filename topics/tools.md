@@ -135,7 +135,7 @@
 |[ReCalibri](https://github.com/lukeslp/recalibri)|Browser extension that replaces Times New Roman with accessible fonts (Calibri, Aptos, Open Sans, Lexend, Atkinson Hyperlegible, OpenDyslexic) for Chrome and Firefox.|
 |[pa11y](http://www.pa11y.org/)|
 |[ReaKit](https://reakit.io/)| Reakit is a low level component library for building accessible high level UI libraries, design systems and applications with React.
-|[rgaa-source](https://github.com/oussamaLaribi/RGAA)| Accessibility scanner for Angular that reports the template file and line behind each violation instead of a CSS selector. Built on axe-core, with automatic fixes, an RGAA 4.1.2 audit grid and a CI baseline.
+|[rgaa-source](https://github.com/oussamaLaribi/RGAA)| Accessibility scanner for Angular that reports the originating template file and line behind a violation when available, rather than only a CSS selector. Built on axe-core, with automatic fixes, an RGAA 4.1.2 audit grid and a CI baseline.
 |[vue-a11y-utils](https://github.com/Jinjiang/vue-a11y-utils)| Utilities for accessibility (a11y) in Vue.js
 |[vue-axe](https://github.com/vue-a11y/vue-axe)| Accessibility auditing for Vue.js applications
 |[WP Accessibility](https://www.joedolson.com/wp-accessibility/)|Helps with a variety of common accessibility problems in WP themes
