@@ -16,7 +16,7 @@
 | [Easy Checks - A First Review of Web Accessibility](http://www.w3.org/WAI/eval/preliminary.html) | EN |
 | [eMAG - Modelo de Acessibilidade em Governo Eletrônico](http://emag.governoeletronico.gov.br/) | PT-BR |
 | [Horcel -  Guia de Recomendações de Design Inclusivo para pessoas com TDAH, dislexia, discalculia e disortografia](https://horcel.wiki.br/)|PT-BR|
-| [How To Meet WCAG Quick Reference](https://www.w3.org/WAI/WCAG21/quickref/) | EN |
+| [How To Meet WCAG Quick Reference](https://www.w3.org/WAI/WCAG22/quickref/) | EN |
 | [Introduction to Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891) | EN |
 | [Manual Accessibility Testing: How You Can Check Website Accessibility](https://equalizedigital.com/accessibility-checker/documentation/) | EN |
 | [Orange Mobile Accessibility Guidelines for Android and iOS](https://a11y-guidelines.orange.com/en/mobile/) | EN |
