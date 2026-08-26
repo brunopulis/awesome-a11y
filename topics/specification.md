@@ -5,9 +5,11 @@
 | Level | Name | Description |
 | --- | --- | --- |
 |Basic | [Using ARIA](https://www.w3.org/TR/aria-in-html/) | Practical guide for developers on how to add accessibility infos to HTML |
+|Basic | [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/) | W3C patterns and examples for using ARIA roles, states, and keyboard support |
 |Intermediary| [WCAG 2.0](https://www.w3.org/TR/WCAG20/) | Recommendations for making Web content more accessible|
 |Intermediary| [WCAG 2.1](https://www.w3.org/TR/WCAG21/) | Recomendations for making Web content more accessible |
 |Intermediary| [WCAG 2.2](https://www.w3.org/TR/WCAG22/) | The most current version of Web Content Accessibility Guidelines |
 |Intermediary| [WAI-ARIA 1.0](https://www.w3.org/TR/wai-aria/) | Framework to improve the accessibility and interoperability of web content and applications |
 |Intermediary| [WAI-ARIA 1.1](https://www.w3.org/TR/wai-aria-1.1/) | Framework to improve the accessibility and interoperability of web content and applications |
+|Intermediary| [WAI-ARIA 1.2](https://www.w3.org/TR/wai-aria-1.2/) | Current WAI-ARIA recommendation for roles, states, and properties |
 |Intermediary| [DPUB-ARIA 1.0](https://www.w3.org/TR/dpub-aria-1.0/) | WAI-ARIA module for EPUB documents |
