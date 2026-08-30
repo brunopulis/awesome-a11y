@@ -26,6 +26,7 @@
 |[Ebay's accessibility patterns for the web](https://ebay.gitbooks.io/mindpatterns/content/) - Huge variety of features with working code examples and best practices explained.| EN
 |[Ember A11y](https://github.com/ember-a11y/ember-a11y) - an Ember addon for managing content focus.| EN
 |[Ember A11y Landmarks](https://github.com/ember-a11y/ember-a11y-landmarks) - An Ember Addon that helps with landmark roles in Ember apps.| EN
+|[EU Accessibility Mapping](https://github.com/sergordienko/eu-accessibility-mapping) - Open, machine-readable crosswalk from WCAG 2.x A/AA success criteria to EN 301 549, the EU Accessibility Act (EAA), and Germany's BFSG. JSON + CSV, MIT, regenerable from one script.| EN
 |[Léonie Watson Blog](http://tink.uk/) - Posts about a11y in general.| EN
 |[Middleman Aria_Current](https://github.com/thoughtbot/middleman-aria_current) - A Middleman extension for indicating a current (active) link using `aria-current`.| EN
 |[Mozilla developer network's accessibility section](https://developer.mozilla.org/en-US/docs/Web/Accessibility) - checklists, tutorials and code examples.| EN
