@@ -41,6 +41,7 @@
 |[Tactual](https://github.com/tactual-dev/tactual)|Screen-reader navigation cost analyzer. Models the real effort for assistive technology (AT) users to find, reach, and operate interactive web content under 5 assistive-technology profiles. CLI, MCP server, and library API.
 |[Transcription Vidéo (RGAA Checker)](https://rgaa-checker.com/outils/transcription-video)|Free AI subtitle generator for uploaded audio/video: produces VTT, SRT and TXT captions following French RGAA and Arcom subtitling guidelines. FR.
 |[Virtual Screen Reader](https://github.com/guidepup/virtual-screen-reader)|Virtual screen reader driver for unit test automation.|
+|[WCAG Radar](https://wcagtoolkit.com/wcag-radar)|Bookmarklet and browser extension that runs 45 WCAG checks on the page you are looking at, including pages behind a login and on localhost. Marks the problems in the page itself and saves an accessible HTML report. Everything runs in the browser and nothing is sent to a server. 28 checks are free without an account; the rest need a licence.|
 |[Web Accessibility Toolbar (WAT)](https://www.paciellogroup.com/resources/wat/)|The Web Accessibility Toolbar (WAT) has been developed to aid manual examination of web pages for a variety of aspects of accessibility.
 |[AltTextLab](https://www.alttextlab.com/)|AI-powered alt text generator for images.
 
