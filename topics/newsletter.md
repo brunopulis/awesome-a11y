@@ -8,5 +8,5 @@
 - [Microassist](https://www.microassist.com/about/newsletter-subscriptions/)
 - [University of Minnesota Duluth Webdev Newsletter](https://www.d.umn.edu/itss/training/online/webdesign/webdev_listserv.html)
 - [t12t Accessibility Newsletter](http://t12t.se/accessibility-newsletter/)
-- [The A11y Project](https://www.a11yproject.com/newsletter/)
+- [The A11y Project](https://www.a11yproject.com/resources/)
 - [The WebAIM Newsletter](https://webaim.org/newsletter/)
