@@ -42,6 +42,7 @@
 |[Transcription Vidéo (RGAA Checker)](https://rgaa-checker.com/outils/transcription-video)|Free AI subtitle generator for uploaded audio/video: produces VTT, SRT and TXT captions following French RGAA and Arcom subtitling guidelines. FR.
 |[Virtual Screen Reader](https://github.com/guidepup/virtual-screen-reader)|Virtual screen reader driver for unit test automation.|
 |[Web Accessibility Toolbar (WAT)](https://www.paciellogroup.com/resources/wat/)|The Web Accessibility Toolbar (WAT) has been developed to aid manual examination of web pages for a variety of aspects of accessibility.
+|[WCAGdesk](https://wcagdesk.eu)|Continuous WCAG 2.2 AA monitoring with RFC 3161 timestamped, tamper-evident evidence records for the EU Accessibility Act (EAA) and Germany's BFSG. Instant free scan and accessibility statement generator — no signup required.|
 |[AltTextLab](https://www.alttextlab.com/)|AI-powered alt text generator for images.
 
 ### Assistive Technologies
