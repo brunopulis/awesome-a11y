@@ -3,6 +3,7 @@
 | Tool | Description
 | --- | --- |
 |[A11Y.css](https://github.com/ffoodd/a11y.css)|This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code
+|[A11yFred.app](https://a11yfred.app)| A web app that provides fast, consistent, WCAG-backed defect descriptions for manual accessibility audits. Search a library of real audits and paste directly into your reports or tickets.
 |[A11yWatch](https://github.com/a11ywatch/a11ywatch)| The powerful web accessibility tool.
 |[a11y-checker](https://github.com/Muhnad/a11y-checker)| Warn about HTML Markup code accessibility issue
 |[A11y Starter Kit](https://github.com/thefrontkit/a11y-starter-kit-code)| Free, open-source Next.js starter kit with WCAG 2.1 AA compliant components, keyboard navigation, screen reader support, and reduced motion handling.
@@ -125,6 +126,7 @@
 
 | Validator | Description
 | --- | --- |
+|[A11yFred neighbor](https://github.com/a11yfred/neighbor)| An entire accessibility linter ecosystem covering ESLint, Stylelint, Textlint, Vale, SwiftLint, and Android Lint. Provides inclusive language and WCAG rules for React, Vue, Angular, HTML, CSS, text prose, iOS, and Android. Maintained and growing.
 |[Accessibility New Window Warnings](https://wordpress.org/plugins/accessibility-new-window-warnings/)|A WordPress plugin that automatically adds visual and screen reader warnings for links that open in new tabs or windows. 
 |[ArchiveWP](https://equalizedigital.com/archivewp/) | A WordPress Plugin for creating an archive of legacy content as required for exceptions by accessibility laws such as the ADA, EAA.
 |[Ember A11y Testing](https://github.com/ember-a11y/ember-a11y-testing)| A suite of accessibility tests that can be run within the Ember testing framework
