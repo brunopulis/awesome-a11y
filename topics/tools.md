@@ -37,6 +37,7 @@
 |[This is WCAG](https://thisiswcag.com/)| A guide to know better the guidelines of WCAG |
 | [Semantic A11Y](https://www.npmjs.com/package/semantica11y) | A JavaScript analysis engine for checking webpages (HTML) for non-semantic HTML elements with ARIA using intelligent suggestions for semantic improvements. |
 |[Site Unseen](https://chrome.google.com/webstore/detail/site-unseen/aflfgnngnnhdoffmmpmakkdflfedldlh?hl=en)|A screen reader emulator that enables you to experience the web from the perspective of a person who is blind |
+|[Statable WCAG Checker](https://statable.com/wcag-checker)|Free Chrome, Edge and Firefox extension that runs axe-core on the page you are viewing and lists WCAG 2.0/2.1/2.2 A and AA issues in a side panel, each with the rule behind it and a link to the fix. Highlights affected elements. No network requests, nothing stored.|
 |[Stylelint a11y](https://github.com/YozhikM/stylelint-a11y)|Stylelint a11y|
 |[Tactual](https://github.com/tactual-dev/tactual)|Screen-reader navigation cost analyzer. Models the real effort for assistive technology (AT) users to find, reach, and operate interactive web content under 5 assistive-technology profiles. CLI, MCP server, and library API.
 |[Transcription Vidéo (RGAA Checker)](https://rgaa-checker.com/outils/transcription-video)|Free AI subtitle generator for uploaded audio/video: produces VTT, SRT and TXT captions following French RGAA and Arcom subtitling guidelines. FR.
