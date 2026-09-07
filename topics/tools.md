@@ -39,6 +39,7 @@
 |[Site Unseen](https://chrome.google.com/webstore/detail/site-unseen/aflfgnngnnhdoffmmpmakkdflfedldlh?hl=en)|A screen reader emulator that enables you to experience the web from the perspective of a person who is blind |
 |[Stylelint a11y](https://github.com/YozhikM/stylelint-a11y)|Stylelint a11y|
 |[Tactual](https://github.com/tactual-dev/tactual)|Screen-reader navigation cost analyzer. Models the real effort for assistive technology (AT) users to find, reach, and operate interactive web content under 5 assistive-technology profiles. CLI, MCP server, and library API.
+|[TesterBot](https://github.com/thisisismayill/testerbot)|Crawls a whole site and runs axe-core (WCAG 2.1 A/AA) on every page it reaches, alongside checks for images without alt, fields without labels, buttons without an accessible name, heading order, the lang attribute and duplicate ids. One HTML report with screenshots. Python and Playwright, runs locally, no account or upload.|
 |[Transcription Vidéo (RGAA Checker)](https://rgaa-checker.com/outils/transcription-video)|Free AI subtitle generator for uploaded audio/video: produces VTT, SRT and TXT captions following French RGAA and Arcom subtitling guidelines. FR.
 |[Virtual Screen Reader](https://github.com/guidepup/virtual-screen-reader)|Virtual screen reader driver for unit test automation.|
 |[Web Accessibility Toolbar (WAT)](https://www.paciellogroup.com/resources/wat/)|The Web Accessibility Toolbar (WAT) has been developed to aid manual examination of web pages for a variety of aspects of accessibility.
