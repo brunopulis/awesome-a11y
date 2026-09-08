@@ -6,6 +6,7 @@
 |[A11yWatch](https://github.com/a11ywatch/a11ywatch)| The powerful web accessibility tool.
 |[a11y-checker](https://github.com/Muhnad/a11y-checker)| Warn about HTML Markup code accessibility issue
 |[A11y Starter Kit](https://github.com/thefrontkit/a11y-starter-kit-code)| Free, open-source Next.js starter kit with WCAG 2.1 AA compliant components, keyboard navigation, screen reader support, and reduced motion handling.
+|[A11yKit](https://a11ykit.site)|Comprehensive WCAG 2.2 and European Accessibility Act (EAA) compliance toolkit with interactive checklists and audit utilities. Maintained by [WillSun Agency](https://willsun.agency).|
 |[AcessibilityJS](https://github.com/github/accessibilityjs)|Client side accessibility error scanner
 |[AccessLint](https://www.accesslint.com/)|A GitHub App that finds accessibility issues in your pull requests
 |[Accessibility Checker](https://www.npmjs.com/package/accessibility-checker)| accessibility-checker is a NodeJS Module that allows you to perform integrated accessibility testing within a continuous integration pipeline such as Travis CI.
