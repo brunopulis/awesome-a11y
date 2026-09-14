@@ -10,6 +10,7 @@
 | [Acessibility for Robots](https://bocoup.com/blog/accessibility-for-robots) | EN |
 | [Acessibilidade Toolkit](https://github.com/acessibilidade/toolkit) | PT-BR |
 | [Accessible Mega Menu](https://github.com/adobe-accessibility/Accessible-Mega-Menu) | EN |
+| [Accessible SVG Icons: ARIA, Roles and Labels](https://iconvectors.io/tutorials/accessible-svg-icons-aria-roles-labels.html) | EN |
 | [ACT-Rules Community](https://act-rules.github.io/rules/) | EN |
 | [APG Gherkin](https://github.com/AFixt/apg-gherkin) | EN |
 | [Awesome A11y Vue](https://github.com/vue-a11y/awesome-a11y-vue) | EN |
