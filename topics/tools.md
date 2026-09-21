@@ -100,6 +100,7 @@
 |[Check My Colours](http://www.checkmycolours.com/)|Validator of Color Contrast
 |[Color Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5) |
 |[Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/)| To test the contrast of your text against its background
+|[Color Blindness Simulator](https://colorblindnesssimulator.com/)|Browser-based image simulator with multiple CVD methods, adjustable severity, grayscale difference maps, and local processing.
 |[Color Oracle](http://colororacle.org/)| App (Mac/Win/Linux) for check colours
 |[Simulateur de Daltonisme (RGAA Checker)](https://rgaa-checker.com/outils/simulateur-daltonisme)|Free browser tool that simulates how a page or image is perceived under different types of colour blindness (protanopia, deuteranopia, tritanopia, achromatopsia). FR.
 |[Tanaguru Contrast Finder](http://contrast-finder.tanaguru.com/?lang=en)|Contrast finder that suggests a valid color range
