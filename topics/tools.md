@@ -3,6 +3,7 @@
 | Tool | Description
 | --- | --- |
 |[A11Y.css](https://github.com/ffoodd/a11y.css)|This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code
+|[a11y-toolkit](https://github.com/kinti/a11y-toolkit)| MCP server + CLI for the full WCAG 2.2 loop with AI coding agents: static and rendered audits (contrast over images, keyboard traps, form error testing, reflow), deterministic autofix, EAA/RD 1112/2018 statements, and evidence packs a human auditor can countersign. Free online analyzer at a11y.jquin.net.|
 |[A11yWatch](https://github.com/a11ywatch/a11ywatch)| The powerful web accessibility tool.
 |[a11y-checker](https://github.com/Muhnad/a11y-checker)| Warn about HTML Markup code accessibility issue
 |[A11y Starter Kit](https://github.com/thefrontkit/a11y-starter-kit-code)| Free, open-source Next.js starter kit with WCAG 2.1 AA compliant components, keyboard navigation, screen reader support, and reduced motion handling.
