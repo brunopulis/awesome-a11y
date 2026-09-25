@@ -36,6 +36,7 @@
 |[RGAA Checker Companion](https://chromewebstore.google.com/detail/ignlacbeeoohadiojeajmnnghbpokllj)|Chrome/Firefox extension for manual accessibility audits: 20 visual inspection tools, a 106-criteria RGAA grid overlay and finding capture. FR.
 |[This is WCAG](https://thisiswcag.com/)| A guide to know better the guidelines of WCAG |
 | [Semantic A11Y](https://www.npmjs.com/package/semantica11y) | A JavaScript analysis engine for checking webpages (HTML) for non-semantic HTML elements with ARIA using intelligent suggestions for semantic improvements. |
+|[ShopOffen](https://shopoffen.peculiar.systems/)|Free automated accessibility check for online shops under the European Accessibility Act, in 15 EU languages with each country's law. axe-core plus robot checks for reflow, keyboard focus and the accessibility statement. No sign-up. [Source](https://github.com/peculiar-systems/shopoffen)|
 |[Site Unseen](https://chrome.google.com/webstore/detail/site-unseen/aflfgnngnnhdoffmmpmakkdflfedldlh?hl=en)|A screen reader emulator that enables you to experience the web from the perspective of a person who is blind |
 |[Stylelint a11y](https://github.com/YozhikM/stylelint-a11y)|Stylelint a11y|
 |[Tactual](https://github.com/tactual-dev/tactual)|Screen-reader navigation cost analyzer. Models the real effort for assistive technology (AT) users to find, reach, and operate interactive web content under 5 assistive-technology profiles. CLI, MCP server, and library API.
