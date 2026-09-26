@@ -42,4 +42,5 @@
 |[WCAG 2.1 Map poster](https://intopia.digital/articles/intopia-launches-wcag-2-1-map/) - All WCAG criteria| EN
 |[Web Accessibility Handbook](https://www.ogcio.gov.hk/en/our_work/community/web_mobileapp_accessibility/promulgating_resources/handbook/)| EN 
 |[Web Accessiblity Test Cases](https://github.com/narayananpalani/webAccessibilityTestCases) | EN 
+|[Website Language Statistics 2026](https://www.stackscan.com/blog/website-language-statistics) - How many websites declare a page language. 25.6%, 40.6 million, set none| EN
 
