@@ -6,6 +6,7 @@
 |[24 Accessibility](https://www.24a11y.com) - A series of articles on all subjects related to digital accessibility| EN
 |[A11Y Coffee](https://a11y.coffee/)| EN
 |[A11y Color Tokens](https://github.com/5t3ph/a11y-color-tokens) - Generate accessible complementary text or UI colors as Sass variables and/or CSS custom properties from your base color tokens | EN
+|[A11y Quest](https://rgaa-checker.com/a11y-quest) - A free, no-login browser serious game (~5 min, 9 levels) that simulates real accessibility barriers (colour blindness, low contrast, keyboard traps, missing alt text, inaccessible forms, small targets, missing captions, non-descriptive links). Each level explains the related RGAA/WCAG criterion and how to fix it| FR
 |[A11Y Support](https://a11ysupport.io/)| EN
 |[A11Y Style Guide](https://github.com/cehfisher/a11y-style-guide)| EN
 |[A11y Wins](http://a11ywins.tumblr.com/) - Examples when accessibility wins| EN
