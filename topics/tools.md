@@ -22,6 +22,7 @@
 |[aXe Core](https://www.npmjs.com/package/axe-core)|Chrome and Firefox extension to audit pages
 |[Checka11y.css](https://checka11y.jackdomleo.dev) | A CSS stylesheet to quickly highlight a11y concerns.
 |[Chrome extension: IBM Equal Access Accessibility Checker](https://chrome.google.com/webstore/detail/ibm-equal-access-accessib/lkcagbfjnkomcinoddgooolagloogehp)| A Chrome extension web developer tool that checks web applications for accessibility issues.
+|[Curb Cut](https://github.com/parthsevak2/curb-cut)| An open source assistant for requesting workplace accommodations in your own words, with no diagnosis field by design.
 |[Cypress Accessibility Checker](https://www.npmjs.com/package/cypress-accessibility-checker)| Cypress plugin for Accessibility Testing. This plugin is a Cypress flavor of the NodeJS version of accessibility-checker
 |[Depression-Sensitive Web Content Support (DS-WCS)](https://github.com/simonplmak-cloud/depression-sensitive-web-content)|An OpenCode skill that audits and rewrites UI content (error messages, CTAs, forms, empty states) for cognitive accessibility. Maps findings to WCAG 2.2, W3C COGA, ISO 9241-110, and ISO/IEC 30071-1. MIT license, free to install.
 |[Enabler](https://github.com/musienkoyuriy/enabler)|Node.js CLI tool that warns you about potential accessibility issues. Supports: Pure HTML, Angular, Vue
