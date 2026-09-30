@@ -14,6 +14,7 @@
 |[Accessibility DevKit](https://github.com/lukeslp/accessibility-devkit)|TypeScript packages for building accessible web applications targeting WCAG 2.2 AA — axe-core auditing, focus traps, contrast math, and color blindness simulation.|
 |[Accessibility DevKit LLM](https://github.com/lukeslp/accessibility-devkit-llm)|Alt text generation, WCAG auditing CLI, and MCP server using language models for accessibility workflows. Works with OpenAI, Anthropic, HuggingFace, and Ollama.|
 |[Accessibility Multiskill](https://github.com/lukeslp/accessibility-multiskill)|WCAG 2.2 AA skill for coding agents (Claude Code, Codex, Cursor) covering motor, cognitive, visual, and communication disabilities. Includes 10 audit scripts and production CSS utilities.|
+|[AccessifyAI](https://accessifyai.de)|Shopify app that scans a store against 15 of the 55 WCAG 2.2 A and AA success criteria, shows what to fix first and in which theme file, and rescans on a schedule. Free plan. Partial automated coverage, no legal guarantee.
 |[Alt Text Local AI](https://github.com/lukeslp/alt-text-local-ai)|Desktop app that generates alt text for images using local Ollama vision models — no API key needed, nothing leaves your machine.|
 |[Appt](https://appt.org/en) | A guide for making apps accessible
 |[BA II Plus Accessible Calculator](https://github.com/shankar1593/accessible_tools)|Screen-reader-first web-based replica of the TI BA II Plus financial calculator for blind and low-vision CFA/FRM candidates. WCAG 2.1 AA and WAI-ARIA 1.1 compliant.|
