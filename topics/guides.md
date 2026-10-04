@@ -6,6 +6,7 @@
 | [Accessibility Code Examples](https://github.com/appt-org/accessibility-code-examples) | EN |
 | [Accessibility Guidelines](http://accessibility.voxmedia.com/) | EN |
 | [Accessibility Guideline used at BBC](https://github.com/bbc/bbc-a11y/blob/master/guides/coverage.md) | EN |
+| [Accessibility QA Lite](https://github.com/abhack-paperclip/accessibility-qa-lite) | EN |
 | [Acessibilidade for Devs](https://github.com/acessibilidade-for-devs/acessibilidade-for-devs.github.io) | PT-BR |
 | [Acessibility for Robots](https://bocoup.com/blog/accessibility-for-robots) | EN |
 | [Acessibilidade Toolkit](https://github.com/acessibilidade/toolkit) | PT-BR |
