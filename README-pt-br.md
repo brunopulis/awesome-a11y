@@ -17,6 +17,7 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
 - [Blogs](topics/blogs.md)
 - [Conferências e eventos](topics/conferences.md)
 - [Cursos](topics/courses.md)
+- [Certificações](topics/certificates.md)
 - [Documentação](topics/guides.md)
 - [Empresas e organizações](topics/companies-and-organizations.md)
 - [Especificação W3C](topics/specification.md)
@@ -27,5 +28,6 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
 - [Outros recursos](topics/other-resources.md)
 - [Oportunidades](topics/jobs.md)
 - [Palestras](topics/talks.md)
+- [Podcasts](topics/podcasts.md)
 - [Pessoas para seguir](topics/people.md)
 
