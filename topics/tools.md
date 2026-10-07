@@ -34,6 +34,7 @@
 |[Lecteur PDF accessible (RGAA Checker)](https://rgaa-checker.com/outils/lecteur-pdf-accessible)|Free in-browser accessible PDF reader with reflowable text, dyslexia-friendly typography profiles, OCR for scanned documents, dual view and annotations. FR.
 |[RatedWithAI](https://ratedwithai.com/)| AI-powered website accessibility scanner that checks for ADA and WCAG 2.2 compliance, powered by axe-core. Free instant audit with actionable fix recommendations.
 |[RGAA Checker Companion](https://chromewebstore.google.com/detail/ignlacbeeoohadiojeajmnnghbpokllj)|Chrome/Firefox extension for manual accessibility audits: 20 visual inspection tools, a 106-criteria RGAA grid overlay and finding capture. FR.
+|[Reshu PDF Reader](https://srstudio.dpdns.org/apps/reshu/)|Free Android 6.0+ document reader designed for TalkBack use, with read-aloud and on-device scanned-page OCR. Direct-APK public pre-release; OCR, speech and device compatibility have known limits. App source is private.|
 |[This is WCAG](https://thisiswcag.com/)| A guide to know better the guidelines of WCAG |
 | [Semantic A11Y](https://www.npmjs.com/package/semantica11y) | A JavaScript analysis engine for checking webpages (HTML) for non-semantic HTML elements with ARIA using intelligent suggestions for semantic improvements. |
 |[Site Unseen](https://chrome.google.com/webstore/detail/site-unseen/aflfgnngnnhdoffmmpmakkdflfedldlh?hl=en)|A screen reader emulator that enables you to experience the web from the perspective of a person who is blind |
