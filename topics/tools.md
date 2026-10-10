@@ -75,6 +75,12 @@
 | [TypeWhisper](https://www.typewhisper.com) | macOS, Windows | Free | Open Source |
 | [Voice Attack](https://voiceattack.com) | Windows | Free/Paid | Closed Source |
 
+#### Gesture Control
+
+| Name | Operating System | Cost | FOSS |
+|---|---|---|---|
+| [Leviate](https://github.com/vladpereverzyev/leviate) | Windows, Mac, Linux, Chrome, web | Free | Open Source |
+
 ### Bookmarklets
 
 | Type | Name | Created By | Cost |
