@@ -2,6 +2,7 @@
 
 | Tool | Description
 | --- | --- |
+| [Toolspike PDF Accessibility Checker](https://toolspike.com/tools/pdf-accessibility-checker) | In-browser PDF/UA-1 and WCAG 2.2 checker: 28 checks with a fix for each problem and an HTML or CSV report. The PDF is checked in the browser and not uploaded. |
 |[A11Y.css](https://github.com/ffoodd/a11y.css)|This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code
 |[A11yWatch](https://github.com/a11ywatch/a11ywatch)| The powerful web accessibility tool.
 |[a11y-checker](https://github.com/Muhnad/a11y-checker)| Warn about HTML Markup code accessibility issue
