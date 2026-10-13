@@ -16,6 +16,7 @@
 |[Accessibility for Teams](https://accessibility.digital.gov/) - A quick-start guide for embedding accessibility and inclusive design practices into your team’s workflow| EN
 |[Accessibility Awareness Lab Resources](https://www.deque.com/empathy-lab-online/)|EN
 |[Alix](https://github.com/ireade/alix) - a browser extension for a11y.css| EN
+|[Ambiguous Date Checker](https://www.keithstaggers.com/notes/ambiguous-date-checker/) - An interactive lesson on day/month/year and month/day/year, visible format instructions, and dates with the month spelled out| EN
 |[Atalan - Digital Accessibility: How can we help](https://atalan.fr/agissons/en/index.html) - a website to to raise awareness of accessibility| EN
 |[Colorable](https://colorable.jxnblk.com/)| EN
 |[Color Safe](http://colorsafe.co/)| EN
