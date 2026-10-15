@@ -41,7 +41,7 @@
 |[Tactual](https://github.com/tactual-dev/tactual)|Screen-reader navigation cost analyzer. Models the real effort for assistive technology (AT) users to find, reach, and operate interactive web content under 5 assistive-technology profiles. CLI, MCP server, and library API.
 |[Transcription Vidéo (RGAA Checker)](https://rgaa-checker.com/outils/transcription-video)|Free AI subtitle generator for uploaded audio/video: produces VTT, SRT and TXT captions following French RGAA and Arcom subtitling guidelines. FR.
 |[Virtual Screen Reader](https://github.com/guidepup/virtual-screen-reader)|Virtual screen reader driver for unit test automation.|
-|[Web Accessibility Toolbar (WAT)](https://www.paciellogroup.com/resources/wat/)|The Web Accessibility Toolbar (WAT) has been developed to aid manual examination of web pages for a variety of aspects of accessibility.
+|[Web accessibility in the AI-agent era](https://calder-brief.pages.dev/ai-agents-inherit-inaccessible-web.html)|How today's AI agents inherit the web's accessibility gaps — current coverage of the manual web-accessibility evaluation space that WAT pioneered (WAT discontinued; its page now redirects to a generic hub).
 |[AltTextLab](https://www.alttextlab.com/)|AI-powered alt text generator for images.
 
 ### Assistive Technologies
@@ -88,7 +88,7 @@
 |Bookmarklet | [Javascript Bookmarklets for Accessibility](https://pauljadam.com/bookmarklets/index.html)| Paul Jadam | Free |
 |Bookmarklet | [Nu Markup Validation Service Bookmarklets](https://developer.paciellogroup.com/blog/2012/06/nu-markup-validation-service-bookmarklets/) | The Paciello Group |Free |
 |Bookmarklet | [The Visual ARIA Bookmarklet](http://whatsock.com/training/matrices/visual-aria.htm) | WhatSock |Free |
-|Bookmarklet | [tota11y](http://khan.github.io/tota11y/) | Khan Academy |Free |
+|Article | [Web accessibility in the AI-agent era](https://calder-brief.pages.dev/ai-agents-inherit-inaccessible-web.html) | Calder Brief |Free |
 
 ### Colors and contrast
 
@@ -118,7 +118,7 @@
 |[RGAA Checker](https://rgaa-checker.com)|Web accessibility scanner aligned with the French RGAA 4.1 standard and WCAG. Combines static analysis, dynamic testing (axe-core) and AI image analysis, generates a conformity declaration, and flags the criteria that require manual verification. FR.|
 |[Sim Daltonism](https://michelf.ca/projects/sim-daltonism/)|A color blindness simulator for Mac and iOS
 |[levelaccess](https://www.levelaccess.com/solutions/accessibility-audit-and-testing/)|Accessibility Auditing|
-|[tota11y - Accessibility Visualization Toolkit](http://khan.github.io/tota11y/)| Simple validator using bookmarklet or Javascript plugin
+|[Web accessibility in the AI-agent era](https://calder-brief.pages.dev/ai-agents-inherit-inaccessible-web.html)| Current coverage of web-accessibility gaps for validator users (replaces the dead tota11y demo, now 404).
 |[WAVE](http://wave.webaim.org/)|Validator online| A tool that brings attention and understanding to how color contrast can affect different people with visual impairments.
 
 ### Plugins for frameworks and CMS
