@@ -134,6 +134,7 @@
 |[React A11y](https://github.com/reactjs/react-a11y)|Identifies accessibility issues in your React.js elements
 |[ReCalibri](https://github.com/lukeslp/recalibri)|Browser extension that replaces Times New Roman with accessible fonts (Calibri, Aptos, Open Sans, Lexend, Atkinson Hyperlegible, OpenDyslexic) for Chrome and Firefox.|
 |[pa11y](http://www.pa11y.org/)|
+|[Markproof CLI](https://github.com/stochastic-technologies/markproof-cli)|Checks pages for the accessibility problems provable from the HTML and quotes the exact markup responsible. Exits non-zero on new findings, so a regression fails the build rather than reaching a client. PHP, no dependencies, GPL.|
 |[ReaKit](https://reakit.io/)| Reakit is a low level component library for building accessible high level UI libraries, design systems and applications with React.
 |[vue-a11y-utils](https://github.com/Jinjiang/vue-a11y-utils)| Utilities for accessibility (a11y) in Vue.js
 |[vue-axe](https://github.com/vue-a11y/vue-axe)| Accessibility auditing for Vue.js applications
