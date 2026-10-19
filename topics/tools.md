@@ -112,6 +112,7 @@
 | --- | --- |
 |[Access Monitor](http://accessmonitor.acessibilidade.gov.pt/)|Validator|
 |[AMA Web](https://amaweb.unifesp.br/) | Validator PT-BR |
+|[Caption Checker](https://www.markstudios.com/tools/caption-checker)|Checks SRT and WebVTT caption files against the Netflix, BBC and DCMP Captioning Key limits for reading speed, line length, lines and timing. Free in the browser, also an open-source CLI|
 |[ExcellentWebCheck](https://excellentwebcheck.com/website-accessibility-checker)|Mobile, Tablet and Desktop Accessibility Checker & Monitor|
 |[Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)|Google Chrome tool for web page audits
 |[PageGuard](https://pageguard.qiudeqiu.workers.dev)|Free website scanner with WCAG 2.1 AA accessibility audit. Checks ARIA labels, color contrast, keyboard navigation, heading structure, image alt text, and more. No signup required, results in ~30 seconds.|
