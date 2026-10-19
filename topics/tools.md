@@ -5,6 +5,7 @@
 |[A11Y.css](https://github.com/ffoodd/a11y.css)|This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code
 |[A11yWatch](https://github.com/a11ywatch/a11ywatch)| The powerful web accessibility tool.
 |[a11y-checker](https://github.com/Muhnad/a11y-checker)| Warn about HTML Markup code accessibility issue
+|[a11y-loop](https://github.com/ChanMeng666/a11y-loop)| Node CLI and Agent Skill that makes AI coding agents plan for accessibility, then audit the UI they built with axe-core in Chromium across several states and rendering modes. It lists what it cannot check; it does not replace manual or screen reader testing. MIT.|
 |[A11y Starter Kit](https://github.com/thefrontkit/a11y-starter-kit-code)| Free, open-source Next.js starter kit with WCAG 2.1 AA compliant components, keyboard navigation, screen reader support, and reduced motion handling.
 |[AcessibilityJS](https://github.com/github/accessibilityjs)|Client side accessibility error scanner
 |[AccessLint](https://www.accesslint.com/)|A GitHub App that finds accessibility issues in your pull requests
