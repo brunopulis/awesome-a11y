@@ -138,3 +138,4 @@
 |[vue-a11y-utils](https://github.com/Jinjiang/vue-a11y-utils)| Utilities for accessibility (a11y) in Vue.js
 |[vue-axe](https://github.com/vue-a11y/vue-axe)| Accessibility auditing for Vue.js applications
 |[WP Accessibility](https://www.joedolson.com/wp-accessibility/)|Helps with a variety of common accessibility problems in WP themes
+|[Xargaar Accessibility Scanner](https://wordpress.org/plugins/xargaar-accessibility-scanner/)|Free WordPress plugin that runs local accessibility checks on your pages and products, groups findings by problem with WCAG references, and adds a manual-testing checklist. No external services or accounts.|
