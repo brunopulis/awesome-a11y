@@ -74,6 +74,7 @@
 | [Talon](https://talonvoice.com) | Windows, Mac, Linux (X11 only) | Free/Paid | Closed Source |
 | [TypeWhisper](https://www.typewhisper.com) | macOS, Windows | Free | Open Source |
 | [Voice Attack](https://voiceattack.com) | Windows | Free/Paid | Closed Source |
+| [Yap Voice Typing](https://chromewebstore.google.com/detail/yap-voice-typing-speech-t/lapfpgdpnhpahiiipbijfbkonnlfnbgf) | Chrome, Firefox (browser extension) | Free | Closed Source |
 
 ### Bookmarklets
 
