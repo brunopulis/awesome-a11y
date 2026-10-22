@@ -27,6 +27,7 @@
 |[Ember A11y](https://github.com/ember-a11y/ember-a11y) - an Ember addon for managing content focus.| EN
 |[Ember A11y Landmarks](https://github.com/ember-a11y/ember-a11y-landmarks) - An Ember Addon that helps with landmark roles in Ember apps.| EN
 |[Léonie Watson Blog](http://tink.uk/) - Posts about a11y in general.| EN
+|[Microinteractions](https://microinteractions.dev/) - UI interaction studies with keyboard support, `prefers-reduced-motion` handling, and copyable HTML, CSS, JavaScript and Tailwind code| EN
 |[Middleman Aria_Current](https://github.com/thoughtbot/middleman-aria_current) - A Middleman extension for indicating a current (active) link using `aria-current`.| EN
 |[Mozilla developer network's accessibility section](https://developer.mozilla.org/en-US/docs/Web/Accessibility) - checklists, tutorials and code examples.| EN
 |[Not so Super Mario](https://www.youtube.com/watch?v=DvaPRlZtfyc) - A parody video showing accessibility problems using Mario Bros. games| EN
