@@ -111,6 +111,7 @@
 | Validator | Description
 | --- | --- |
 |[Access Monitor](http://accessmonitor.acessibilidade.gov.pt/)|Validator|
+|[AccessLytix](https://accesslytix.de)|Web accessibility scanner for WCAG 2.1 AA and the German BFSG. Combines axe-core with behaviour probes (keyboard walk-through, focus, menus, select boxes) and cross-page consistency checks, and explains every finding in plain German with a fix. Free quick test of up to 5 pages (e-mail required). DE.|
 |[AMA Web](https://amaweb.unifesp.br/) | Validator PT-BR |
 |[ExcellentWebCheck](https://excellentwebcheck.com/website-accessibility-checker)|Mobile, Tablet and Desktop Accessibility Checker & Monitor|
 |[Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)|Google Chrome tool for web page audits
