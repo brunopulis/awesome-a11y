@@ -26,6 +26,7 @@
 |[Depression-Sensitive Web Content Support (DS-WCS)](https://github.com/simonplmak-cloud/depression-sensitive-web-content)|An OpenCode skill that audits and rewrites UI content (error messages, CTAs, forms, empty states) for cognitive accessibility. Maps findings to WCAG 2.2, W3C COGA, ISO 9241-110, and ISO/IEC 30071-1. MIT license, free to install.
 |[Enabler](https://github.com/musienkoyuriy/enabler)|Node.js CLI tool that warns you about potential accessibility issues. Supports: Pure HTML, Angular, Vue
 |[Firefox add-on: IBM Equal Access Accessibility Checker](https://addons.mozilla.org/en-US/firefox/addon/accessibility-checker/)| A firefox addon web developer tool that checks web applications for accessibility issues.
+|[floorcheck](https://github.com/Pryzmastudio/floorcheck)|WCAG 2.2 command-line scanner built on axe-core. Keeps failures, needs-review items and advice apart, checks reflow at 320px, and reports error and bot-check pages as not scanned instead of clean. MIT.|
 |[GetWCAG](https://getwcag.com/)|  Automated test that checks web applications for accessibility issues. From single page to full website in minutes |
 |[Guia WCAG](https://guia-wcag.com/)|  A guide to know better the guidelines of WCAG in PT-BR |
 |[Guidepup](https://github.com/guidepup/guidepup)|Screen reader driver for test automation.|
@@ -41,6 +42,7 @@
 |[Tactual](https://github.com/tactual-dev/tactual)|Screen-reader navigation cost analyzer. Models the real effort for assistive technology (AT) users to find, reach, and operate interactive web content under 5 assistive-technology profiles. CLI, MCP server, and library API.
 |[Transcription Vidéo (RGAA Checker)](https://rgaa-checker.com/outils/transcription-video)|Free AI subtitle generator for uploaded audio/video: produces VTT, SRT and TXT captions following French RGAA and Arcom subtitling guidelines. FR.
 |[Virtual Screen Reader](https://github.com/guidepup/virtual-screen-reader)|Virtual screen reader driver for unit test automation.|
+|[vo-transcript](https://github.com/Pryzmastudio/vo-transcript)|Drives the real macOS VoiceOver through AppleScript and records what it says on a web page, without Full Disk Access. MIT.|
 |[Web Accessibility Toolbar (WAT)](https://www.paciellogroup.com/resources/wat/)|The Web Accessibility Toolbar (WAT) has been developed to aid manual examination of web pages for a variety of aspects of accessibility.
 |[AltTextLab](https://www.alttextlab.com/)|AI-powered alt text generator for images.
 
