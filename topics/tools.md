@@ -112,6 +112,7 @@
 | --- | --- |
 |[Access Monitor](http://accessmonitor.acessibilidade.gov.pt/)|Validator|
 |[AMA Web](https://amaweb.unifesp.br/) | Validator PT-BR |
+|[Due Effort](https://dueeffort.com/)|Free website scanner using axe-core (WCAG 2.2 A and AA). Plain-English fixes for Shopify, WordPress, Wix and Squarespace, flags overlay widgets and tracking that starts before consent. No signup.|
 |[ExcellentWebCheck](https://excellentwebcheck.com/website-accessibility-checker)|Mobile, Tablet and Desktop Accessibility Checker & Monitor|
 |[Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)|Google Chrome tool for web page audits
 |[PageGuard](https://pageguard.qiudeqiu.workers.dev)|Free website scanner with WCAG 2.1 AA accessibility audit. Checks ARIA labels, color contrast, keyboard navigation, heading structure, image alt text, and more. No signup required, results in ~30 seconds.|
