@@ -14,6 +14,7 @@
 | [Basic screen reader commands for accessibility testing](https://www.paciellogroup.com/blog/2015/01/basic-screen-reader-commands-for-accessibility-testing/) |  Léonie Watson
 | [Building the most inaccessible site possible with a perfect Lighthouse score](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/) |  Manuel Matuzović
 | [CAPTCHA - Inaccessible to Everyone](http://www.sitepoint.com/captcha-inaccessible-to-everyone/) |  Gian Wild
+| [Choosing a Presentation Pointer When Color Is Hard to Distinguish](https://light-tracer.com/presentation-pointer-color-hard-to-distinguish/) — Use labels, position, and shape alongside color in slide presentations; compare software cues and physical pointers. | Light Tracer |
 | [Creating Accessible HTML: A Crash Course in ARIA Landmark Regions](https://c2experience.com/blog/2018/03/creating-accessible-html-a-crash-course-in-aria-landmark-regions/) |  Genevieve Nelson
 | [Designing an accessible color palette with magic numbers](https://darekkay.com/blog/accessible-color-palette/) |  Darek Kay
 | [Designing for accessibility is not that hard](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94) | Pablo Stanley
