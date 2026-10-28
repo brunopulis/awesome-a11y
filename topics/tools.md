@@ -34,6 +34,7 @@
 |[Lecteur PDF accessible (RGAA Checker)](https://rgaa-checker.com/outils/lecteur-pdf-accessible)|Free in-browser accessible PDF reader with reflowable text, dyslexia-friendly typography profiles, OCR for scanned documents, dual view and annotations. FR.
 |[RatedWithAI](https://ratedwithai.com/)| AI-powered website accessibility scanner that checks for ADA and WCAG 2.2 compliance, powered by axe-core. Free instant audit with actionable fix recommendations.
 |[RGAA Checker Companion](https://chromewebstore.google.com/detail/ignlacbeeoohadiojeajmnnghbpokllj)|Chrome/Firefox extension for manual accessibility audits: 20 visual inspection tools, a 106-criteria RGAA grid overlay and finding capture. FR.
+|[SoloPup Subtitle Studio](https://github.com/OakcoderX/solopup-subtitle-studio)|Local SDH caption editor with separate ordinary/SDH review and SRT/ITT export. MIT; existing-subtitle review is free without an account; optional cloud AI may incur charges. Public preview; human review required.|
 |[This is WCAG](https://thisiswcag.com/)| A guide to know better the guidelines of WCAG |
 | [Semantic A11Y](https://www.npmjs.com/package/semantica11y) | A JavaScript analysis engine for checking webpages (HTML) for non-semantic HTML elements with ARIA using intelligent suggestions for semantic improvements. |
 |[Site Unseen](https://chrome.google.com/webstore/detail/site-unseen/aflfgnngnnhdoffmmpmakkdflfedldlh?hl=en)|A screen reader emulator that enables you to experience the web from the perspective of a person who is blind |
