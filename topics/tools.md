@@ -119,6 +119,7 @@
 |[Sim Daltonism](https://michelf.ca/projects/sim-daltonism/)|A color blindness simulator for Mac and iOS
 |[levelaccess](https://www.levelaccess.com/solutions/accessibility-audit-and-testing/)|Accessibility Auditing|
 |[tota11y - Accessibility Visualization Toolkit](http://khan.github.io/tota11y/)| Simple validator using bookmarklet or Javascript plugin
+|[Varco](https://an0nym0usl.github.io/varco/)|In-browser accessibility checker (axe-core bookmarklet) with results in Italian, WCAG 2.2 and EN 301 549 references, a European Accessibility Act applicability check and a generator for the accessibility information required by EAA Annex V. IT.|
 |[WAVE](http://wave.webaim.org/)|Validator online| A tool that brings attention and understanding to how color contrast can affect different people with visual impairments.
 
 ### Plugins for frameworks and CMS
