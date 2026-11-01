@@ -110,6 +110,7 @@
 
 | Validator | Description
 | --- | --- |
+|[a11y-toolkit](https://github.com/kinti/a11y-toolkit)|Zero-dependency WCAG 2.2 engine (Python, MIT): 35 tools covering express and rendered audits, text-over-image contrast, keyboard traps, form error testing, VPAT 2.5 / EAA statement / OpenACR generation, and an evidence pack a human can sign. CLI and MCP server for AI coding agents. es/en output.|
 |[Access Monitor](http://accessmonitor.acessibilidade.gov.pt/)|Validator|
 |[AMA Web](https://amaweb.unifesp.br/) | Validator PT-BR |
 |[ExcellentWebCheck](https://excellentwebcheck.com/website-accessibility-checker)|Mobile, Tablet and Desktop Accessibility Checker & Monitor|
