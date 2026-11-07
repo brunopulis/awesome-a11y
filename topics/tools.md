@@ -96,6 +96,7 @@
 | --- | --- |
 |[a11y-contrast](https://github.com/darekkay/a11y-contrast)| A CLI utility to calculate/verify accessible magic numbers for a color palette
 |[Accessible Colors](https://accessible-colors.com/)|
+|[Brownie.tools Contrast Checker](https://brownie.tools/design-tools/contrast-checker/)|Checks WCAG AA/AAA contrast for solid colors, sampled gradients and palette combinations locally in the browser without an account.|
 |[Calculateur de Contraste (RGAA Checker)](https://rgaa-checker.com/outils/calculateur-contraste)|Free contrast ratio calculator checking text/background pairs against WCAG 2.1 AA/AAA thresholds, with suggestions for accessible colour adjustments. FR.
 |[Check My Colours](http://www.checkmycolours.com/)|Validator of Color Contrast
 |[Color Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5) |
