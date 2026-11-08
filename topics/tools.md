@@ -128,12 +128,14 @@
 |[Accessibility New Window Warnings](https://wordpress.org/plugins/accessibility-new-window-warnings/)|A WordPress plugin that automatically adds visual and screen reader warnings for links that open in new tabs or windows. 
 |[ArchiveWP](https://equalizedigital.com/archivewp/) | A WordPress Plugin for creating an archive of legacy content as required for exceptions by accessibility laws such as the ADA, EAA.
 |[Ember A11y Testing](https://github.com/ember-a11y/ember-a11y-testing)| A suite of accessibility tests that can be run within the Ember testing framework
+|[eslint-plugin-accessguard-eaa](https://github.com/ronanchnlps-bit/eslint-plugin-accessguard-eaa)| ESLint v9 Flat-Config plugin with automated AST rules and autofixers for WCAG 2.2 AA and European Accessibility Act (EAA 2025) compliance in JSX/TSX.|
 |[eslint-plugin-jsx-a11y](https://www.npmjs.com/package/eslint-plugin-jsx-a11y)| A static analysis linter of jsx and their accessibility with screen readers
 |[eslint-plugin-vue-a11y](https://github.com/maranran/eslint-plugin-vue-a11y)| Static AST checker for accessibility rules on elements in .vue
 |[Equalize Digital Accessibility Checker](https://equalizedigital.com/accessibility-checker) | A WordPress Plugin that helps you find and fix accessibility problems. |
 |[React A11y](https://github.com/reactjs/react-a11y)|Identifies accessibility issues in your React.js elements
 |[ReCalibri](https://github.com/lukeslp/recalibri)|Browser extension that replaces Times New Roman with accessible fonts (Calibri, Aptos, Open Sans, Lexend, Atkinson Hyperlegible, OpenDyslexic) for Chrome and Firefox.|
 |[pa11y](http://www.pa11y.org/)|
+|[playwright-wcag-eaa-reporter](https://github.com/ronanchnlps-bit/playwright-wcag-eaa-reporter)| Custom Playwright reporter for WCAG 2.2 AA and European Accessibility Act (EAA 2025) conformance reports, EN 301 549 mapping, and CI gates.|
 |[ReaKit](https://reakit.io/)| Reakit is a low level component library for building accessible high level UI libraries, design systems and applications with React.
 |[vue-a11y-utils](https://github.com/Jinjiang/vue-a11y-utils)| Utilities for accessibility (a11y) in Vue.js
 |[vue-axe](https://github.com/vue-a11y/vue-axe)| Accessibility auditing for Vue.js applications
