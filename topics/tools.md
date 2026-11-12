@@ -120,6 +120,7 @@
 |[levelaccess](https://www.levelaccess.com/solutions/accessibility-audit-and-testing/)|Accessibility Auditing|
 |[tota11y - Accessibility Visualization Toolkit](http://khan.github.io/tota11y/)| Simple validator using bookmarklet or Javascript plugin
 |[WAVE](http://wave.webaim.org/)|Validator online| A tool that brings attention and understanding to how color contrast can affect different people with visual impairments.
+|[Wexlo](https://wexlo.eu/)|Website accessibility scanner. Tests pages against WCAG 2.2 A/AA in a real browser with axe-core, with code-level evidence and a suggested fix per finding, and re-scans on a schedule. Reports in six languages. Free one-page scan, paid plans. Not an overlay.|
 
 ### Plugins for frameworks and CMS
 
