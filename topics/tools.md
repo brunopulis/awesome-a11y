@@ -104,6 +104,7 @@
 |[Simulateur de Daltonisme (RGAA Checker)](https://rgaa-checker.com/outils/simulateur-daltonisme)|Free browser tool that simulates how a page or image is perceived under different types of colour blindness (protanopia, deuteranopia, tritanopia, achromatopsia). FR.
 |[Tanaguru Contrast Finder](http://contrast-finder.tanaguru.com/?lang=en)|Contrast finder that suggests a valid color range
 |[Smart Color Contrast Assistant](https://www.thecolorcontrastchecker.com)| Free, no-login WCAG contrast checker with ML-based accessible color suggestions. Also available as a [Figma plugin](https://www.figma.com/community/plugin/1548100074928472068)|
+|[ux.center Color Contrast Checker](https://ux.center/en/tools/contrast-checker/)|Free, no-login WCAG 2.2 contrast checker. Shows AA and AAA results separately for normal text, large text and UI components (3:1), accepts hex, rgb() and hsl(), suggests the nearest shade that passes, and keeps both colors in a shareable link.|
 |[Who Can use](https://whocanuse.com/)||
 
 ### Validators
