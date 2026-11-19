@@ -75,6 +75,12 @@
 | [TypeWhisper](https://www.typewhisper.com) | macOS, Windows | Free | Open Source |
 | [Voice Attack](https://voiceattack.com) | Windows | Free/Paid | Closed Source |
 
+#### Sound Visualization
+
+| Name | Operating System | Cost | FOSS |
+|---|---|---|---|
+| [SoundVisualizer](https://sovis-team.github.io/en/) | Android, Windows | Free | Open Source |
+
 ### Bookmarklets
 
 | Type | Name | Created By | Cost |
