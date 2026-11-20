@@ -73,6 +73,7 @@
 | [Numen](https://numenvoice.org) | Linux | Free | Open Source |
 | [Talon](https://talonvoice.com) | Windows, Mac, Linux (X11 only) | Free/Paid | Closed Source |
 | [TypeWhisper](https://www.typewhisper.com) | macOS, Windows | Free | Open Source |
+| [Utterwove](https://utterwove.kriva.studio/) | Android | 7-day trial, then one-time purchase | Closed Source |
 | [Voice Attack](https://voiceattack.com) | Windows | Free/Paid | Closed Source |
 
 ### Bookmarklets
