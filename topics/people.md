@@ -20,7 +20,7 @@ This is a list, in no particular order, of people to follow who contribute great
 | Ashley Bischoff | [@handcoding](https://twitter.com/handcoding) |
 | Becky Gibson | [@becka11y](https://twitter.com/becka11y) |
 | Billy Gregory | [@thebillygregory](https://twitter.com/thebillygregory) |
-| Bruno Pulis | [@obrunopulis](https://twitter.com/obrunopulis) |
+| Bruno Pulis | [@brunopulis](https://mastodon.social/@brunopulis) |
 | Cameron Cundiff | [@ckundo](https://twitter.com/ckundo) |
 | Carie Fisher | [@cariefisher](https://twitter.com/cariefisher) |
 | Charlie Turrell | [@AccessibilityC3](https://twitter.com/AccessibilityC3) |
