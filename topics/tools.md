@@ -16,6 +16,7 @@
 |[Accessibility Multiskill](https://github.com/lukeslp/accessibility-multiskill)|WCAG 2.2 AA skill for coding agents (Claude Code, Codex, Cursor) covering motor, cognitive, visual, and communication disabilities. Includes 10 audit scripts and production CSS utilities.|
 |[Accessibility Tools for Designers](https://accessibility.tools/)|Research-backed tools and documentation to improve the accessibility of your designs. Made by cognitive psychologists, with and for designers. Open and free to everyone.|
 |[Alt Text Local AI](https://github.com/lukeslp/alt-text-local-ai)|Desktop app that generates alt text for images using local Ollama vision models — no API key needed, nothing leaves your machine.|
+|[AltTextFix CLI](https://github.com/ascelio-co/beta-alttext-cli)|Node CLI and GitHub Action that audits a page for images with no text alternative, flags `alt=""` separately from a missing attribute (the difference matters: empty passes validators and is silent for screen readers), and exits non-zero for CI. MIT licensed.|
 |[Appt](https://appt.org/en) | A guide for making apps accessible
 |[BA II Plus Accessible Calculator](https://github.com/shankar1593/accessible_tools)|Screen-reader-first web-based replica of the TI BA II Plus financial calculator for blind and low-vision CFA/FRM candidates. WCAG 2.1 AA and WAI-ARIA 1.1 compliant.|
 |[ARIA DevTools](https://chrome.google.com/webstore/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck)|Chrome extension that displays a developer-friendly visual representation of the browser accessibility tree.
