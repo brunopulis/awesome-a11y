@@ -1,10 +1,10 @@
 ## People to Follow in Web Accessibility
 
-This is a list, in no particular order, of people to follow that contribute greatly to web accessibility and web standards. You can see a detail list of this resource in [People to follow in a11y](https://github.com/joe-watkins/top-people-to-follow-in-web-accessibility) by [Joe Watkins](https://github.com/joe-watkins)
+This is a list, in no particular order, of people to follow who contribute greatly to web accessibility and web standards. You can see a detailed list of this resource in [People to follow in a11y](https://github.com/joe-watkins/top-people-to-follow-in-web-accessibility) by [Joe Watkins](https://github.com/joe-watkins)
 
 ## People
 
-| Name | Twitter |
+| Name | Social midia |
 | --- | --- |
 | Accessibility is important | [@a11yisimportant](https://twitter.com/a11yisimportant) |
 | Accessabilly | [@accessabilly](https://twitter.com/accessabilly) |
@@ -102,7 +102,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 | Rachel R. Vasquez | [@RachelRVasquez](https://twitter.com/RachelRVasquez) |
 | Rian Rietveld | [@RianRietveld](https://twitter.com/RianRietveld) |
 | Rob Dodson | [@rob_dodson](https://twitter.com/rob_dodson) |
-| Russ Weakley | [@russmaxdesign](https://twitter.com/russmaxdesign) |
+| Russ Weakley | [russweakley](https://www.linkedin.com/in/russweakley/) |
 | Sarah Horton | [@gradualclearing](https://twitter.com/gradualclearing) |
 | Sarah Pulis | [@sarahtp](https://twitter.com/sarahtp) |
 | Scott O'Hara | [@scottohara](https://twitter.com/scottohara) |
