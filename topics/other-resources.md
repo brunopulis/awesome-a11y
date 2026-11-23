@@ -42,4 +42,6 @@
 |[WCAG 2.1 Map poster](https://intopia.digital/articles/intopia-launches-wcag-2-1-map/) - All WCAG criteria| EN
 |[Web Accessibility Handbook](https://www.ogcio.gov.hk/en/our_work/community/web_mobileapp_accessibility/promulgating_resources/handbook/)| EN 
 |[Web Accessiblity Test Cases](https://github.com/narayananpalani/webAccessibilityTestCases) | EN 
+|[60-Second Task Unfreezer](https://www.vagushq.com/apps/60s-task-unfreezer) - A zero-login, low-cognitive-demand somatic PWA to overcome task paralysis and autistic inertia| EN
+|[90s Situation Scapes](https://www.vagushq.com/apps/90s-situation-scapes) - Accessible psychoacoustic audio synthesizer running somatic soundscapes in-browser to decompress sensory overload| EN 
 
