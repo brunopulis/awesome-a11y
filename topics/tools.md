@@ -115,6 +115,7 @@
 |[AMA Web](https://amaweb.unifesp.br/) | Validator PT-BR |
 |[ExcellentWebCheck](https://excellentwebcheck.com/website-accessibility-checker)|Mobile, Tablet and Desktop Accessibility Checker & Monitor|
 |[Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)|Google Chrome tool for web page audits
+|[Inkluso](https://inkluso.eu/en/)|Free online check of one page against the automated WCAG 2.1 AA rules (axe-core). No sign-up. The report cites the related provision of the national accessibility act (DE, AT, CZ, PL, SK, NL) where there is one. Not an overlay.|
 |[PageGuard](https://pageguard.qiudeqiu.workers.dev)|Free website scanner with WCAG 2.1 AA accessibility audit. Checks ARIA labels, color contrast, keyboard navigation, heading structure, image alt text, and more. No signup required, results in ~30 seconds.|
 |[RGAA Checker](https://rgaa-checker.com)|Web accessibility scanner aligned with the French RGAA 4.1 standard and WCAG. Combines static analysis, dynamic testing (axe-core) and AI image analysis, generates a conformity declaration, and flags the criteria that require manual verification. FR.|
 |[Sim Daltonism](https://michelf.ca/projects/sim-daltonism/)|A color blindness simulator for Mac and iOS
