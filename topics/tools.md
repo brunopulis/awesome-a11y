@@ -22,6 +22,7 @@
 |[aslint.org](https://www.aslint.org/)|Accessibility testing tool
 |[aXe Core](https://www.npmjs.com/package/axe-core)|Chrome and Firefox extension to audit pages
 |[Checka11y.css](https://checka11y.jackdomleo.dev) | A CSS stylesheet to quickly highlight a11y concerns.
+|[CheckFox Browser Extension](https://checkfox.eu/audit-tools/checkfox-browser-extension/)|Chrome/Firefox extension for manual accessibility audits: automated scan mapped to WCAG, RGAA and RAWeb criteria, 30+ in-page inspection helpers (tab order, headings, alt text, ARIA roles, no-CSS view), and sync of confirmed findings to a CheckFox audit.
 |[Chrome extension: IBM Equal Access Accessibility Checker](https://chrome.google.com/webstore/detail/ibm-equal-access-accessib/lkcagbfjnkomcinoddgooolagloogehp)| A Chrome extension web developer tool that checks web applications for accessibility issues.
 |[Cypress Accessibility Checker](https://www.npmjs.com/package/cypress-accessibility-checker)| Cypress plugin for Accessibility Testing. This plugin is a Cypress flavor of the NodeJS version of accessibility-checker
 |[Depression-Sensitive Web Content Support (DS-WCS)](https://github.com/simonplmak-cloud/depression-sensitive-web-content)|An OpenCode skill that audits and rewrites UI content (error messages, CTAs, forms, empty states) for cognitive accessibility. Maps findings to WCAG 2.2, W3C COGA, ISO 9241-110, and ISO/IEC 30071-1. MIT license, free to install.
@@ -113,6 +114,7 @@
 | --- | --- |
 |[Access Monitor](http://accessmonitor.acessibilidade.gov.pt/)|Validator|
 |[AMA Web](https://amaweb.unifesp.br/) | Validator PT-BR |
+|[CheckFox](https://checkfox.eu/)|Collaborative accessibility audit platform supporting WCAG, RGAA, RAWeb and RAAM: criterion-by-criterion audits with screenshot evidence, conformity score, generated reports and accessibility statements, issue export to Jira, GitHub, GitLab or Linear, AI-assisted auditing options, and a powerful MCP server combining several scanning tools. Free plan available.|
 |[ExcellentWebCheck](https://excellentwebcheck.com/website-accessibility-checker)|Mobile, Tablet and Desktop Accessibility Checker & Monitor|
 |[Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)|Google Chrome tool for web page audits
 |[PageGuard](https://pageguard.qiudeqiu.workers.dev)|Free website scanner with WCAG 2.1 AA accessibility audit. Checks ARIA labels, color contrast, keyboard navigation, heading structure, image alt text, and more. No signup required, results in ~30 seconds.|
