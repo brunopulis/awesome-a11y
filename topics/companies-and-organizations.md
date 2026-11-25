@@ -13,6 +13,7 @@
 | [Audima](https://audima.co/) | _None_ | Audio descriptions |
 |[Awesome japanese a11y companies](https://github.com/yamanoku/awesome-japanese-a11y-companies) | _None_ | An awesome-list of Japanese technology companies that are working on or promoting accessibility. |
 | [Axess Lab](https://axesslab.com/) | [@AxessLab](https://twitter.com/AxessLab) | Auditing, consulting, and training |
+| [CompliCorp](https://complicorp.com/) | _None_ | Manual WCAG audits, Section 508 testing, and VPAT/ACR reporting for software vendors |
 | [Deque Systems](http://www.deque.com/) | [@dequesystems](https://twitter.com/dequesystems) | Auditing, consulting, and training |
 | [Equalize Digital](https://equalizedigital.com/) | [@equalizedigital](https://twitter.com/equalizedigital) | WordPress accessibility plugins, auditing, consulting, WordPress remediation, online courses, free training webinars |
 | [GetWCAG](https://www.getwcag.com) | [@getWCAG](https://x.com/GetWcag) | Auditing, consulting, development and blog,
