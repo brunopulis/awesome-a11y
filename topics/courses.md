@@ -9,6 +9,7 @@
 * [How to Position and Sell Accessibility Offers](https://equalizedigital.com/learn/courses/how-to-position-and-sell-accessibility-offers/)                   
 * [Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)
 * [NVDA Screen Reader Testing (Windows)](https://equalizedigital.com/learn/courses/nvda-screen-reader-testing-for-windows/)                                  
+* [Ramp Up](https://rampup.lu/) - Self-paced digital accessibility courses (starting with auditing against RAWeb) with hands-on practice and a certificate validated by a reviewed final project. EN/FR.
 * [Start Building Accessible Web Applications Today](https://egghead.io/courses/start-building-accessible-web-applications-today)
 * [Teach Access Portal](https://teachaccess.github.io/tutorial/)                                                                  
 * [Testing Accessibility](https://testingaccessibility.com/)
