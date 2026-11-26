@@ -9,6 +9,7 @@
 | [Acessibilidade for Devs](https://github.com/acessibilidade-for-devs/acessibilidade-for-devs.github.io) | PT-BR |
 | [Acessibility for Robots](https://bocoup.com/blog/accessibility-for-robots) | EN |
 | [Acessibilidade Toolkit](https://github.com/acessibilidade/toolkit) | PT-BR |
+| [Accessible Cafe Menu Colors: 12 Text and Background Pairings](https://colorharmonyguide.com/resources/practical-guides/accessible-cafe-menu-colors.html) — AI-assisted opaque-sRGB contrast examples and a menu-review checklist. | EN |
 | [Accessible Mega Menu](https://github.com/adobe-accessibility/Accessible-Mega-Menu) | EN |
 | [ACT-Rules Community](https://act-rules.github.io/rules/) | EN |
 | [APG Gherkin](https://github.com/AFixt/apg-gherkin) | EN |
