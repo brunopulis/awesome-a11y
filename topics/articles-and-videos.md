@@ -8,6 +8,7 @@
 | [A Software Tester's Guide to Web Accessibility](https://dojo.ministryoftesting.com/lessons/a-software-tester-s-guide-to-web-accessibility)
 | [A11Y Dialog](https://github.com/edenspiekermann/a11y-dialog) | from Edenspiekermann, originally Greg Kraus
 | [Accessibility and React: Tips and Best Practices](https://www.aditus.io/talks/react-and-accessibility/) | João Figueiredo
+| [Accessibility Overlay Widgets, Fact-Checked](https://sitepatent.com/blog/accessibility-overlay-widgets-fact-check) | SitePatent
 | [Advice for creating content that works well with screen readers](https://accessibility.blog.gov.uk/2017/02/08/advice-for-creating-content-that-works-well-with-screen-readers/) |  Léonie Watson
 | [An introduction to accessibility: Part 1](https://getflywheel.com/layout/an-introduction-to-accessibility-part-1/) ([Part 2](https://getflywheel.com/layout/an-introduction-to-accessibility-part-2/)) |  Adam Soucie
 | [Automated Accessibility Checking with aXe](https://www.sitepoint.com/automated-accessibility-checking-with-axe/) |  Pavels Jelisejevs
