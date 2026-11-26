@@ -24,6 +24,7 @@
 |[Checka11y.css](https://checka11y.jackdomleo.dev) | A CSS stylesheet to quickly highlight a11y concerns.
 |[Chrome extension: IBM Equal Access Accessibility Checker](https://chrome.google.com/webstore/detail/ibm-equal-access-accessib/lkcagbfjnkomcinoddgooolagloogehp)| A Chrome extension web developer tool that checks web applications for accessibility issues.
 |[Cypress Accessibility Checker](https://www.npmjs.com/package/cypress-accessibility-checker)| Cypress plugin for Accessibility Testing. This plugin is a Cypress flavor of the NodeJS version of accessibility-checker
+|[Damdit](https://damdit.com/cli/)|Website audit that runs axe-core on every rendered page, as a Mac app and a CLI with an MCP server for coding agents. Each issue comes with its page, element and evidence, and audits are compared over time. Paid, with a free trial.
 |[Depression-Sensitive Web Content Support (DS-WCS)](https://github.com/simonplmak-cloud/depression-sensitive-web-content)|An OpenCode skill that audits and rewrites UI content (error messages, CTAs, forms, empty states) for cognitive accessibility. Maps findings to WCAG 2.2, W3C COGA, ISO 9241-110, and ISO/IEC 30071-1. MIT license, free to install.
 |[Enabler](https://github.com/musienkoyuriy/enabler)|Node.js CLI tool that warns you about potential accessibility issues. Supports: Pure HTML, Angular, Vue
 |[Firefox add-on: IBM Equal Access Accessibility Checker](https://addons.mozilla.org/en-US/firefox/addon/accessibility-checker/)| A firefox addon web developer tool that checks web applications for accessibility issues.
